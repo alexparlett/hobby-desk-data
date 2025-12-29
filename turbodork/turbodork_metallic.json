@@ -1,0 +1,780 @@
+[
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#04A87F",
+    "id": "turbodork-absinthe",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Absinthe",
+    "range": "Metallic",
+    "sku": "TDK025076",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/absinthe-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#02581A",
+    "id": "turbodork-apple-seed",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Appleseed",
+    "range": "Metallic",
+    "sku": "TDK025106",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/apple-seed-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D8A601",
+    "id": "turbodork-bees-knees",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bees Knees",
+    "range": "Metallic",
+    "sku": "TDK025113",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/bees-knees-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#292F34",
+    "id": "turbodork-black-ice",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Ice",
+    "range": "Metallic",
+    "sku": "TDK025120",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/black-ice-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Highlight",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#214B63",
+    "id": "turbodork-blue-steel",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Steel",
+    "range": "Metallic",
+    "sku": "TDK025151",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/blue-steel-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#38181A",
+    "id": "turbodork-box-wine",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Box Wine",
+    "range": "Metallic",
+    "sku": "TDK025168",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/box-wine-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A95C07",
+    "id": "turbodork-bullion",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bullion",
+    "range": "Metallic",
+    "sku": "TDK025182",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/bullion-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D37F14",
+    "id": "turbodork-cartridge-family",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cartridge Family",
+    "range": "Metallic",
+    "sku": "TDK025144",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/cartridge-family-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#024AA8",
+    "id": "turbodork-cool-ranch",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cool Ranch",
+    "range": "Metallic",
+    "sku": "TDK025212",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/cool-ranch-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#04A7A7",
+    "id": "turbodork-curacao",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Curacao",
+    "range": "Metallic",
+    "sku": "TDK025236",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/curacao-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#0383CC",
+    "id": "turbodork-da-ba-dee",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Da Ba Dee",
+    "range": "Metallic",
+    "sku": "TDK025250",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/da-ba-dee-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#54321B",
+    "id": "turbodork-death-by",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Death By",
+    "range": "Metallic",
+    "sku": "TDK025281",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/death-by-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#0C6F9A",
+    "id": "turbodork-dork",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dork",
+    "range": "Metallic",
+    "sku": "TDK025298",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/dork-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#DA490B",
+    "id": "turbodork-fahrenheit",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fahrenheit",
+    "range": "Metallic",
+    "sku": "TDK025335",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/fahrenheit"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C58A23",
+    "id": "turbodork-gold-rush",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold Rush",
+    "range": "Metallic",
+    "sku": "TDK025366",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/gold-rush-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#203A20",
+    "id": "turbodork-gordian-knot",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gordian Knot",
+    "range": "Metallic",
+    "sku": "TDK025373",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/gordian-knot-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#911045",
+    "id": "turbodork-hotline",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hotline",
+    "range": "Metallic",
+    "sku": "TDK025410",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/hotline-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#922F15",
+    "id": "turbodork-life-on-mars",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Life On Mars",
+    "range": "Metallic",
+    "sku": "TDK025465",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/life-on-mars-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Highlight",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#1D7291",
+    "id": "turbodork-maguro",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Maguro",
+    "range": "Metallic",
+    "sku": "TDK025489",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/maguro-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Highlight",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#547031",
+    "id": "turbodork-malum-malus",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Malum Malus",
+    "range": "Metallic",
+    "sku": "TDK025496",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/malum-malus-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B22D01",
+    "id": "turbodork-multi-pass",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Multipass",
+    "range": "Metallic",
+    "sku": "TDK025540",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/multi-pass-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#D46E0B",
+    "id": "turbodork-orange-you-glad",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange You Glad",
+    "range": "Metallic",
+    "sku": "TDK025557",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/orange-you-glad-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Highlight",
+      "recommendedBasecoat": "White"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B8BBB8",
+    "id": "turbodork-pearly-gates",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pearly Gates",
+    "range": "Metallic",
+    "sku": "TDK025571",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/pearly-gates-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#491772",
+    "id": "turbodork-people-eater",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "People Eater",
+    "range": "Metallic",
+    "sku": "TDK025588",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/people-eater-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E59001",
+    "id": "turbodork-pucker",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pucker",
+    "range": "Metallic",
+    "sku": "TDK025601",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/pucker-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#343E59",
+    "id": "turbodork-purl-grey",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purl Grey",
+    "range": "Metallic",
+    "sku": "TDK025618",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/purl-grey-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#651D23",
+    "id": "turbodork-red-queen",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Queen",
+    "range": "Metallic",
+    "sku": "TDK025649",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/red-queen"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#54090B",
+    "id": "turbodork-redrum",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Redrum",
+    "range": "Metallic",
+    "sku": "TDK025656",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/redrum-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Highlight",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#934051",
+    "id": "turbodork-sakura",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sakura",
+    "range": "Metallic",
+    "sku": "TDK025670",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/sakura-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#798185",
+    "id": "turbodork-silver-fox",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Silver Fox",
+    "range": "Metallic",
+    "sku": "TDK025717",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/silver-fox-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#38424B",
+    "id": "turbodork-six-shooter",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Six Shooter",
+    "range": "Metallic",
+    "sku": "TDK025724",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/six-shooter-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#594F41",
+    "id": "turbodork-sparkle-motion",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sparkle Motion",
+    "range": "Metallic",
+    "sku": "TDK025748",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/sparkle-motion-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#531816",
+    "id": "turbodork-spicy-meatball",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spicy Meatball",
+    "range": "Metallic",
+    "sku": "TDK025755",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/spicy-meatball-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B5115",
+    "id": "turbodork-summoning-sickness",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Summoning Sickness",
+    "range": "Metallic",
+    "sku": "TDK025779",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/summoning-sickness-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#60344A",
+    "id": "turbodork-syringa",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Syringa",
+    "range": "Metallic",
+    "sku": "TDK025786",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/syringa"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Highlight",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#534C76",
+    "id": "turbodork-taro",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Taro",
+    "range": "Metallic",
+    "sku": "TDK025793",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/taro-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Highlight",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#5A5855",
+    "id": "turbodork-tin-star",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tin Star",
+    "range": "Metallic",
+    "sku": "TDK025809",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/tin-star-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Colored"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#AD4E5A",
+    "id": "turbodork-turbo",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turbo",
+    "range": "Metallic",
+    "sku": "TDK025816",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/turbo-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#683108",
+    "id": "turbodork-two-cents",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Two Cents",
+    "range": "Metallic",
+    "sku": "TDK025830",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/two-cents-1"
+  }
+]

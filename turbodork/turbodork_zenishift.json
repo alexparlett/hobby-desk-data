@@ -1,0 +1,156 @@
+[
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "pink-gold",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Zenithal"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A87458",
+    "id": "turbodork-bubblegum-crisis",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bubblegum Crisis",
+    "range": "ZeniShift",
+    "sku": "TDK015175",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/bubblegum-crisis-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "pink-green",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Zenithal"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#485E50",
+    "id": "turbodork-fae-wylds",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fae Wylds",
+    "range": "ZeniShift",
+    "sku": "TDK015328",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/fae-wylds-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "orange-green",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Zenithal"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#574720",
+    "id": "turbodork-hemogoblin",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hemogoblin",
+    "range": "ZeniShift",
+    "sku": "TDK015403",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/hemogoblin-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "lavender-blue",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Zenithal"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#3452A2",
+    "id": "turbodork-midnight-city",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Midnight City",
+    "range": "ZeniShift",
+    "sku": "TDK015519",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/midnight-city"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "pink-blue",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Zenithal"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B6FA4",
+    "id": "turbodork-prism-power",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Prism Power",
+    "range": "ZeniShift",
+    "sku": "TDK015595",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/prism-power-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "pink-purple",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Zenithal"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C2D84",
+    "id": "turbodork-romeo-juliet",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Romeo / Juliet",
+    "range": "ZeniShift",
+    "sku": "TDK015663",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/romeo-juliet-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "blue-green",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Zenithal"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#32755F",
+    "id": "turbodork-twin-sons",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Twin Sons",
+    "range": "ZeniShift",
+    "sku": "TDK015823",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/twin-sons-1"
+  }
+]

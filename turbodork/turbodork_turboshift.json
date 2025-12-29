@@ -1,0 +1,706 @@
+[
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "magenta-turquoise",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#294E53",
+    "id": "turbodork-3d-glasses",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "3D Glasses",
+    "range": "Turboshift",
+    "sku": "TDK015014",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/3d-glasses-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "azure-magenta",
+      "tone": "Highlight",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#046963",
+    "id": "turbodork-4d-glasses",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "4D Glasses",
+    "range": "Turboshift",
+    "sku": "TDK015069",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/4d-glasses-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "copper-grass",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#BB792F",
+    "id": "turbodork-afterburner",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Afterburner",
+    "range": "Turboshift",
+    "sku": "TDK015083",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/afterburner-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "azure-orchid",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#056FB1",
+    "id": "turbodork-blue-raspberry",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Raspberry",
+    "range": "Turboshift",
+    "sku": "TDK015137",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/blue-raspberry-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "orchid-yellow",
+      "tone": "Highlight",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#885765",
+    "id": "turbodork-cloud-nine",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cloud Nine",
+    "range": "Turboshift",
+    "sku": "TDK015199",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/cloud-nine-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "blue-turquoise",
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#044460",
+    "id": "turbodork-cold-open",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cold Open",
+    "range": "Turboshift",
+    "sku": "TDK015205",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/cold-open-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "orchid-sky",
+      "tone": "Highlight",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#317E9E",
+    "id": "turbodork-crystal-cavern",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crystal Cavern",
+    "range": "Turboshift",
+    "sku": "TDK015229",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/crystal-cavern-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "blue-purple",
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#072055",
+    "id": "turbodork-cyberia",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cyberia",
+    "range": "Turboshift",
+    "sku": "TDK015243",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/cyberia-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "brown-green",
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#372D25",
+    "id": "turbodork-dark-net",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Net",
+    "range": "Turboshift",
+    "sku": "TDK015267",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/dark-net-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "brass-grass",
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#5F406F",
+    "id": "turbodork-dark-ritual",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Ritual",
+    "range": "Turboshift",
+    "sku": "TDK015274",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/dark-ritual"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "blue-magenta",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#411C1B",
+    "id": "turbodork-dream-on",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dream On",
+    "range": "Turboshift",
+    "sku": "TDK015304",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/dream-on"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "brass-mint",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6A7041",
+    "id": "turbodork-electrum",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Electrum",
+    "range": "Turboshift",
+    "sku": "TDK015311",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/electrum-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "jade-lavender",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#556248",
+    "id": "turbodork-forrest-flux",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Forrest Flux",
+    "range": "Turboshift",
+    "sku": "TDK015342",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/forrest-flux-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "black-lavender",
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#272361",
+    "id": "turbodork-galaxia",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Galaxia",
+    "range": "Turboshift",
+    "sku": "TDK015359",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/galaxia-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "brown-green",
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#232A1C",
+    "id": "turbodork-grave-robber",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grave Robber",
+    "range": "Turboshift",
+    "sku": "TDK015380",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/grave-robber-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "orange-russet",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#55210A",
+    "id": "turbodork-ground-is-lava",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ground Is Lava",
+    "range": "Turboshift",
+    "sku": "TDK015397",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/ground-is-lava-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "lavender-turquoise",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#078FAD",
+    "id": "turbodork-ice-to-never",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ice To Never",
+    "range": "Turboshift",
+    "sku": "TDK015427",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/ice-to-never-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "burgundy-green",
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#3C1823",
+    "id": "turbodork-laserface",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Laserface",
+    "range": "Turboshift",
+    "sku": "TDK015434",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/laserface-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "blue-orange",
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#273266",
+    "id": "turbodork-let-them-eat-cake",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Let Them Eat Cake",
+    "range": "Turboshift",
+    "sku": "TDK015441",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/let-them-eat-cake-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "blue-green",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#11705A",
+    "id": "turbodork-leviathan",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leviathan",
+    "range": "Turboshift",
+    "sku": "TDK015458",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/leviathan"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "plum-russet",
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#321028",
+    "id": "turbodork-lunar-eclipse",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lunar Eclipse",
+    "range": "Turboshift",
+    "sku": "TDK015472",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/lunar-eclipse-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "burgundy-copper",
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#261917",
+    "id": "turbodork-molten-mantle",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Molten Mantle",
+    "range": "Turboshift",
+    "sku": "TDK015526",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/molten-mantle-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "multicolor-white",
+      "tone": "Multitone",
+      "recommendedBasecoat": "White"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#747E76",
+    "id": "turbodork-mother-lode",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mother Lode",
+    "range": "Turboshift",
+    "sku": "TDK015533",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/mother-lode-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "azure-turquoise",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#0A838A",
+    "id": "turbodork-peacock",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Peacock",
+    "range": "Turboshift",
+    "sku": "TDK015564",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/peacock"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "grass-yellow",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A88F26",
+    "id": "turbodork-radium",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Radium",
+    "range": "Turboshift",
+    "sku": "TDK015625",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/radium-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "black-multicolor",
+      "tone": "Multitone",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#231E29",
+    "id": "turbodork-rainbow-roll",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rainbow Roll",
+    "range": "Turboshift",
+    "sku": "TDK015632",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/rainbow-roll-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "blue-jade",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#335526",
+    "id": "turbodork-scarab",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scarab",
+    "range": "Turboshift",
+    "sku": "TDK015687",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/scarab-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "magenta-mint",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#845381",
+    "id": "turbodork-shell-shocked",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shell Shocked",
+    "range": "Turboshift",
+    "sku": "TDK015694",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/shell-shocked-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "brass-brown",
+      "tone": "Midrange",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#483314",
+    "id": "turbodork-shifting-sands",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shifting Sands",
+    "range": "Turboshift",
+    "sku": "TDK015700",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/shifting-sands-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "blue-green",
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#1D3341",
+    "id": "turbodork-sky-rat",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skyrat",
+    "range": "Turboshift",
+    "sku": "TDK015731",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/sky-rat-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "lavender-orchid",
+      "tone": "Highlight",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#5C3F7A",
+    "id": "turbodork-sugar-rush",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sugar Rush",
+    "range": "Turboshift",
+    "sku": "TDK015762",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/sugar-rush-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {
+      "colorShift": true,
+      "shiftColors": "blue-purple",
+      "tone": "Shadow",
+      "recommendedBasecoat": "Black"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#0F304C",
+    "id": "turbodork-wave-length",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wavelength",
+    "range": "Turboshift",
+    "sku": "TDK015847",
+    "type": "metallic",
+    "url": "https://turbodork.com/products/wave-length-1"
+  }
+]

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "commitHash": "d094031d0da40cc12aa379c77912fed9e2b6524d",
-  "generatedAt": "2025-12-29T14:34:29.767217Z",
-  "totalPaints": 4104,
+  "commitHash": "1fa6ef1e39c4e909ae4922c79d5d4542cf5e6898",
+  "generatedAt": "2025-12-29T17:11:55.428678Z",
+  "totalPaints": 4184,
   "files": [
     {
       "brand": "AK Interactive",
@@ -132,13 +132,6 @@
     },
     {
       "brand": "Scale75",
-      "range": "FX Fluor",
-      "path": "scale75/scale75_fx_fluor.json",
-      "hash": "sha256:18ee7481e7e4ac262eb6cd31f732351aafa3ec10ab9412854fcbb6a3ed4bd528",
-      "paintCount": 8
-    },
-    {
-      "brand": "Scale75",
       "range": "Fantasy & Games",
       "path": "scale75/scale75_fantasy_games.json",
       "hash": "sha256:aeec6f06b1b91697cc8d21f09ac4b7979ab4fbd5b6b2b34f84cff1bc4da311bd",
@@ -150,6 +143,13 @@
       "path": "scale75/scale75_flow.json",
       "hash": "sha256:7d7409e257a5b290ff423ebd9e119d3f4fe4ebe7857ae4c694c3ef8842d9c4ad",
       "paintCount": 24
+    },
+    {
+      "brand": "Scale75",
+      "range": "FX Fluor",
+      "path": "scale75/scale75_fx_fluor.json",
+      "hash": "sha256:18ee7481e7e4ac262eb6cd31f732351aafa3ec10ab9412854fcbb6a3ed4bd528",
+      "paintCount": 8
     },
     {
       "brand": "Scale75",
@@ -227,6 +227,34 @@
       "path": "army-painter/warpaints-fanatic.json",
       "hash": "sha256:afa23f8847cdccb6ba6099d6571c452a92c35b031f256995b8592336f0aed34b",
       "paintCount": 216
+    },
+    {
+      "brand": "Turbodork",
+      "range": "Mediums",
+      "path": "turbodork/turbodork_mediums.json",
+      "hash": "sha256:9395b39a3347a13dc3c2b075fe0f94473b6276f366d7161a6ec6707a6f1eb9ee",
+      "paintCount": 2
+    },
+    {
+      "brand": "Turbodork",
+      "range": "Metallic",
+      "path": "turbodork/turbodork_metallic.json",
+      "hash": "sha256:9ce8bbe08ac55baf033ac9eb0b8b4e7c421498515f31e177a9881d7dffacfc0d",
+      "paintCount": 39
+    },
+    {
+      "brand": "Turbodork",
+      "range": "Turboshift",
+      "path": "turbodork/turbodork_turboshift.json",
+      "hash": "sha256:1c8ce7581c128b2d1d90392364bced0e7bebc11fadb5f12d2517980cdb88582c",
+      "paintCount": 32
+    },
+    {
+      "brand": "Turbodork",
+      "range": "ZeniShift",
+      "path": "turbodork/turbodork_zenishift.json",
+      "hash": "sha256:f3ebba2158630f842a5df9ecebdac1d0a84588fd81884425ec45d1c10aafa12b",
+      "paintCount": 7
     },
     {
       "brand": "Two Thin Coats",

@@ -1,0 +1,36 @@
+[
+  {
+    "brand": "Turbodork",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#51474B",
+    "id": "turbodork-thinning-medium-1-x-120-ml-bottle-copy",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turbo Dork Thinning Medium - 120ml",
+    "range": "Mediums",
+    "sku": "TDK055878",
+    "type": "technical",
+    "url": "https://turbodork.com/products/thinning-medium-1-x-120-ml-bottle-copy-1"
+  },
+  {
+    "brand": "Turbodork",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BCAEB3",
+    "id": "turbodork-turbo-dork-thinning-medium-22ml",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turbo Dork Thinning Medium - 22ml",
+    "range": "Mediums",
+    "sku": "TDK055861",
+    "type": "technical",
+    "url": "https://turbodork.com/products/turbo-dork-thinning-medium-22ml"
+  }
+]
