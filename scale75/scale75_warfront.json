@@ -1,0 +1,1090 @@
+[
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B8A22B",
+    "id": "scale75-sw-00",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dunkelgelb",
+    "range": "Warfront",
+    "sku": "SW-00",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dunkelgelb-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8D924D",
+    "id": "scale75-sw-01",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olivgr\u00fcn",
+    "range": "Warfront",
+    "sku": "SW-01",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/olivegrun-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AB9078",
+    "id": "scale75-sw-02",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rotbraun",
+    "range": "Warfront",
+    "sku": "SW-02",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/rotbraun-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B07059",
+    "id": "scale75-sw-03",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rotbraun Primer",
+    "range": "Warfront",
+    "sku": "SW-03",
+    "type": "primer",
+    "url": "https://scale75.com/en/products/rotbraun-primer-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5F6065",
+    "id": "scale75-sw-04",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dunkelgrau",
+    "range": "Warfront",
+    "sku": "SW-04",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dunkelgrau-gray"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D6653",
+    "id": "scale75-sw-05",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dunkelbraun",
+    "range": "Warfront",
+    "sku": "SW-05",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dunkelbraun-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C0A16B",
+    "id": "scale75-sw-06",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gelbbraun",
+    "range": "Warfront",
+    "sku": "SW-06",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/gelbraun-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9A854B",
+    "id": "scale75-sw-07",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Graugr\u00fcn",
+    "range": "Warfront",
+    "sku": "SW-07",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/graugrun-gray"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#996E40",
+    "id": "scale75-sw-08",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camo Medium Brown",
+    "range": "Warfront",
+    "sku": "SW-08",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ss-camo-medium-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7C7941",
+    "id": "scale75-sw-09",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camo Dark Green",
+    "range": "Warfront",
+    "sku": "SW-09",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ss-camo-dark-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BAC298",
+    "id": "scale75-sw-10",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camo Medium Green",
+    "range": "Warfront",
+    "sku": "SW-10",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ss-camo-medium-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C9C653",
+    "id": "scale75-sw-11",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camo Light Green",
+    "range": "Warfront",
+    "sku": "SW-11",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ss-camo-light-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BF9E4C",
+    "id": "scale75-sw-12",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ochre Brown Camouflage",
+    "range": "Warfront",
+    "sku": "SW-12",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ss-camo-ocher-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A1835F",
+    "id": "scale75-sw-13",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camo Grey Brown",
+    "range": "Warfront",
+    "sku": "SW-13",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ss-camo-gray-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F4C579",
+    "id": "scale75-sw-14",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camo Highlights",
+    "range": "Warfront",
+    "sku": "SW-14",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ss-camo-highlights"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#46413A",
+    "id": "scale75-sw-15",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flat Black",
+    "range": "Warfront",
+    "sku": "SW-15",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/flat-black"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B19C6E",
+    "id": "scale75-sw-16",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camo Grey",
+    "range": "Warfront",
+    "sku": "SW-16",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ss-camo-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#95663F",
+    "id": "scale75-sw-17",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Brown Camo",
+    "range": "Warfront",
+    "sku": "SW-17",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ss-camo-red-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3A272F",
+    "id": "scale75-sw-18",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camo Dark Brown",
+    "range": "Warfront",
+    "sku": "SW-18",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ss-camo-dark-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DAA32B",
+    "id": "scale75-sw-19",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Brown Camo",
+    "range": "Warfront",
+    "sku": "SW-19",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/ss-camo-golden-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#62764C",
+    "id": "scale75-sw-20",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Italian Green Camo",
+    "range": "Warfront",
+    "sku": "SW-20",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ss-camo-italian-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C5A85D",
+    "id": "scale75-sw-21",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camo Yellow Sand",
+    "range": "Warfront",
+    "sku": "SW-21",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ss-camo-yellow-sand"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F9DD9A",
+    "id": "scale75-sw-22",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camo Top Lights",
+    "range": "Warfront",
+    "sku": "SW-22",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ss-camo-top-lights"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3A3633",
+    "id": "scale75-sw-23",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camo Top Shadows",
+    "range": "Warfront",
+    "sku": "SW-23",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ss-camo-top-shadows"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B2A67E",
+    "id": "scale75-sw-24",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dunkelgelb 44",
+    "range": "Warfront",
+    "sku": "SW-24",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dunkelgelb-44"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8B6446",
+    "id": "scale75-sw-25",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rotbraun 44",
+    "range": "Warfront",
+    "sku": "SW-25",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/rotbraun-44"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#949E53",
+    "id": "scale75-sw-26",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olivgr\u00fcn 44",
+    "range": "Warfront",
+    "sku": "SW-26",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/olivegrun-44"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AFAE9A",
+    "id": "scale75-sw-27",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Creamy Weiss",
+    "range": "Warfront",
+    "sku": "SW-27",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/cremeweiss"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CAAB5F",
+    "id": "scale75-sw-28",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Braun",
+    "range": "Warfront",
+    "sku": "SW-28",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/braun"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B3A47B",
+    "id": "scale75-sw-29",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grau",
+    "range": "Warfront",
+    "sku": "SW-29",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/grau"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BCA351",
+    "id": "scale75-sw-30",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Ochre",
+    "range": "Warfront",
+    "sku": "SW-30",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/green-ochre"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BAA877",
+    "id": "scale75-sw-31",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Yellow",
+    "range": "Warfront",
+    "sku": "SW-31",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/desert-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C9BA78",
+    "id": "scale75-sw-32",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sand Yellow",
+    "range": "Warfront",
+    "sku": "SW-32",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sand-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#846A52",
+    "id": "scale75-sw-33",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Earth",
+    "range": "Warfront",
+    "sku": "SW-33",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dark-earth"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A7864A",
+    "id": "scale75-sw-34",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Earth",
+    "range": "Warfront",
+    "sku": "SW-34",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/pale-earth"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A0A57E",
+    "id": "scale75-sw-35",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Brown",
+    "range": "Warfront",
+    "sku": "SW-35",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/olive-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C9AB49",
+    "id": "scale75-sw-36",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sahara Sand",
+    "range": "Warfront",
+    "sku": "SW-36",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sahara-sand"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#363D54",
+    "id": "scale75-sw-37",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leaden Sky",
+    "range": "Warfront",
+    "sku": "SW-37",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/leaden-sky"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#677458",
+    "id": "scale75-sw-38",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Field Grey 1",
+    "range": "Warfront",
+    "sku": "SW-38",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/field-grey-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#545D40",
+    "id": "scale75-sw-39",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Field Grey 2",
+    "range": "Warfront",
+    "sku": "SW-39",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/field-grey-2"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7C6D5D",
+    "id": "scale75-sw-40",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Titanium Grey",
+    "range": "Warfront",
+    "sku": "SW-40",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/titanium-gray"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#806D67",
+    "id": "scale75-sw-41",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Smoke Grey",
+    "range": "Warfront",
+    "sku": "SW-41",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/smoke-gray"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#473B3E",
+    "id": "scale75-sw-42",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Slate Grey",
+    "range": "Warfront",
+    "sku": "SW-42",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/slate-gray"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#505933",
+    "id": "scale75-sw-43",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Green",
+    "range": "Warfront",
+    "sku": "SW-43",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/russian-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7C7D3D",
+    "id": "scale75-sw-44",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Light Green",
+    "range": "Warfront",
+    "sku": "SW-44",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/russian-light-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#90744B",
+    "id": "scale75-sw-45",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russian Uniform",
+    "range": "Warfront",
+    "sku": "SW-45",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/russian-uniform"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2F2A30",
+    "id": "scale75-sw-46",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Panzer Grey",
+    "range": "Warfront",
+    "sku": "SW-46",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/panzer-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AE9D54",
+    "id": "scale75-sw-47",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Panzer Yellow",
+    "range": "Warfront",
+    "sku": "SW-47",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/panzer-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7F6E3F",
+    "id": "scale75-sw-48",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "American Olive",
+    "range": "Warfront",
+    "sku": "SW-48",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/american-olive"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E8F96",
+    "id": "scale75-sw-49",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ocean Grey",
+    "range": "Warfront",
+    "sku": "SW-49",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ocean-gray"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A27F5C",
+    "id": "scale75-sw-50",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Medium Brown",
+    "range": "Warfront",
+    "sku": "SW-50",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/us-medium-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AD8A6B",
+    "id": "scale75-sw-51",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Dark Brown",
+    "range": "Warfront",
+    "sku": "SW-51",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/us-dark-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#78745E",
+    "id": "scale75-sw-52",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Us Green",
+    "range": "Warfront",
+    "sku": "SW-52",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/us-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D3072C",
+    "id": "scale75-sw-53",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Label",
+    "range": "Warfront",
+    "sku": "SW-53",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/red-label"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CAAC00",
+    "id": "scale75-sw-54",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Code",
+    "range": "Warfront",
+    "sku": "SW-54",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/yellow-code"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0C629D",
+    "id": "scale75-sw-55",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Flight Blue",
+    "range": "Warfront",
+    "sku": "SW-55",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/flight-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7EA3CE",
+    "id": "scale75-sw-56",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Sky",
+    "range": "Warfront",
+    "sku": "SW-56",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/light-sky"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#67728F",
+    "id": "scale75-sw-57",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shadow Blue",
+    "range": "Warfront",
+    "sku": "SW-57",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/shadow-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DCDCDC",
+    "id": "scale75-sw-58",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White",
+    "range": "Warfront",
+    "sku": "SW-58",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/white-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C95E12",
+    "id": "scale75-sw-59",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange",
+    "range": "Warfront",
+    "sku": "SW-59",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/orange"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1F4967",
+    "id": "scale75-sw-60",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ocean Blue",
+    "range": "Warfront",
+    "sku": "SW-60",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ocean-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#193455",
+    "id": "scale75-sw-61",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Ocean",
+    "range": "Warfront",
+    "sku": "SW-61",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/deep-ocean"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#85837D",
+    "id": "scale75-sw-62",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Winter Shadow",
+    "range": "Warfront",
+    "sku": "SW-62",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/winter-shadow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7C8282",
+    "id": "scale75-sw-63",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Winter Grey",
+    "range": "Warfront",
+    "sku": "SW-63",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/winter-grey"
+  }
+]

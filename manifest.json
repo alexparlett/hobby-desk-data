@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "commitHash": "8818f19cdb454238e864ef66785507aea7082edb",
-  "generatedAt": "2025-12-29T01:48:53.291171Z",
-  "totalPaints": 3140,
+  "commitHash": "e2ae29dd5f2afa773dc2fefb2c7f6d5efd09068c",
+  "generatedAt": "2025-12-29T13:36:53.337123Z",
+  "totalPaints": 3695,
   "files": [
     {
       "brand": "AK Interactive",
@@ -101,6 +101,83 @@
       "path": "monument-hobbies/pro-acryl.json",
       "hash": "sha256:8e137527a095f1dc8e846bbb45d260e3d43d1d094b0f1dc0dd0061ebeb7a641c",
       "paintCount": 179
+    },
+    {
+      "brand": "Scale75",
+      "range": "Drop & Paint",
+      "path": "scale75/scale75_drop_paint.json",
+      "hash": "sha256:1faec3647c8157f55b00043f74db953ba1fdbd31d0c83b18a932cba1c0da5645",
+      "paintCount": 128
+    },
+    {
+      "brand": "Scale75",
+      "range": "FX Fluor",
+      "path": "scale75/scale75_fx_fluor.json",
+      "hash": "sha256:18ee7481e7e4ac262eb6cd31f732351aafa3ec10ab9412854fcbb6a3ed4bd528",
+      "paintCount": 8
+    },
+    {
+      "brand": "Scale75",
+      "range": "Fantasy & Games",
+      "path": "scale75/scale75_fantasy_games.json",
+      "hash": "sha256:aeec6f06b1b91697cc8d21f09ac4b7979ab4fbd5b6b2b34f84cff1bc4da311bd",
+      "paintCount": 48
+    },
+    {
+      "brand": "Scale75",
+      "range": "Flow",
+      "path": "scale75/scale75_flow.json",
+      "hash": "sha256:7d7409e257a5b290ff423ebd9e119d3f4fe4ebe7857ae4c694c3ef8842d9c4ad",
+      "paintCount": 24
+    },
+    {
+      "brand": "Scale75",
+      "range": "Inktensity",
+      "path": "scale75/scale75_inktensity.json",
+      "hash": "sha256:d84e8d5a3180f329ed8f7cf9b3a861deac9faa871199483d9f12721d35ca3562",
+      "paintCount": 16
+    },
+    {
+      "brand": "Scale75",
+      "range": "Instant Colors",
+      "path": "scale75/scale75_instant_colors.json",
+      "hash": "sha256:ea28a5474e7cc01c9fd475d5f2faa62b83a6fdfaafc6f9bef631a6df533e9d4e",
+      "paintCount": 48
+    },
+    {
+      "brand": "Scale75",
+      "range": "Metal n' Alchemy",
+      "path": "scale75/scale75_metal_alchemy.json",
+      "hash": "sha256:6f25738885ddf78f29505734ec00a65bbcae3fec7a04e2ff9dc500a3a3cf81d2",
+      "paintCount": 24
+    },
+    {
+      "brand": "Scale75",
+      "range": "Scale Color",
+      "path": "scale75/scale75_scale_color.json",
+      "hash": "sha256:75e65cda2e29cfec316c98d337589d26aa776539187719e12559171c5ba294d0",
+      "paintCount": 63
+    },
+    {
+      "brand": "Scale75",
+      "range": "Scalecolor Artist",
+      "path": "scale75/scale75_artist.json",
+      "hash": "sha256:c79c1bc777e72dc3da83d8a9ff99c33d69373dd0aaafc9a6e2469c6b9e2d4100",
+      "paintCount": 84
+    },
+    {
+      "brand": "Scale75",
+      "range": "Scalecolor Games",
+      "path": "scale75/scale75_scalecolor_games.json",
+      "hash": "sha256:8e18f35c74c14b604e1c2e885824519d5126d0e0d0bb69944bdfbd920893fe99",
+      "paintCount": 48
+    },
+    {
+      "brand": "Scale75",
+      "range": "Warfront",
+      "path": "scale75/scale75_warfront.json",
+      "hash": "sha256:c5f2c0a628edbaedf7d181462be6b66bd54cc273e2e5f2c7c080dd02c82c79f9",
+      "paintCount": 64
     },
     {
       "brand": "The Army Painter",

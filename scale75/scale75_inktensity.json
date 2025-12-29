@@ -1,0 +1,274 @@
+[
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2F910C",
+    "id": "scale75-sc-100",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Lime",
+    "range": "Inktensity",
+    "sku": "SC-100",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-lime"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#455B2B",
+    "id": "scale75-sc-101",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Olive",
+    "range": "Inktensity",
+    "sku": "SC-101",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-olive"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EAEAEA",
+    "id": "scale75-sc-102",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense White",
+    "range": "Inktensity",
+    "sku": "SC-102",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-white"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#27201D",
+    "id": "scale75-sc-79",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Black",
+    "range": "Inktensity",
+    "sku": "SC-79",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-black"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#975712",
+    "id": "scale75-sc-80",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Wood",
+    "range": "Inktensity",
+    "sku": "SC-80",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-wood"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A85D1E",
+    "id": "scale75-sc-81",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Chestnut",
+    "range": "Inktensity",
+    "sku": "SC-81",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-chesnut"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3B206F",
+    "id": "scale75-sc-82",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Violet",
+    "range": "Inktensity",
+    "sku": "SC-82",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-violet"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#172F8F",
+    "id": "scale75-sc-83",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Blue",
+    "range": "Inktensity",
+    "sku": "SC-83",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#057D63",
+    "id": "scale75-sc-84",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Green",
+    "range": "Inktensity",
+    "sku": "SC-84",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C1372C",
+    "id": "scale75-sc-85",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Red",
+    "range": "Inktensity",
+    "sku": "SC-85",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CABF24",
+    "id": "scale75-sc-86",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Yellow",
+    "range": "Inktensity",
+    "sku": "SC-86",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5A4537",
+    "id": "scale75-sc-95",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Brown",
+    "range": "Inktensity",
+    "sku": "SC-95",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AB1F2D",
+    "id": "scale75-sc-96",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Crimson",
+    "range": "Inktensity",
+    "sku": "SC-96",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-crimson"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A9322B",
+    "id": "scale75-sc-97",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Oxide",
+    "range": "Inktensity",
+    "sku": "SC-97",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-oxide"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B06D1F",
+    "id": "scale75-sc-98",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Ochre",
+    "range": "Inktensity",
+    "sku": "SC-98",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-ochre"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0E5DAC",
+    "id": "scale75-sc-99",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Inktense Cyan",
+    "range": "Inktensity",
+    "sku": "SC-99",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/inktense-cyan"
+  }
+]

@@ -1,0 +1,1430 @@
+[
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2A2927",
+    "id": "scale75-sart-01",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Art White",
+    "range": "Scalecolor Artist",
+    "sku": "SART-01",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/blanco-arte"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#131112",
+    "id": "scale75-sart-02",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Art Black",
+    "range": "Scalecolor Artist",
+    "sku": "SART-02",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/negro-arte"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#467ACB",
+    "id": "scale75-sart-03",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Primary Blue",
+    "range": "Scalecolor Artist",
+    "sku": "SART-03",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/azul-primario"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B1A831",
+    "id": "scale75-sart-04",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Primary Yellow",
+    "range": "Scalecolor Artist",
+    "sku": "SART-04",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/amarillo-primario"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CE3135",
+    "id": "scale75-sart-05",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Primary Red",
+    "range": "Scalecolor Artist",
+    "sku": "SART-05",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/rojo-primario"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#412721",
+    "id": "scale75-sart-06",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Sienna Umber",
+    "range": "Scalecolor Artist",
+    "sku": "SART-06",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/tierra-siena-tostada"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#925B55",
+    "id": "scale75-sart-07",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pink Flesh",
+    "range": "Scalecolor Artist",
+    "sku": "SART-07",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/carne-rosada"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C8A363",
+    "id": "scale75-sart-08",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Flesh",
+    "range": "Scalecolor Artist",
+    "sku": "SART-08",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/carne-dorada"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C69B86",
+    "id": "scale75-sart-09",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Skin",
+    "range": "Scalecolor Artist",
+    "sku": "SART-09",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/piel-clara"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B7253C",
+    "id": "scale75-sart-10",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crimson",
+    "range": "Scalecolor Artist",
+    "sku": "SART-10",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/carmesi"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#404F22",
+    "id": "scale75-sart-11",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moss Green",
+    "range": "Scalecolor Artist",
+    "sku": "SART-11",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/verde-musgo"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#583425",
+    "id": "scale75-sart-12",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Skin",
+    "range": "Scalecolor Artist",
+    "sku": "SART-12",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/piel-tostada"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9D8F6E",
+    "id": "scale75-sart-13",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Buff",
+    "range": "Scalecolor Artist",
+    "sku": "SART-13",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ante"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#948A88",
+    "id": "scale75-sart-14",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pearl Grey",
+    "range": "Scalecolor Artist",
+    "sku": "SART-14",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/gris-perla"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6C6A8D",
+    "id": "scale75-sart-15",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet Grey",
+    "range": "Scalecolor Artist",
+    "sku": "SART-15",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/gris-violeta"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3E4249",
+    "id": "scale75-sart-16",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Grey",
+    "range": "Scalecolor Artist",
+    "sku": "SART-16",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/gris-verdoso"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D5C05E",
+    "id": "scale75-sart-17",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vanilla Yellow",
+    "range": "Scalecolor Artist",
+    "sku": "SART-17",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/amarillo-vainilla"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D18E3F",
+    "id": "scale75-sart-18",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Naples",
+    "range": "Scalecolor Artist",
+    "sku": "SART-18",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/amarillo-napoles"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D2A213",
+    "id": "scale75-sart-19",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Intense Yellow",
+    "range": "Scalecolor Artist",
+    "sku": "SART-19",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/amarillo-intenso"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A06713",
+    "id": "scale75-sart-20",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Ochre",
+    "range": "Scalecolor Artist",
+    "sku": "SART-20",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ocre-amarillo"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#74430F",
+    "id": "scale75-sart-21",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Raw Sienna",
+    "range": "Scalecolor Artist",
+    "sku": "SART-21",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/tierra-siena-natural"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C85223",
+    "id": "scale75-sart-22",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange",
+    "range": "Scalecolor Artist",
+    "sku": "SART-22",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/naranja"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A61C3F",
+    "id": "scale75-sart-23",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magenta",
+    "range": "Scalecolor Artist",
+    "sku": "SART-23",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/magenta"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E2B63",
+    "id": "scale75-sart-24",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple",
+    "range": "Scalecolor Artist",
+    "sku": "SART-24",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/purpura"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#663061",
+    "id": "scale75-sart-25",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Violet",
+    "range": "Scalecolor Artist",
+    "sku": "SART-25",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/violeta-oscuro"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3F8D95",
+    "id": "scale75-sart-26",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise Blue",
+    "range": "Scalecolor Artist",
+    "sku": "SART-26",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/azul-turquesa"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#205DA4",
+    "id": "scale75-sart-27",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cobalt Blue",
+    "range": "Scalecolor Artist",
+    "sku": "SART-27",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/azul-cobalto"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3F66C1",
+    "id": "scale75-sart-28",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Ultramarine",
+    "range": "Scalecolor Artist",
+    "sku": "SART-28",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/azul-ultramar-claro"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1440C2",
+    "id": "scale75-sart-29",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Ultramarine",
+    "range": "Scalecolor Artist",
+    "sku": "SART-29",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/azul-ultramar-oscuro"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#255474",
+    "id": "scale75-sart-30",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Prussian Blue",
+    "range": "Scalecolor Artist",
+    "sku": "SART-30",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/azul-prusiano"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#54642F",
+    "id": "scale75-sart-31",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Moss Green",
+    "range": "Scalecolor Artist",
+    "sku": "SART-31",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/verde-musgo-claro"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B8925",
+    "id": "scale75-sart-32",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spring Green",
+    "range": "Scalecolor Artist",
+    "sku": "SART-32",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/verde-primavera"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#22573D",
+    "id": "scale75-sart-33",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Emerald Green",
+    "range": "Scalecolor Artist",
+    "sku": "SART-33",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/verde-esmeralda"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3D6528",
+    "id": "scale75-sart-34",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sap Green",
+    "range": "Scalecolor Artist",
+    "sku": "SART-34",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/verde-vejiga"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#51592D",
+    "id": "scale75-sart-35",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Green",
+    "range": "Scalecolor Artist",
+    "sku": "SART-35",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/verde-oliva"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#50462E",
+    "id": "scale75-sart-36",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Earth Green",
+    "range": "Scalecolor Artist",
+    "sku": "SART-36",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/verde-tierra"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6B3133",
+    "id": "scale75-sart-37",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Ochre",
+    "range": "Scalecolor Artist",
+    "sku": "SART-37",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ocre-rojo"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#513E32",
+    "id": "scale75-sart-38",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Umber",
+    "range": "Scalecolor Artist",
+    "sku": "SART-38",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/tierra-sombra-tostada"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#62514B",
+    "id": "scale75-sart-39",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wood",
+    "range": "Scalecolor Artist",
+    "sku": "SART-39",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/madera"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#443D2D",
+    "id": "scale75-sart-40",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Raw Umber",
+    "range": "Scalecolor Artist",
+    "sku": "SART-40",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/tierra-sombra-natural"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4E3A3F",
+    "id": "scale75-sart-41",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Brown Ochre",
+    "range": "Scalecolor Artist",
+    "sku": "SART-41",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/marron-pardo-oscuro"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#803720",
+    "id": "scale75-sart-42",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Sienna",
+    "range": "Scalecolor Artist",
+    "sku": "SART-42",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/siena-tostada"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EBE8C7",
+    "id": "scale75-sart-43",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vanilla White",
+    "range": "Scalecolor Artist",
+    "sku": "SART-43",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/blanco-vainilla"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ADB9CC",
+    "id": "scale75-sart-44",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arctic Blue",
+    "range": "Scalecolor Artist",
+    "sku": "SART-44",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/azul-artico"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E78BF",
+    "id": "scale75-sart-45",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet Pastel",
+    "range": "Scalecolor Artist",
+    "sku": "SART-45",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/violeta-pastel"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8DA281",
+    "id": "scale75-sart-46",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Pastel",
+    "range": "Scalecolor Artist",
+    "sku": "SART-46",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/verde-pastel"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D9CEB3",
+    "id": "scale75-sart-47",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Off White",
+    "range": "Scalecolor Artist",
+    "sku": "SART-47",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/blanco-hueso"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#415768",
+    "id": "scale75-sart-48",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Cake",
+    "range": "Scalecolor Artist",
+    "sku": "SART-48",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/azul-pastel"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9B795F",
+    "id": "scale75-sart-49",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cork Brown",
+    "range": "Scalecolor Artist",
+    "sku": "SART-49",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/cork-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D761A2",
+    "id": "scale75-sart-50",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pink Cake",
+    "range": "Scalecolor Artist",
+    "sku": "SART-50",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/pastel-pink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DEB3A8",
+    "id": "scale75-sart-51",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Skin",
+    "range": "Scalecolor Artist",
+    "sku": "SART-51",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/pale-skin-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A1D5E0",
+    "id": "scale75-sart-52",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sky Blue",
+    "range": "Scalecolor Artist",
+    "sku": "SART-52",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ski-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#745F70",
+    "id": "scale75-sart-53",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cobalt Violet Grey",
+    "range": "Scalecolor Artist",
+    "sku": "SART-53",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/cobalt-violet-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A22F32",
+    "id": "scale75-sart-54",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burgundy Wine Red",
+    "range": "Scalecolor Artist",
+    "sku": "SART-54",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/burgundy-wine-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E8E234",
+    "id": "scale75-sart-55",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lemon Yellow",
+    "range": "Scalecolor Artist",
+    "sku": "SART-55",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/lemon-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A0682C",
+    "id": "scale75-sart-56",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oxide Yellow",
+    "range": "Scalecolor Artist",
+    "sku": "SART-56",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/yellow-oxide"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FD6524",
+    "id": "scale75-sart-57",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Permanent Orange",
+    "range": "Scalecolor Artist",
+    "sku": "SART-57",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/permanent-orange"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E83E33",
+    "id": "scale75-sart-58",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Coral Red",
+    "range": "Scalecolor Artist",
+    "sku": "SART-58",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/coral-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#76448A",
+    "id": "scale75-sart-59",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet",
+    "range": "Scalecolor Artist",
+    "sku": "SART-59",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/violet"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#575855",
+    "id": "scale75-sart-60",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Titanium Grey",
+    "range": "Scalecolor Artist",
+    "sku": "SART-60",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/titanium-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D5EE2E",
+    "id": "scale75-sart-61",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lime Green",
+    "range": "Scalecolor Artist",
+    "sku": "SART-61",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/lime-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#259D3C",
+    "id": "scale75-sart-62",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Alizarin Green",
+    "range": "Scalecolor Artist",
+    "sku": "SART-62",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/alizarin-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#189F7D",
+    "id": "scale75-sart-63",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jade Green",
+    "range": "Scalecolor Artist",
+    "sku": "SART-63",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/jade-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B4B49",
+    "id": "scale75-sart-64",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise",
+    "range": "Scalecolor Artist",
+    "sku": "SART-64",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/turquoise"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B54C2",
+    "id": "scale75-sart-65",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oxford Blue",
+    "range": "Scalecolor Artist",
+    "sku": "SART-65",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/oxford-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#394573",
+    "id": "scale75-sart-66",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Prussian Blue",
+    "range": "Scalecolor Artist",
+    "sku": "SART-66",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dark-prussian-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FEAD16",
+    "id": "scale75-sart-67",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neon Orange",
+    "range": "Scalecolor Artist",
+    "sku": "SART-67",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/neon-orange"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FE8DBF",
+    "id": "scale75-sart-68",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neon Pink",
+    "range": "Scalecolor Artist",
+    "sku": "SART-68",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/neon-pink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FE4940",
+    "id": "scale75-sart-69",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neon Red",
+    "range": "Scalecolor Artist",
+    "sku": "SART-69",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/neon-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#573659",
+    "id": "scale75-sart-70",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neon Yellow",
+    "range": "Scalecolor Artist",
+    "sku": "SART-70",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/neon-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9CEE8F",
+    "id": "scale75-sart-71",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neon Green",
+    "range": "Scalecolor Artist",
+    "sku": "SART-71",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/neon-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4CCDFD",
+    "id": "scale75-sart-72",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neon Blue",
+    "range": "Scalecolor Artist",
+    "sku": "SART-72",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/neon-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F5D623",
+    "id": "scale75-sart-73",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Ink",
+    "range": "Scalecolor Artist",
+    "sku": "SART-73",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/yellow-ink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B91A16",
+    "id": "scale75-sart-74",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Ink",
+    "range": "Scalecolor Artist",
+    "sku": "SART-74",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/red-ink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#206FB9",
+    "id": "scale75-sart-75",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Ink",
+    "range": "Scalecolor Artist",
+    "sku": "SART-75",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/blue-ink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#277E33",
+    "id": "scale75-sart-76",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Ink",
+    "range": "Scalecolor Artist",
+    "sku": "SART-76",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/green-ink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FD5705",
+    "id": "scale75-sart-77",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Ink",
+    "range": "Scalecolor Artist",
+    "sku": "SART-77",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/orange-ink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B296C",
+    "id": "scale75-sart-78",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet Ink",
+    "range": "Scalecolor Artist",
+    "sku": "SART-78",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/violet-ink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#332C28",
+    "id": "scale75-sart-79",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Ink",
+    "range": "Scalecolor Artist",
+    "sku": "SART-79",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/black-ink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "scale75-sart-80",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Ink",
+    "range": "Scalecolor Artist",
+    "sku": "SART-80",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/white-ink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BA1E43",
+    "id": "scale75-sart-81",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crimson Ink",
+    "range": "Scalecolor Artist",
+    "sku": "SART-81",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/crimson-ink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D3D819",
+    "id": "scale75-sart-82",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pistachio Green Ink",
+    "range": "Scalecolor Artist",
+    "sku": "SART-82",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/pistachio-green-ink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#013564",
+    "id": "scale75-sart-83",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise Ink",
+    "range": "Scalecolor Artist",
+    "sku": "SART-83",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/turquoise-ink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#76442B",
+    "id": "scale75-sart-84",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chestnut Ink",
+    "range": "Scalecolor Artist",
+    "sku": "SART-84",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/chestnut-ink"
+  }
+]

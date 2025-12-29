@@ -1,0 +1,410 @@
+[
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9C9DA5",
+    "id": "scale75-sc-63",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Metal",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-63",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/black-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E7262",
+    "id": "scale75-sc-64",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Trash Metal",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-64",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/thrash-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A3A4A1",
+    "id": "scale75-sc-65",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Heavy Metal",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-65",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/heavy-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#81807E",
+    "id": "scale75-sc-66",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Speed Metal",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-66",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/speed-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5A5A58",
+    "id": "scale75-sc-67",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Metal",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-67",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/white-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#567A81",
+    "id": "scale75-sc-68",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cobalt Metal",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-68",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/cobalt-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#83AB98",
+    "id": "scale75-sc-69",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Emerald Alchemy",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-69",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/emerald-alchemy"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8172A3",
+    "id": "scale75-sc-70",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amethyst Alchemy",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-70",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/amethyst-alchemy"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7B6012",
+    "id": "scale75-sc-71",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Necro Gold",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-71",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/necro-gold"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AE894B",
+    "id": "scale75-sc-72",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Viking Gold",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-72",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/viking-gold"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9B6918",
+    "id": "scale75-sc-73",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dwarven Gold",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-73",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/dwarven-gold"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CC9B15",
+    "id": "scale75-sc-74",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elven Gold",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-74",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/elven-gold"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EBD69B",
+    "id": "scale75-sc-75",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Citrine Alchemy",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-75",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/citrine-alchemy"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E27A73",
+    "id": "scale75-sc-76",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tourmaline Alchemy",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-76",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/tourmaline-alchemy"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B96694",
+    "id": "scale75-sc-77",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kunzite Alchemy",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-77",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/kunzite-alchemy"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#786E3A",
+    "id": "scale75-sc-78",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Peridot Alchemy",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-78",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/peridot-alchemy"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6D4E35",
+    "id": "scale75-sc-87",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Decayed Metal",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-87",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/decayed-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7C5035",
+    "id": "scale75-sc-88",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Old Copper",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-88",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/old-copper"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9C434B",
+    "id": "scale75-sc-89",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Garnet Alchemy",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-89",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/garnet-alchemy"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D34F59",
+    "id": "scale75-sc-90",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruby Alchemy",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-90",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/ruby-alchemy"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B77150",
+    "id": "scale75-sc-91",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pure Copper",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-91",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/pure-copper"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#815122",
+    "id": "scale75-sc-92",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Victorian Brass",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-92",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/victorian-brass"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CA975C",
+    "id": "scale75-sc-93",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amber Alchemy",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-93",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/amber-alchemy"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9F7552",
+    "id": "scale75-sc-94",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moonstone Alchemy",
+    "range": "Metal n' Alchemy",
+    "sku": "SC-94",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/moonstone-alchemy"
+  }
+]

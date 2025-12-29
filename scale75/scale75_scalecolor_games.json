@@ -1,0 +1,818 @@
+[
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#651E2C",
+    "id": "scale75-scg-01",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "King Purple",
+    "range": "Scalecolor Games",
+    "sku": "SCG-01",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/king-purple"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D7282A",
+    "id": "scale75-scg-02",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blood & Wine Red",
+    "range": "Scalecolor Games",
+    "sku": "SCG-02",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/blood-wine-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E7374C",
+    "id": "scale75-scg-03",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Anger Crimson",
+    "range": "Scalecolor Games",
+    "sku": "SCG-03",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/anger-crimson"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E65126",
+    "id": "scale75-scg-04",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tengu Red",
+    "range": "Scalecolor Games",
+    "sku": "SCG-04",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/tengo-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9941F",
+    "id": "scale75-scg-05",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rebel Orange",
+    "range": "Scalecolor Games",
+    "sku": "SCG-05",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/rebel-orange"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DBBAA9",
+    "id": "scale75-scg-06",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Milan Pink",
+    "range": "Scalecolor Games",
+    "sku": "SCG-06",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/milan-pink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EEEA1D",
+    "id": "scale75-scg-07",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Marine Yellow",
+    "range": "Scalecolor Games",
+    "sku": "SCG-07",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/marine-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E8E45C",
+    "id": "scale75-scg-08",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wasp Yellow",
+    "range": "Scalecolor Games",
+    "sku": "SCG-08",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/wasp-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#204E34",
+    "id": "scale75-scg-09",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Baby Leaf Green",
+    "range": "Scalecolor Games",
+    "sku": "SCG-09",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/baby-leaf-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A02C3D",
+    "id": "scale75-scg-10",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Peony Purple",
+    "range": "Scalecolor Games",
+    "sku": "SCG-10",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dark-peony-purple"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D8BCC",
+    "id": "scale75-scg-11",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amethyst Lillac",
+    "range": "Scalecolor Games",
+    "sku": "SCG-11",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/amethyst-lillac"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BCBF86",
+    "id": "scale75-scg-12",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Emerald Green",
+    "range": "Scalecolor Games",
+    "sku": "SCG-12",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/pale-emerald-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D9AA80",
+    "id": "scale75-scg-13",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Survival Skin",
+    "range": "Scalecolor Games",
+    "sku": "SCG-13",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/survival-skin"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DBC3B7",
+    "id": "scale75-scg-14",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sinner Flesh",
+    "range": "Scalecolor Games",
+    "sku": "SCG-14",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sinner-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C6D2CE",
+    "id": "scale75-scg-15",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sexy Zombie Skin",
+    "range": "Scalecolor Games",
+    "sku": "SCG-15",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sexy-zombie-skin"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E1D9C2",
+    "id": "scale75-scg-16",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Victorian Flesh",
+    "range": "Scalecolor Games",
+    "sku": "SCG-16",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/victorian-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#253E38",
+    "id": "scale75-scg-17",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eryn Green",
+    "range": "Scalecolor Games",
+    "sku": "SCG-17",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/eryn-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E59788",
+    "id": "scale75-scg-18",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pink Of Desire",
+    "range": "Scalecolor Games",
+    "sku": "SCG-18",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/pink-of-desire"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3A6631",
+    "id": "scale75-scg-19",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Druid Green",
+    "range": "Scalecolor Games",
+    "sku": "SCG-19",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/druid-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1C9448",
+    "id": "scale75-scg-20",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cthulhu Green",
+    "range": "Scalecolor Games",
+    "sku": "SCG-20",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/cthulhu-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1BCCB7",
+    "id": "scale75-scg-21",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green-Eyed Monster",
+    "range": "Scalecolor Games",
+    "sku": "SCG-21",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/greeneyed-monster"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#57B635",
+    "id": "scale75-scg-22",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jade Green",
+    "range": "Scalecolor Games",
+    "sku": "SCG-22",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/jade-green-2"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6BCD3E",
+    "id": "scale75-scg-23",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Valyrian Green",
+    "range": "Scalecolor Games",
+    "sku": "SCG-23",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/valyrian-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CDD983",
+    "id": "scale75-scg-24",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bile Green",
+    "range": "Scalecolor Games",
+    "sku": "SCG-24",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/bile-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1C2B3E",
+    "id": "scale75-scg-25",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Siesta Blue",
+    "range": "Scalecolor Games",
+    "sku": "SCG-25",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/siesta-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4C2374",
+    "id": "scale75-scg-26",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nightmare Violet",
+    "range": "Scalecolor Games",
+    "sku": "SCG-26",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/nightmare-violet"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1C7261",
+    "id": "scale75-scg-27",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "\u00d1a\u00f1ara Green",
+    "range": "Scalecolor Games",
+    "sku": "SCG-27",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/nanara-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4643B5",
+    "id": "scale75-scg-28",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sweet Dreams Blue",
+    "range": "Scalecolor Games",
+    "sku": "SCG-28",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sweet-dreams-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1BAAE0",
+    "id": "scale75-scg-29",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fremen Blue",
+    "range": "Scalecolor Games",
+    "sku": "SCG-29",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/fremen-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1BACD5",
+    "id": "scale75-scg-30",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dull Blue",
+    "range": "Scalecolor Games",
+    "sku": "SCG-30",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dull-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9BAAC9",
+    "id": "scale75-scg-31",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dried Lavender",
+    "range": "Scalecolor Games",
+    "sku": "SCG-31",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dried-lavender"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1BC8DC",
+    "id": "scale75-scg-32",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lazy Blue",
+    "range": "Scalecolor Games",
+    "sku": "SCG-32",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/lazy-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4C2F2D",
+    "id": "scale75-scg-33",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Black Pudding",
+    "range": "Scalecolor Games",
+    "sku": "SCG-33",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/morcilla-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#954B30",
+    "id": "scale75-scg-34",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Insatiable Brown",
+    "range": "Scalecolor Games",
+    "sku": "SCG-34",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/insatiable-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9A3529",
+    "id": "scale75-scg-35",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Milk Chocolate",
+    "range": "Scalecolor Games",
+    "sku": "SCG-35",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/milk-chocolate"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DC8328",
+    "id": "scale75-scg-36",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Melange Brown",
+    "range": "Scalecolor Games",
+    "sku": "SCG-36",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/melange-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D1922D",
+    "id": "scale75-scg-37",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Roasted Brown",
+    "range": "Scalecolor Games",
+    "sku": "SCG-37",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/roasted-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DAA728",
+    "id": "scale75-scg-38",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Honey",
+    "range": "Scalecolor Games",
+    "sku": "SCG-38",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/honey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D5A268",
+    "id": "scale75-scg-39",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Starving Brown",
+    "range": "Scalecolor Games",
+    "sku": "SCG-39",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/starving-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E6DCA7",
+    "id": "scale75-scg-40",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vanilla Ice Cream",
+    "range": "Scalecolor Games",
+    "sku": "SCG-40",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/vanilla-ice-cream"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4B4F52",
+    "id": "scale75-scg-41",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Modesty Black",
+    "range": "Scalecolor Games",
+    "sku": "SCG-41",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/modesty-black"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2A2D40",
+    "id": "scale75-scg-42",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Egoism Grey",
+    "range": "Scalecolor Games",
+    "sku": "SCG-42",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/egoism-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1C414E",
+    "id": "scale75-scg-43",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ego Green",
+    "range": "Scalecolor Games",
+    "sku": "SCG-43",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ego-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7F302E",
+    "id": "scale75-scg-44",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Dahlia Brown",
+    "range": "Scalecolor Games",
+    "sku": "SCG-44",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dark-dahlia-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3A575D",
+    "id": "scale75-scg-45",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rogue Grey",
+    "range": "Scalecolor Games",
+    "sku": "SCG-45",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/rogue-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1C7494",
+    "id": "scale75-scg-46",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vanity Blue",
+    "range": "Scalecolor Games",
+    "sku": "SCG-46",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/vanity-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E3E4E6",
+    "id": "scale75-scg-47",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hubris Grey",
+    "range": "Scalecolor Games",
+    "sku": "SCG-47",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/hubris-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D9DADD",
+    "id": "scale75-scg-48",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arrogance White",
+    "range": "Scalecolor Games",
+    "sku": "SCG-48",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/arrogance-white"
+  }
+]

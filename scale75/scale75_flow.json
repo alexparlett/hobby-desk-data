@@ -1,0 +1,410 @@
+[
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E4E0DE",
+    "id": "scale75-sfl-01",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Titanium White",
+    "range": "Flow",
+    "sku": "SFL-01",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/titanium-white"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F2CD0D",
+    "id": "scale75-sfl-02",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium Yellow",
+    "range": "Flow",
+    "sku": "SFL-02",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/medium-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DB1E13",
+    "id": "scale75-sfl-03",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vermilion",
+    "range": "Flow",
+    "sku": "SFL-03",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/vermilion"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A396E4",
+    "id": "scale75-sfl-04",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cobalt Blue Light (Hue)",
+    "range": "Flow",
+    "sku": "SFL-04",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/cobalt-blue-light"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1C1B20",
+    "id": "scale75-sfl-05",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ivory Black",
+    "range": "Flow",
+    "sku": "SFL-05",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ivory-black"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#17C3B7",
+    "id": "scale75-sfl-06",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise Blue",
+    "range": "Flow",
+    "sku": "SFL-06",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/turquoise-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D3938A",
+    "id": "scale75-sfl-07",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Paris Red",
+    "range": "Flow",
+    "sku": "SFL-07",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/paris-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EBBF77",
+    "id": "scale75-sfl-08",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Persian Yellow",
+    "range": "Flow",
+    "sku": "SFL-08",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/persian-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1A1822",
+    "id": "scale75-sfl-09",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Prussian Blue",
+    "range": "Flow",
+    "sku": "SFL-09",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/prussian-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EDC833",
+    "id": "scale75-sfl-10",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stencil Yellow",
+    "range": "Flow",
+    "sku": "SFL-10",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/stencil-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#43612B",
+    "id": "scale75-sfl-11",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Green",
+    "range": "Flow",
+    "sku": "SFL-11",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/olive-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CFC1BF",
+    "id": "scale75-sfl-12",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stone Grey",
+    "range": "Flow",
+    "sku": "SFL-12",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/stone-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#242F2A",
+    "id": "scale75-sfl-13",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Toad Green",
+    "range": "Flow",
+    "sku": "SFL-13",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/toad-green-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EC8965",
+    "id": "scale75-sfl-14",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Antique Pink",
+    "range": "Flow",
+    "sku": "SFL-14",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/antique-pink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#412117",
+    "id": "scale75-sfl-15",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moist Soil",
+    "range": "Flow",
+    "sku": "SFL-15",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/moist-soil"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#54212A",
+    "id": "scale75-sfl-16",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Mauve",
+    "range": "Flow",
+    "sku": "SFL-16",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/red-mauve"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#45464A",
+    "id": "scale75-sfl-17",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scroll White",
+    "range": "Flow",
+    "sku": "SFL-17",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/scroll-white"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F5B96D",
+    "id": "scale75-sfl-18",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronzed Skin",
+    "range": "Flow",
+    "sku": "SFL-18",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/bronzed-skin"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C79976",
+    "id": "scale75-sfl-19",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rusty Brown",
+    "range": "Flow",
+    "sku": "SFL-19",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/rusty-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B3F30",
+    "id": "scale75-sfl-20",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Raw Umber",
+    "range": "Flow",
+    "sku": "SFL-20",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/raw-umber"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CDA21F",
+    "id": "scale75-sfl-21",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sand Yellow",
+    "range": "Flow",
+    "sku": "SFL-21",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sand-yellow-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AD7F3F",
+    "id": "scale75-sfl-22",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Sienna",
+    "range": "Flow",
+    "sku": "SFL-22",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/brown-sienna"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4D534D",
+    "id": "scale75-sfl-23",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Swamp Green",
+    "range": "Flow",
+    "sku": "SFL-23",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/swamp-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B7A68D",
+    "id": "scale75-sfl-24",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Buff",
+    "range": "Flow",
+    "sku": "SFL-24",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/buff"
+  }
+]

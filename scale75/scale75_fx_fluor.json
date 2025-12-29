@@ -1,0 +1,138 @@
+[
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6051B0",
+    "id": "scale75-sfx-00",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brilli White",
+    "range": "FX Fluor",
+    "sku": "SFX-00",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/brilli-white"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6C5CBA",
+    "id": "scale75-sfx-01",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Neon",
+    "range": "FX Fluor",
+    "sku": "SFX-01",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/orange-neon"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6C5CBA",
+    "id": "scale75-sfx-02",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Acid Pink",
+    "range": "FX Fluor",
+    "sku": "SFX-02",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/acid-pink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FB23CE",
+    "id": "scale75-sfx-03",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Psychedelic Purple",
+    "range": "FX Fluor",
+    "sku": "SFX-03",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/psychedelic-purple"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2F2FFE",
+    "id": "scale75-sfx-04",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Electric Blue",
+    "range": "FX Fluor",
+    "sku": "SFX-04",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/electric-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2CEE31",
+    "id": "scale75-sfx-05",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Techno Green",
+    "range": "FX Fluor",
+    "sku": "SFX-05",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/techno-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FFFF3B",
+    "id": "scale75-sfx-06",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Speed Yellow",
+    "range": "FX Fluor",
+    "sku": "SFX-06",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/speed-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E43729",
+    "id": "scale75-sfx-07",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Ecstasy",
+    "range": "FX Fluor",
+    "sku": "SFX-07",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/red-ecstasy"
+  }
+]

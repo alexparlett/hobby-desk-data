@@ -1,0 +1,2178 @@
+[
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AD937D",
+    "id": "scale75-sdp-01",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Flesh",
+    "range": "Drop & Paint",
+    "sku": "SDP-01",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/golden-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A7958A",
+    "id": "scale75-sdp-02",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Medium Skin",
+    "range": "Drop & Paint",
+    "sku": "SDP-02",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/medium-skin"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E4AA94",
+    "id": "scale75-sdp-03",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tanned Skin",
+    "range": "Drop & Paint",
+    "sku": "SDP-03",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/tanned-skin"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ABA48D",
+    "id": "scale75-sdp-04",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Caucasian Skin",
+    "range": "Drop & Paint",
+    "sku": "SDP-04",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/caucasian-skin"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D57C46",
+    "id": "scale75-sdp-05",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Skin",
+    "range": "Drop & Paint",
+    "sku": "SDP-05",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/brown-skin"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AB969F",
+    "id": "scale75-sdp-06",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cold Skin",
+    "range": "Drop & Paint",
+    "sku": "SDP-06",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/cold-skin"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AB938D",
+    "id": "scale75-sdp-07",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pink Flesh",
+    "range": "Drop & Paint",
+    "sku": "SDP-07",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/pink-flesh-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AC9B94",
+    "id": "scale75-sdp-08",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Skin",
+    "range": "Drop & Paint",
+    "sku": "SDP-08",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/light-skin-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E6E249",
+    "id": "scale75-sdp-09",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Primary Yellow",
+    "range": "Drop & Paint",
+    "sku": "SDP-09",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/primary-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E03F31",
+    "id": "scale75-sdp-10",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Primary Red",
+    "range": "Drop & Paint",
+    "sku": "SDP-10",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/primary-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A2A4A0",
+    "id": "scale75-sdp-100",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pastel Grey",
+    "range": "Drop & Paint",
+    "sku": "SDP-100",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/pastel-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A6A28B",
+    "id": "scale75-sdp-101",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mummy White",
+    "range": "Drop & Paint",
+    "sku": "SDP-101",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/mummy-white"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A6A891",
+    "id": "scale75-sdp-102",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Cake",
+    "range": "Drop & Paint",
+    "sku": "SDP-102",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/pastel-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E92A4",
+    "id": "scale75-sdp-103",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet Pastel",
+    "range": "Drop & Paint",
+    "sku": "SDP-103",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/pastel-violet"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A78E9B",
+    "id": "scale75-sdp-104",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Cake",
+    "range": "Drop & Paint",
+    "sku": "SDP-104",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/pastel-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#484B53",
+    "id": "scale75-sdp-105",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Metal",
+    "range": "Drop & Paint",
+    "sku": "SDP-105",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/black-metal-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#818280",
+    "id": "scale75-sdp-106",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnished Steel",
+    "range": "Drop & Paint",
+    "sku": "SDP-106",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/burnished-steel"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#91949A",
+    "id": "scale75-sdp-107",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Steel",
+    "range": "Drop & Paint",
+    "sku": "SDP-107",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/steel"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A6A6AF",
+    "id": "scale75-sdp-108",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aluminum",
+    "range": "Drop & Paint",
+    "sku": "SDP-108",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/aluminium"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8A8B8D",
+    "id": "scale75-sdp-109",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Steel",
+    "range": "Drop & Paint",
+    "sku": "SDP-109",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/white-steel"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2043CF",
+    "id": "scale75-sdp-11",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Primary Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-11",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/primary-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7797A5",
+    "id": "scale75-sdp-110",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bluish Metal",
+    "range": "Drop & Paint",
+    "sku": "SDP-110",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/bluish-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7EA7A6",
+    "id": "scale75-sdp-111",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greenish Metal",
+    "range": "Drop & Paint",
+    "sku": "SDP-111",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/greenish-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9E97B2",
+    "id": "scale75-sdp-112",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purplish Metal",
+    "range": "Drop & Paint",
+    "sku": "SDP-112",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/purplish-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E7047",
+    "id": "scale75-sdp-113",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Gold",
+    "range": "Drop & Paint",
+    "sku": "SDP-113",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/black-gold"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A9986C",
+    "id": "scale75-sdp-114",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Viking Gold",
+    "range": "Drop & Paint",
+    "sku": "SDP-114",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/viking-gold-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B2995E",
+    "id": "scale75-sdp-115",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Gold",
+    "range": "Drop & Paint",
+    "sku": "SDP-115",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/burnt-gold"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BDB17F",
+    "id": "scale75-sdp-116",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "New Gold",
+    "range": "Drop & Paint",
+    "sku": "SDP-116",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/new-gold"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B7B4A5",
+    "id": "scale75-sdp-117",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Gold",
+    "range": "Drop & Paint",
+    "sku": "SDP-117",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/white-gold"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B9A3A3",
+    "id": "scale75-sdp-118",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pinky Gold",
+    "range": "Drop & Paint",
+    "sku": "SDP-118",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/pinky-gold"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A19F7F",
+    "id": "scale75-sdp-119",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kunzite Gold",
+    "range": "Drop & Paint",
+    "sku": "SDP-119",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/kunzite-gold"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2BBA47",
+    "id": "scale75-sdp-12",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Complementary Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-12",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/complementary-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B79BAC",
+    "id": "scale75-sdp-120",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Brass",
+    "range": "Drop & Paint",
+    "sku": "SDP-120",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/light-brass"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#634B2A",
+    "id": "scale75-sdp-121",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Old Metal",
+    "range": "Drop & Paint",
+    "sku": "SDP-121",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/old-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9D7A48",
+    "id": "scale75-sdp-122",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Old Copper",
+    "range": "Drop & Paint",
+    "sku": "SDP-122",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/old-copper-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9A4F4D",
+    "id": "scale75-sdp-123",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Garnet Metal",
+    "range": "Drop & Paint",
+    "sku": "SDP-123",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/garnet-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B37D8F",
+    "id": "scale75-sdp-124",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruby Metal",
+    "range": "Drop & Paint",
+    "sku": "SDP-124",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/ruby-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B07D52",
+    "id": "scale75-sdp-125",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pure Copper",
+    "range": "Drop & Paint",
+    "sku": "SDP-125",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/pure-copper-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A17E3C",
+    "id": "scale75-sdp-126",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Brass",
+    "range": "Drop & Paint",
+    "sku": "SDP-126",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/dark-brass"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AE8E64",
+    "id": "scale75-sdp-127",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amber Metal",
+    "range": "Drop & Paint",
+    "sku": "SDP-127",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/amber-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AE9F89",
+    "id": "scale75-sdp-128",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moon Metal",
+    "range": "Drop & Paint",
+    "sku": "SDP-128",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/moon-metal"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E39A47",
+    "id": "scale75-sdp-13",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Complementary Orange",
+    "range": "Drop & Paint",
+    "sku": "SDP-13",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/complementary-orange"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#564FAF",
+    "id": "scale75-sdp-14",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Complementary Violet",
+    "range": "Drop & Paint",
+    "sku": "SDP-14",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/complementary-violet"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4F5050",
+    "id": "scale75-sdp-15",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White",
+    "range": "Drop & Paint",
+    "sku": "SDP-15",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/white-2"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#242529",
+    "id": "scale75-sdp-16",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Drop & Paint",
+    "sku": "SDP-16",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/black-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3BC8E6",
+    "id": "scale75-sdp-17",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aquamarine Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-17",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/aquamarine-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1EB3CB",
+    "id": "scale75-sdp-18",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise",
+    "range": "Drop & Paint",
+    "sku": "SDP-18",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/turquoise-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3363C1",
+    "id": "scale75-sdp-19",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Ultramarine Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-19",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/light-ultramarine-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#41A2D5",
+    "id": "scale75-sdp-20",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Basic Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-20",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/basic-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#292E41",
+    "id": "scale75-sdp-21",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Prussian Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-21",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dark-prussian-blue-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2E4453",
+    "id": "scale75-sdp-22",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Navy Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-22",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/navy-blue-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2B41A1",
+    "id": "scale75-sdp-23",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-23",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/deep-blue-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#375AB5",
+    "id": "scale75-sdp-24",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-24",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ultramarine-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2B5168",
+    "id": "scale75-sdp-25",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greenish Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-25",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/greenish-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#859BAC",
+    "id": "scale75-sdp-26",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chalk Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-26",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/chalk-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5FCDDE",
+    "id": "scale75-sdp-27",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fiji Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-27",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/fiji-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8EA3AD",
+    "id": "scale75-sdp-28",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greyish Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-28",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/greyish-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#677FC8",
+    "id": "scale75-sdp-29",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Venus Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-29",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/venus-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#25BBE0",
+    "id": "scale75-sdp-30",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Caribbean Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-30",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/caribbean-blue-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#47417C",
+    "id": "scale75-sdp-31",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-31",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/violet-blue-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2F5797",
+    "id": "scale75-sdp-32",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Forest Blue",
+    "range": "Drop & Paint",
+    "sku": "SDP-32",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/forest-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CB2F2C",
+    "id": "scale75-sdp-33",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mcqueen Red",
+    "range": "Drop & Paint",
+    "sku": "SDP-33",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/mcqueen-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E06156",
+    "id": "scale75-sdp-34",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Coral Red",
+    "range": "Drop & Paint",
+    "sku": "SDP-34",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/coral-red-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E2684E",
+    "id": "scale75-sdp-35",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Imperial Red",
+    "range": "Drop & Paint",
+    "sku": "SDP-35",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/imperial-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D63639",
+    "id": "scale75-sdp-36",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blood Red",
+    "range": "Drop & Paint",
+    "sku": "SDP-36",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/blood-red-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CE5CA0",
+    "id": "scale75-sdp-37",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Mauve",
+    "range": "Drop & Paint",
+    "sku": "SDP-37",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dark-mauve"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CC2C44",
+    "id": "scale75-sdp-38",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Anger",
+    "range": "Drop & Paint",
+    "sku": "SDP-38",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/red-anger"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D33C77",
+    "id": "scale75-sdp-39",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magenta",
+    "range": "Drop & Paint",
+    "sku": "SDP-39",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/magenta-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#79282B",
+    "id": "scale75-sdp-40",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Wine",
+    "range": "Drop & Paint",
+    "sku": "SDP-40",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/red-wine"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E2B94D",
+    "id": "scale75-sdp-41",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sunset Yellow",
+    "range": "Drop & Paint",
+    "sku": "SDP-41",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sunset-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D3B241",
+    "id": "scale75-sdp-42",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glorious Yellow",
+    "range": "Drop & Paint",
+    "sku": "SDP-42",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/glorious-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E3DB68",
+    "id": "scale75-sdp-43",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sand Yellow",
+    "range": "Drop & Paint",
+    "sku": "SDP-43",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sand-yellow-2"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E6DF59",
+    "id": "scale75-sdp-44",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lemon Yellow",
+    "range": "Drop & Paint",
+    "sku": "SDP-44",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/lemon-yellow-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E3C84B",
+    "id": "scale75-sdp-45",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Yellow",
+    "range": "Drop & Paint",
+    "sku": "SDP-45",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/golden-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DCDB59",
+    "id": "scale75-sdp-46",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lime Yellow",
+    "range": "Drop & Paint",
+    "sku": "SDP-46",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/lime-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DCD686",
+    "id": "scale75-sdp-47",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Parchment",
+    "range": "Drop & Paint",
+    "sku": "SDP-47",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/yellow-parchment"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AAA773",
+    "id": "scale75-sdp-48",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nostalgia Yellow",
+    "range": "Drop & Paint",
+    "sku": "SDP-48",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/nostalgia-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#332E85",
+    "id": "scale75-sdp-49",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet",
+    "range": "Drop & Paint",
+    "sku": "SDP-49",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/violet-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BF3E45",
+    "id": "scale75-sdp-50",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crimson",
+    "range": "Drop & Paint",
+    "sku": "SDP-50",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/crimson"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B14778",
+    "id": "scale75-sdp-51",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cold Pink",
+    "range": "Drop & Paint",
+    "sku": "SDP-51",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/cold-pink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9D335A",
+    "id": "scale75-sdp-52",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Violet",
+    "range": "Drop & Paint",
+    "sku": "SDP-52",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dark-violet"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#67336C",
+    "id": "scale75-sdp-53",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cardinal Purple",
+    "range": "Drop & Paint",
+    "sku": "SDP-53",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/cardinal-purple"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#887BAD",
+    "id": "scale75-sdp-54",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Natural Purple",
+    "range": "Drop & Paint",
+    "sku": "SDP-54",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/natural-purple"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A7A4D1",
+    "id": "scale75-sdp-55",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mauve",
+    "range": "Drop & Paint",
+    "sku": "SDP-55",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/mauve"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BA91C6",
+    "id": "scale75-sdp-56",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lavender",
+    "range": "Drop & Paint",
+    "sku": "SDP-56",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/lavender"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E3C74F",
+    "id": "scale75-sdp-57",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Miami Orange",
+    "range": "Drop & Paint",
+    "sku": "SDP-57",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/miami-orange"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E0B248",
+    "id": "scale75-sdp-58",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Orange",
+    "range": "Drop & Paint",
+    "sku": "SDP-58",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/burnt-orange"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E5D553",
+    "id": "scale75-sdp-59",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Liquidambar Ochre",
+    "range": "Drop & Paint",
+    "sku": "SDP-59",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/liquidambar-ochre"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D7CA4B",
+    "id": "scale75-sdp-60",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greenish Ochre",
+    "range": "Drop & Paint",
+    "sku": "SDP-60",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/greenish-ochre"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DA803E",
+    "id": "scale75-sdp-61",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Diabolic Orange",
+    "range": "Drop & Paint",
+    "sku": "SDP-61",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/diabolic-orange"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CE6746",
+    "id": "scale75-sdp-62",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Oxide",
+    "range": "Drop & Paint",
+    "sku": "SDP-62",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/orange-oxide"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A36B31",
+    "id": "scale75-sdp-63",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leaf Ochre",
+    "range": "Drop & Paint",
+    "sku": "SDP-63",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/leaf-ochre"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CFB741",
+    "id": "scale75-sdp-64",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ochre Nostalgia",
+    "range": "Drop & Paint",
+    "sku": "SDP-64",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/nostalgia-ochre"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D1D850",
+    "id": "scale75-sdp-65",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lime Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-65",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/lime-green-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#92C64C",
+    "id": "scale75-sdp-66",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Olive Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-66",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/light-olive-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9BCA4E",
+    "id": "scale75-sdp-67",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spring Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-67",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/spring-green-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5DBBAA",
+    "id": "scale75-sdp-68",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jade Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-68",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/jade-green-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#323E3C",
+    "id": "scale75-sdp-69",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pine Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-69",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/pine-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#60BA4E",
+    "id": "scale75-sdp-70",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Irati Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-70",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/irati-green-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#459446",
+    "id": "scale75-sdp-71",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Moss Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-71",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/light-moss-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4A6842",
+    "id": "scale75-sdp-72",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moss Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-72",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/moss-green-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3A5936",
+    "id": "scale75-sdp-73",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Toad",
+    "range": "Drop & Paint",
+    "sku": "SDP-73",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/green-toad"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#394B45",
+    "id": "scale75-sdp-74",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Jungle Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-74",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/black-jungle-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9CA47B",
+    "id": "scale75-sdp-75",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pear Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-75",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/pear-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#879D87",
+    "id": "scale75-sdp-76",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spearmint",
+    "range": "Drop & Paint",
+    "sku": "SDP-76",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/spearmint"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2D6962",
+    "id": "scale75-sdp-77",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Emerald Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-77",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/emerald-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B2BBA2",
+    "id": "scale75-sdp-78",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greyish Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-78",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/greyish-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A5AD51",
+    "id": "scale75-sdp-79",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-79",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/olive-green-1"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E0D960",
+    "id": "scale75-sdp-80",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Caterpillar Green",
+    "range": "Drop & Paint",
+    "sku": "SDP-80",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/caterpillar-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#493E47",
+    "id": "scale75-sdp-81",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Brown",
+    "range": "Drop & Paint",
+    "sku": "SDP-81",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dark-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5F3633",
+    "id": "scale75-sdp-82",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chocolate Brown",
+    "range": "Drop & Paint",
+    "sku": "SDP-82",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/chocolate-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C7754C",
+    "id": "scale75-sdp-83",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Siena Umber",
+    "range": "Drop & Paint",
+    "sku": "SDP-83",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/burnt-siena-umber"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8F4E3C",
+    "id": "scale75-sdp-84",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burnt Shade",
+    "range": "Drop & Paint",
+    "sku": "SDP-84",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/burnt-shade"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B5A388",
+    "id": "scale75-sdp-85",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Brown",
+    "range": "Drop & Paint",
+    "sku": "SDP-85",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/light-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9F9C86",
+    "id": "scale75-sdp-86",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Donkey",
+    "range": "Drop & Paint",
+    "sku": "SDP-86",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/jumento-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#945F40",
+    "id": "scale75-sdp-87",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Natural Shade",
+    "range": "Drop & Paint",
+    "sku": "SDP-87",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/natural-shade"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#776C4B",
+    "id": "scale75-sdp-88",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Earth",
+    "range": "Drop & Paint",
+    "sku": "SDP-88",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/green-earth"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8F949C",
+    "id": "scale75-sdp-89",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arctic Grey",
+    "range": "Drop & Paint",
+    "sku": "SDP-89",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/arctic-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3F4553",
+    "id": "scale75-sdp-90",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Graphite Grey",
+    "range": "Drop & Paint",
+    "sku": "SDP-90",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/graphite-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AFA9A4",
+    "id": "scale75-sdp-91",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Confederate Grey",
+    "range": "Drop & Paint",
+    "sku": "SDP-91",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/confederate-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C8D8F",
+    "id": "scale75-sdp-92",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ufo Grey",
+    "range": "Drop & Paint",
+    "sku": "SDP-92",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ufo-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#828E94",
+    "id": "scale75-sdp-93",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bluish Grey",
+    "range": "Drop & Paint",
+    "sku": "SDP-93",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/bluish-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8E918D",
+    "id": "scale75-sdp-94",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greenish Grey",
+    "range": "Drop & Paint",
+    "sku": "SDP-94",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/greenish-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#908C8E",
+    "id": "scale75-sdp-95",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Fox",
+    "range": "Drop & Paint",
+    "sku": "SDP-95",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/grey-fox"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E6A7D",
+    "id": "scale75-sdp-96",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet Grey",
+    "range": "Drop & Paint",
+    "sku": "SDP-96",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/violet-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#96A4AF",
+    "id": "scale75-sdp-97",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Cake",
+    "range": "Drop & Paint",
+    "sku": "SDP-97",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/pastel-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#89A2AF",
+    "id": "scale75-sdp-98",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise Cake",
+    "range": "Drop & Paint",
+    "sku": "SDP-98",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/pastel-turquoise"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#93A5AB",
+    "id": "scale75-sdp-99",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Pastel",
+    "range": "Drop & Paint",
+    "sku": "SDP-99",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/pastel-green"
+  }
+]

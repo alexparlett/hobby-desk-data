@@ -1,0 +1,818 @@
+[
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#565568",
+    "id": "scale75-sin-00",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shadow Black",
+    "range": "Instant Colors",
+    "sku": "SIN-00",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/shadow-black"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#635049",
+    "id": "scale75-sin-01",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Werewolf Brown",
+    "range": "Instant Colors",
+    "sku": "SIN-01",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/werewolf-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AB3E40",
+    "id": "scale75-sin-02",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dragon Blood",
+    "range": "Instant Colors",
+    "sku": "SIN-02",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/dragon-blood"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BD4344",
+    "id": "scale75-sin-03",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Health Red",
+    "range": "Instant Colors",
+    "sku": "SIN-03",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/health-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B22D2A",
+    "id": "scale75-sin-04",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Love Affair",
+    "range": "Instant Colors",
+    "sku": "SIN-04",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/love-affair"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C24323",
+    "id": "scale75-sin-05",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Life Red",
+    "range": "Instant Colors",
+    "sku": "SIN-05",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/life-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DD7C27",
+    "id": "scale75-sin-06",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ragweed Orange",
+    "range": "Instant Colors",
+    "sku": "SIN-06",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/ragweed-orange"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D47B63",
+    "id": "scale75-sin-07",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Drain Life",
+    "range": "Instant Colors",
+    "sku": "SIN-07",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/drain-life"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FACC2D",
+    "id": "scale75-sin-08",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Full Healing",
+    "range": "Instant Colors",
+    "sku": "SIN-08",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/full-healing"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F1C764",
+    "id": "scale75-sin-09",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Estus Yellow",
+    "range": "Instant Colors",
+    "sku": "SIN-09",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/estus-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6F774C",
+    "id": "scale75-sin-10",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Zucchini",
+    "range": "Instant Colors",
+    "sku": "SIN-10",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/zucchini-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6A5752",
+    "id": "scale75-sin-11",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dead Flesh",
+    "range": "Instant Colors",
+    "sku": "SIN-11",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/dead-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#51487F",
+    "id": "scale75-sin-12",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fairy Blood",
+    "range": "Instant Colors",
+    "sku": "SIN-12",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/fairy-blood"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BDB677",
+    "id": "scale75-sin-13",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Zombie Skin",
+    "range": "Instant Colors",
+    "sku": "SIN-13",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/zombie-skin"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C7886E",
+    "id": "scale75-sin-14",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Phoenix Feather",
+    "range": "Instant Colors",
+    "sku": "SIN-14",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/phoenix-feather"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DBB39C",
+    "id": "scale75-sin-15",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Human Flesh",
+    "range": "Instant Colors",
+    "sku": "SIN-15",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/human-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#738070",
+    "id": "scale75-sin-16",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Undead Dragon",
+    "range": "Instant Colors",
+    "sku": "SIN-16",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/undead-dragon"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E2D4C1",
+    "id": "scale75-sin-17",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Phoenix Egg",
+    "range": "Instant Colors",
+    "sku": "SIN-17",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/phoenix-egg"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5766C8",
+    "id": "scale75-sin-18",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Paralyze Blue",
+    "range": "Instant Colors",
+    "sku": "SIN-18",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/paralyze-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C04F40",
+    "id": "scale75-sin-19",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Evil Root",
+    "range": "Instant Colors",
+    "sku": "SIN-19",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/evil-root"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#53502C",
+    "id": "scale75-sin-20",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Toad Green",
+    "range": "Instant Colors",
+    "sku": "SIN-20",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/toad-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F8EB5B",
+    "id": "scale75-sin-21",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sulfur Yellow",
+    "range": "Instant Colors",
+    "sku": "SIN-21",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/sulfur-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A3AF83",
+    "id": "scale75-sin-22",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Belladonna Green",
+    "range": "Instant Colors",
+    "sku": "SIN-22",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/belladonna-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#788623",
+    "id": "scale75-sin-23",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Corrupted Stamina",
+    "range": "Instant Colors",
+    "sku": "SIN-23",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/corrupted-stamina"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CFAB2A",
+    "id": "scale75-sin-24",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rotten Pus",
+    "range": "Instant Colors",
+    "sku": "SIN-24",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/rotten-pus"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A8A347",
+    "id": "scale75-sin-25",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Acid Green",
+    "range": "Instant Colors",
+    "sku": "SIN-25",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/acid-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#303B39",
+    "id": "scale75-sin-26",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Remove Mana",
+    "range": "Instant Colors",
+    "sku": "SIN-26",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/remove-mana"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#684D6E",
+    "id": "scale75-sin-27",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arcane Purple",
+    "range": "Instant Colors",
+    "sku": "SIN-27",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/arcane-purple"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3C5A39",
+    "id": "scale75-sin-28",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elixir Green",
+    "range": "Instant Colors",
+    "sku": "SIN-28",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/elixir-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2D4EBC",
+    "id": "scale75-sin-29",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Replenish Blue",
+    "range": "Instant Colors",
+    "sku": "SIN-29",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/replenish-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7891B7",
+    "id": "scale75-sin-30",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mana Regeneration",
+    "range": "Instant Colors",
+    "sku": "SIN-30",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/mana-regeneration"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#608493",
+    "id": "scale75-sin-31",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magic Blue",
+    "range": "Instant Colors",
+    "sku": "SIN-31",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/magic-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#615774",
+    "id": "scale75-sin-32",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Spell",
+    "range": "Instant Colors",
+    "sku": "SIN-32",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/grey-spell"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9EB2A4",
+    "id": "scale75-sin-33",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ancestral Blue",
+    "range": "Instant Colors",
+    "sku": "SIN-33",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/ancestral-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D4754",
+    "id": "scale75-sin-34",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grizzly Brown",
+    "range": "Instant Colors",
+    "sku": "SIN-34",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/grizzly-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E4426",
+    "id": "scale75-sin-35",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Endurance Brown",
+    "range": "Instant Colors",
+    "sku": "SIN-35",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/endurance-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#763531",
+    "id": "scale75-sin-36",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rage Brown",
+    "range": "Instant Colors",
+    "sku": "SIN-36",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/rage-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DC763A",
+    "id": "scale75-sin-37",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Frenzy Orange",
+    "range": "Instant Colors",
+    "sku": "SIN-37",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/frenzy-orange"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E0A637",
+    "id": "scale75-sin-38",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ogre Brown",
+    "range": "Instant Colors",
+    "sku": "SIN-38",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/ogre-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CC4F50",
+    "id": "scale75-sin-39",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Salmon Fury",
+    "range": "Instant Colors",
+    "sku": "SIN-39",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/salmon-fury"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BC7350",
+    "id": "scale75-sin-40",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wild Beast",
+    "range": "Instant Colors",
+    "sku": "SIN-40",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/wild-beast"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F4E6B7",
+    "id": "scale75-sin-41",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Savage Beige",
+    "range": "Instant Colors",
+    "sku": "SIN-41",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/savage-beige"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#46413F",
+    "id": "scale75-sin-42",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golem Grey",
+    "range": "Instant Colors",
+    "sku": "SIN-42",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/golem-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#557769",
+    "id": "scale75-sin-43",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Basilisk Green",
+    "range": "Instant Colors",
+    "sku": "SIN-43",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/basilisk-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8A4346",
+    "id": "scale75-sin-44",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Demon Brown",
+    "range": "Instant Colors",
+    "sku": "SIN-44",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/demon-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#353D36",
+    "id": "scale75-sin-45",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Kraken",
+    "range": "Instant Colors",
+    "sku": "SIN-45",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/dark-kraken"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#95AAA4",
+    "id": "scale75-sin-46",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leviathan Blue",
+    "range": "Instant Colors",
+    "sku": "SIN-46",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/leviathan-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BDACA5",
+    "id": "scale75-sin-47",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spectral Wolf",
+    "range": "Instant Colors",
+    "sku": "SIN-47",
+    "type": "contrast",
+    "url": "https://scale75.com/en/products/spectral-wolf"
+  }
+]

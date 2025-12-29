@@ -1,0 +1,1073 @@
+[
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0D0B0D",
+    "id": "scale75-sc-00",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Scale Color",
+    "sku": "SC-00",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/black"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D7D5DA",
+    "id": "scale75-sc-01",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White",
+    "range": "Scale Color",
+    "sku": "SC-01",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/white"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B1A588",
+    "id": "scale75-sc-02",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nacre",
+    "range": "Scale Color",
+    "sku": "SC-02",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/nacar"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#81807E",
+    "id": "scale75-sc-03",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Graphite",
+    "range": "Scale Color",
+    "sku": "SC-03",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/graphite"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#253545",
+    "id": "scale75-sc-04",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Anthracite Grey",
+    "range": "Scale Color",
+    "sku": "SC-04",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/anthartic-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B5BBCE",
+    "id": "scale75-sc-05",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arctic Blue",
+    "range": "Scale Color",
+    "sku": "SC-05",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/artic-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2D5F6A",
+    "id": "scale75-sc-06",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bering Blue",
+    "range": "Scale Color",
+    "sku": "SC-06",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/bering-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2C414F",
+    "id": "scale75-sc-07",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Caspian Blue",
+    "range": "Scale Color",
+    "sku": "SC-07",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/caspian-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2A2B2F",
+    "id": "scale75-sc-08",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Abyssal Blue",
+    "range": "Scale Color",
+    "sku": "SC-08",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/abyssal-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C5BFA7",
+    "id": "scale75-sc-09",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White Sands",
+    "range": "Scale Color",
+    "sku": "SC-09",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/white-sands"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9A9039",
+    "id": "scale75-sc-10",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tenere Yellow",
+    "range": "Scale Color",
+    "sku": "SC-10",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/tenere-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B48210",
+    "id": "scale75-sc-11",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sahara Yellow",
+    "range": "Scale Color",
+    "sku": "SC-11",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sahara-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#775632",
+    "id": "scale75-sc-12",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gobi Brown",
+    "range": "Scale Color",
+    "sku": "SC-12",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/gobi-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#754D39",
+    "id": "scale75-sc-13",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dubai Brown",
+    "range": "Scale Color",
+    "sku": "SC-13",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/dubai-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AF4222",
+    "id": "scale75-sc-14",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kalahari Orange",
+    "range": "Scale Color",
+    "sku": "SC-14",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/kalahari-orange"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#09888E",
+    "id": "scale75-sc-15",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Adriatic Blue",
+    "range": "Scale Color",
+    "sku": "SC-15",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/adriatic-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0F0D12",
+    "id": "scale75-sc-16",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eclipse Grey",
+    "range": "Scale Color",
+    "sku": "SC-16",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/eclipse-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#EBCFBC",
+    "id": "scale75-sc-17",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pale Skin",
+    "range": "Scale Color",
+    "sku": "SC-17",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/pale-skin"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E1A656",
+    "id": "scale75-sc-18",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Skin",
+    "range": "Scale Color",
+    "sku": "SC-18",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/light-skin"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D39E60",
+    "id": "scale75-sc-19",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Skin",
+    "range": "Scale Color",
+    "sku": "SC-19",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/golden-skin"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B37C5E",
+    "id": "scale75-sc-20",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Basic Flesh",
+    "range": "Scale Color",
+    "sku": "SC-20",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/basic-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B47460",
+    "id": "scale75-sc-21",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pink Flesh",
+    "range": "Scale Color",
+    "sku": "SC-21",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/pink-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8A6533",
+    "id": "scale75-sc-22",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arabic Shadow",
+    "range": "Scale Color",
+    "sku": "SC-22",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/arabic-shadow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6D3E41",
+    "id": "scale75-sc-23",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Indian Shadow",
+    "range": "Scale Color",
+    "sku": "SC-23",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/indian-shadow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2C1C21",
+    "id": "scale75-sc-24",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "African Shadow",
+    "range": "Scale Color",
+    "sku": "SC-24",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/african-shadow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2D2B31",
+    "id": "scale75-sc-25",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Birch",
+    "range": "Scale Color",
+    "sku": "SC-25",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/birch"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A0816F",
+    "id": "scale75-sc-26",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sandalwood",
+    "range": "Scale Color",
+    "sku": "SC-26",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sandalwood"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A78547",
+    "id": "scale75-sc-27",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Iroko",
+    "range": "Scale Color",
+    "sku": "SC-27",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/iroko"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9F613D",
+    "id": "scale75-sc-28",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Leather",
+    "range": "Scale Color",
+    "sku": "SC-28",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/orange-leather"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6D5849",
+    "id": "scale75-sc-29",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Walnut",
+    "range": "Scale Color",
+    "sku": "SC-29",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/walnut"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#423136",
+    "id": "scale75-sc-30",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Leather",
+    "range": "Scale Color",
+    "sku": "SC-30",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/red-leather"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#614740",
+    "id": "scale75-sc-31",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Leather",
+    "range": "Scale Color",
+    "sku": "SC-31",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/brown-leather"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#543F4C",
+    "id": "scale75-sc-32",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Leather",
+    "range": "Scale Color",
+    "sku": "SC-32",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/black-leather"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E3C68",
+    "id": "scale75-sc-33",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sunset Purple",
+    "range": "Scale Color",
+    "sku": "SC-33",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sunset-purple"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B62337",
+    "id": "scale75-sc-34",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fuchsia",
+    "range": "Scale Color",
+    "sku": "SC-34",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/fuchsia"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#912C39",
+    "id": "scale75-sc-35",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Red",
+    "range": "Scale Color",
+    "sku": "SC-35",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/deep-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#972628",
+    "id": "scale75-sc-36",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blood Red",
+    "range": "Scale Color",
+    "sku": "SC-36",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/blood-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B7231A",
+    "id": "scale75-sc-37",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Antares Red",
+    "range": "Scale Color",
+    "sku": "SC-37",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/antares-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BC2D1F",
+    "id": "scale75-sc-38",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aldebaran Network",
+    "range": "Scale Color",
+    "sku": "SC-38",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/aldebaran-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BB582A",
+    "id": "scale75-sc-39",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mars Orange",
+    "range": "Scale Color",
+    "sku": "SC-39",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/mars-orange"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C0A83B",
+    "id": "scale75-sc-40",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sol Yellow",
+    "range": "Scale Color",
+    "sku": "SC-40",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sol-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2B734F",
+    "id": "scale75-sc-41",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Forest Green",
+    "range": "Scale Color",
+    "sku": "SC-41",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/black-forest-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#136142",
+    "id": "scale75-sc-42",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Boreal Green",
+    "range": "Scale Color",
+    "sku": "SC-42",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/boreal-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3FA134",
+    "id": "scale75-sc-43",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Irati Green",
+    "range": "Scale Color",
+    "sku": "SC-43",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/irati-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#96A33B",
+    "id": "scale75-sc-44",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sherwood Green",
+    "range": "Scale Color",
+    "sku": "SC-44",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sherwood-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4C553C",
+    "id": "scale75-sc-45",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ardenes Green",
+    "range": "Scale Color",
+    "sku": "SC-45",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/ardenes-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#626D5C",
+    "id": "scale75-sc-46",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Field Grey",
+    "range": "Scale Color",
+    "sku": "SC-46",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/field-gray"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#80BE43",
+    "id": "scale75-sc-47",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spring Green",
+    "range": "Scale Color",
+    "sku": "SC-47",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/spring-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B4BD32",
+    "id": "scale75-sc-48",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Fall Green",
+    "range": "Scale Color",
+    "sku": "SC-48",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/fall-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#38967E",
+    "id": "scale75-sc-49",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Caribbean Blue",
+    "range": "Scale Color",
+    "sku": "SC-49",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/caribbean-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2272B7",
+    "id": "scale75-sc-50",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sky Blue",
+    "range": "Scale Color",
+    "sku": "SC-50",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sky-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1D5AA4",
+    "id": "scale75-sc-51",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mediterranean Blue",
+    "range": "Scale Color",
+    "sku": "SC-51",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/mediterranean-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3742C3",
+    "id": "scale75-sc-52",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tesla Blue",
+    "range": "Scale Color",
+    "sku": "SC-52",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/tesla-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#264965",
+    "id": "scale75-sc-53",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cantabric Blue",
+    "range": "Scale Color",
+    "sku": "SC-53",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/cantabric-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#336799",
+    "id": "scale75-sc-54",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Navy Blue",
+    "range": "Scale Color",
+    "sku": "SC-54",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/navy-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2A3332",
+    "id": "scale75-sc-55",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Blue",
+    "range": "Scale Color",
+    "sku": "SC-55",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/deep-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4F3A77",
+    "id": "scale75-sc-56",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet Blue",
+    "range": "Scale Color",
+    "sku": "SC-56",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/violet-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4E433F",
+    "id": "scale75-sc-57",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Petroleum Grey",
+    "range": "Scale Color",
+    "sku": "SC-57",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/petroleum-gray"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#404348",
+    "id": "scale75-sc-58",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Graphene Grey",
+    "range": "Scale Color",
+    "sku": "SC-58",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/graphene-gray"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#87766F",
+    "id": "scale75-sc-59",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Grey",
+    "range": "Scale Color",
+    "sku": "SC-59",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/brown-gray"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#756867",
+    "id": "scale75-sc-60",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rainy Grey",
+    "range": "Scale Color",
+    "sku": "SC-60",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/rainy-gray"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#95835F",
+    "id": "scale75-sc-61",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Thar Brown",
+    "range": "Scale Color",
+    "sku": "SC-61",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/thar-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C8BD9F",
+    "id": "scale75-sc-62",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mojave White",
+    "range": "Scale Color",
+    "sku": "SC-62",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/mojave-white"
+  }
+]

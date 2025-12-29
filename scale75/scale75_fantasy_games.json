@@ -1,0 +1,818 @@
+[
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#121211",
+    "id": "scale75-sfg-00",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Decay Black",
+    "range": "Fantasy & Games",
+    "sku": "SFG-00",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/decay-black"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F0F0F0",
+    "id": "scale75-sfg-01",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purity White",
+    "range": "Fantasy & Games",
+    "sku": "SFG-01",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/purity-white"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C001E",
+    "id": "scale75-sfg-02",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hastur Purple",
+    "range": "Fantasy & Games",
+    "sku": "SFG-02",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/hastur-purple"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#97001C",
+    "id": "scale75-sfg-03",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mayhem Red",
+    "range": "Fantasy & Games",
+    "sku": "SFG-03",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/mayhem-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C40635",
+    "id": "scale75-sfg-04",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Baal Crimson",
+    "range": "Fantasy & Games",
+    "sku": "SFG-04",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/baal-crimson"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D63B26",
+    "id": "scale75-sfg-05",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Beherit Red",
+    "range": "Fantasy & Games",
+    "sku": "SFG-05",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/beherit-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E98A1D",
+    "id": "scale75-sfg-06",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tiamat Orange",
+    "range": "Fantasy & Games",
+    "sku": "SFG-06",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/tiamat-orange"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E7BA90",
+    "id": "scale75-sfg-07",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ishtar Pink",
+    "range": "Fantasy & Games",
+    "sku": "SFG-07",
+    "type": "ink",
+    "url": "https://scale75.com/en/products/ishtar-pink"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F3E700",
+    "id": "scale75-sfg-08",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Marduk Yellow",
+    "range": "Fantasy & Games",
+    "sku": "SFG-08",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/marduk-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E2DF95",
+    "id": "scale75-sfg-09",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lilith Yellow",
+    "range": "Fantasy & Games",
+    "sku": "SFG-09",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/lilith-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2B3A2B",
+    "id": "scale75-sfg-10",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Misfits Green",
+    "range": "Fantasy & Games",
+    "sku": "SFG-10",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/misfits-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8F2A58",
+    "id": "scale75-sfg-11",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bloodfest Crimson",
+    "range": "Fantasy & Games",
+    "sku": "SFG-11",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/bloodfest-crimson"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#615697",
+    "id": "scale75-sfg-12",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Braineater Azure",
+    "range": "Fantasy & Games",
+    "sku": "SFG-12",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/braineater-azure"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B6BD6F",
+    "id": "scale75-sfg-13",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Undead Flesh",
+    "range": "Fantasy & Games",
+    "sku": "SFG-13",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/undead-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AF734B",
+    "id": "scale75-sfg-14",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Resurrection Flesh",
+    "range": "Fantasy & Games",
+    "sku": "SFG-14",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/resurrection-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DDB9A1",
+    "id": "scale75-sfg-15",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Harvester Flesh",
+    "range": "Fantasy & Games",
+    "sku": "SFG-15",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/harvester-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9CB197",
+    "id": "scale75-sfg-16",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hellbound Flesh",
+    "range": "Fantasy & Games",
+    "sku": "SFG-16",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/hellbound-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E0D1BE",
+    "id": "scale75-sfg-17",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moonray Flesh",
+    "range": "Fantasy & Games",
+    "sku": "SFG-17",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/moonray-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#30633F",
+    "id": "scale75-sfg-18",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Riff Green",
+    "range": "Fantasy & Games",
+    "sku": "SFG-18",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/riff-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E06E54",
+    "id": "scale75-sfg-19",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orcish Dermis",
+    "range": "Fantasy & Games",
+    "sku": "SFG-19",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/orcish-dermis"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4E6A1D",
+    "id": "scale75-sfg-20",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Merm Green",
+    "range": "Fantasy & Games",
+    "sku": "SFG-20",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/merm-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#276D1B",
+    "id": "scale75-sfg-21",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Greenskin Flesh",
+    "range": "Fantasy & Games",
+    "sku": "SFG-21",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/greenskin-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2DAB8B",
+    "id": "scale75-sfg-22",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Surfer Orc Flesh",
+    "range": "Fantasy & Games",
+    "sku": "SFG-22",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/surfer-orc-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#92B73F",
+    "id": "scale75-sfg-23",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Slimer Green",
+    "range": "Fantasy & Games",
+    "sku": "SFG-23",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/slimer-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9FBE20",
+    "id": "scale75-sfg-24",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Goblin Flesh",
+    "range": "Fantasy & Games",
+    "sku": "SFG-24",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/goblin-flesh"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CDD217",
+    "id": "scale75-sfg-25",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Toxic Waste Green",
+    "range": "Fantasy & Games",
+    "sku": "SFG-25",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/toxic-waste-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#165366",
+    "id": "scale75-sfg-26",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Huldra Blue",
+    "range": "Fantasy & Games",
+    "sku": "SFG-26",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/huldra-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3D2872",
+    "id": "scale75-sfg-27",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eldandil Violet",
+    "range": "Fantasy & Games",
+    "sku": "SFG-27",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/eldandil-violet"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#007159",
+    "id": "scale75-sfg-28",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arphen Jade",
+    "range": "Fantasy & Games",
+    "sku": "SFG-28",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/arphen-jade"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#01309A",
+    "id": "scale75-sfg-29",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arianrhod Blue",
+    "range": "Fantasy & Games",
+    "sku": "SFG-29",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/arianrhod-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0089D2",
+    "id": "scale75-sfg-30",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amarth Blue",
+    "range": "Fantasy & Games",
+    "sku": "SFG-30",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/amarth-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#087BB0",
+    "id": "scale75-sfg-31",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jorildyn Turquoise",
+    "range": "Fantasy & Games",
+    "sku": "SFG-31",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/jorildyn-turquoise"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E81A6",
+    "id": "scale75-sfg-32",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lendanis Grey",
+    "range": "Fantasy & Games",
+    "sku": "SFG-32",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/lendanis-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#458EA7",
+    "id": "scale75-sfg-33",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hiril Blue",
+    "range": "Fantasy & Games",
+    "sku": "SFG-33",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/hiril-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#63384A",
+    "id": "scale75-sfg-34",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arbuckles Brown",
+    "range": "Fantasy & Games",
+    "sku": "SFG-34",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/arbuckles-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7D482A",
+    "id": "scale75-sfg-35",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bosh Chesnut",
+    "range": "Fantasy & Games",
+    "sku": "SFG-35",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/bosh-chesnut"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#723C2D",
+    "id": "scale75-sfg-36",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sharpnel Red",
+    "range": "Fantasy & Games",
+    "sku": "SFG-36",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/sharpnel-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BE722D",
+    "id": "scale75-sfg-37",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vulcan Orange",
+    "range": "Fantasy & Games",
+    "sku": "SFG-37",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/vulcan-orange"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B97004",
+    "id": "scale75-sfg-38",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cokum Copper",
+    "range": "Fantasy & Games",
+    "sku": "SFG-38",
+    "type": "metallic",
+    "url": "https://scale75.com/en/products/cokum-copper"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D79C00",
+    "id": "scale75-sfg-39",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Peanut Butter",
+    "range": "Fantasy & Games",
+    "sku": "SFG-39",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/peanut-butter"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B67647",
+    "id": "scale75-sfg-40",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blackert Brown",
+    "range": "Fantasy & Games",
+    "sku": "SFG-40",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/blackert-brown"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F0E79A",
+    "id": "scale75-sfg-41",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hykey Yellow",
+    "range": "Fantasy & Games",
+    "sku": "SFG-41",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/hykey-yellow"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#333331",
+    "id": "scale75-sfg-42",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Necro Grey",
+    "range": "Fantasy & Games",
+    "sku": "SFG-42",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/necro-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#063230",
+    "id": "scale75-sfg-43",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Despair Green",
+    "range": "Fantasy & Games",
+    "sku": "SFG-43",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/despair-green"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#362220",
+    "id": "scale75-sfg-44",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tindalos Red",
+    "range": "Fantasy & Games",
+    "sku": "SFG-44",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/tindalos-red"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#364344",
+    "id": "scale75-sfg-45",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rlyeh Grey",
+    "range": "Fantasy & Games",
+    "sku": "SFG-45",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/rlyeh-grey"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#40727F",
+    "id": "scale75-sfg-46",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Innsmouth Blue",
+    "range": "Fantasy & Games",
+    "sku": "SFG-46",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/innsmouth-blue"
+  },
+  {
+    "brand": "Scale 75",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A8A6A4",
+    "id": "scale75-sfg-47",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Miskatonic Grey",
+    "range": "Fantasy & Games",
+    "sku": "SFG-47",
+    "type": "opaque",
+    "url": "https://scale75.com/en/products/miskatonic-grey"
+  }
+]
