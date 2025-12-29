@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "commitHash": "860e79b8edb012deb449d2bde658ccf15da30fa5",
-  "generatedAt": "2025-12-29T14:29:04.332053Z",
-  "totalPaints": 4105,
+  "commitHash": "d094031d0da40cc12aa379c77912fed9e2b6524d",
+  "generatedAt": "2025-12-29T14:34:29.767217Z",
+  "totalPaints": 4104,
   "files": [
     {
       "brand": "AK Interactive",
@@ -113,8 +113,8 @@
       "brand": "Reaper",
       "range": "Master Series Core",
       "path": "reaper/reaper_master_series_core.json",
-      "hash": "sha256:b9b626c0860a67345e757f23218d8c9afc4ab93d97b9f85c7029012497ecba3f",
-      "paintCount": 246
+      "hash": "sha256:02c15d13aaf19996f43896feaf8a07e0074bb178ad9b7fca82cac57e1b75241b",
+      "paintCount": 245
     },
     {
       "brand": "Reaper",

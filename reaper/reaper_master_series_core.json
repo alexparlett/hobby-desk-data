@@ -4,23 +4,6 @@
     "brandData": {},
     "category": "",
     "discontinued": false,
-    "hex": "#8F8F8F",
-    "id": "reaper-09000",
-    "impcat": {
-      "layerId": null,
-      "shadeId": null
-    },
-    "name": "Msp Paint Color Sample - Holiday Color",
-    "range": "Master Series Core",
-    "sku": "09000",
-    "type": "opaque",
-    "url": "https://www.reapermini.com/search/09000"
-  },
-  {
-    "brand": "Reaper",
-    "brandData": {},
-    "category": "",
-    "discontinued": false,
     "hex": "#4D1E2A",
     "id": "reaper-09001",
     "impcat": {
