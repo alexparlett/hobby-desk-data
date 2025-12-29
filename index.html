@@ -149,7 +149,15 @@
         }
 
         /* Grid View */
-        .paint-grid {
+        #paint-grid {
+            display: block;
+        }
+
+        #paint-grid:not(.active) {
+            display: none;
+        }
+
+        .brand-paint-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
             gap: 1rem;
@@ -218,13 +226,6 @@
             display: block;
         }
 
-        .paint-grid.active {
-            display: grid;
-        }
-
-        .paint-grid:not(.active) {
-            display: none;
-        }
 
         .paint-list-item {
             display: flex;
@@ -677,7 +678,7 @@
                             ${brand}
                             <span class="brand-count">${brandPaints.length} paints</span>
                         </h2>
-                        <div class="paint-grid active">
+                        <div class="brand-paint-grid">
                 `;
 
                 brandPaints.forEach(paint => {
@@ -847,16 +848,16 @@
             state.view = 'grid';
             elements.gridViewBtn.classList.add('active');
             elements.listViewBtn.classList.remove('active');
-            elements.paintGrid.classList.add('active');
-            elements.paintList.classList.remove('active');
+            document.getElementById('paint-grid').classList.add('active');
+            document.getElementById('paint-list').classList.remove('active');
         });
 
         elements.listViewBtn.addEventListener('click', () => {
             state.view = 'list';
             elements.listViewBtn.classList.add('active');
             elements.gridViewBtn.classList.remove('active');
-            elements.paintList.classList.add('active');
-            elements.paintGrid.classList.remove('active');
+            document.getElementById('paint-list').classList.add('active');
+            document.getElementById('paint-grid').classList.remove('active');
         });
 
         elements.modalOverlay.addEventListener('click', (e) => {
