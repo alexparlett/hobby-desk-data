@@ -1,0 +1,820 @@
+[
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#003493",
+    "id": "gsw-777",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aether Blue",
+    "range": "Acrylic Inks",
+    "sku": "8436574500714ES",
+    "type": "wash",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/777-wash-ink-aether-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FEC063",
+    "id": "gsw-944",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amber Orange",
+    "range": "Acrylic Inks",
+    "sku": "8436574500851ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/944-candy-ink-amber-orange.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#3E0EA6",
+    "id": "gsw-948",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amethyst Purple",
+    "range": "Acrylic Inks",
+    "sku": "8436574500974ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/948-candy-ink-amethyst-purple.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3A3426",
+    "id": "gsw-774",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ancient Sepia",
+    "range": "Acrylic Inks",
+    "sku": "8436574500769ES",
+    "type": "wash",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/774-wash-ink-ancient-sepia.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3F1904",
+    "id": "gsw-773",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Andalusian Earth",
+    "range": "Acrylic Inks",
+    "sku": "8436574500752ES",
+    "type": "wash",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/773-wash-ink-andalusian-earth.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A18887",
+    "id": "gsw-775",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Atramentum Black",
+    "range": "Acrylic Inks",
+    "sku": "8436574500691ES",
+    "type": "wash",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/775-wash-ink-atramentum-black.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4D4D4D",
+    "id": "gsw-3561",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Acrylic Inks",
+    "sku": "8435646516462ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3561-acrylic-ink-opaque-black.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#244288",
+    "id": "gsw-3565",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue",
+    "range": "Acrylic Inks",
+    "sku": "8435646516509ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3565-acrylic-ink-opaque-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E72435",
+    "id": "gsw-776",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blush Red",
+    "range": "Acrylic Inks",
+    "sku": "8436574500707ES",
+    "type": "wash",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/776-wash-ink-blush-red.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AB4C37",
+    "id": "gsw-3567",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown",
+    "range": "Acrylic Inks",
+    "sku": "8435646516523ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3567-acrylic-ink-opaque-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#3C181B",
+    "id": "gsw-3555",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burgundy",
+    "range": "Acrylic Inks",
+    "sku": "8435646516400ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3555-transparent-acrylic-ink-burgundy.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E4C500",
+    "id": "gsw-945",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Citrine Yellow",
+    "range": "Acrylic Inks",
+    "sku": "8436574501186ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/945-candy-ink-citrine-yellow.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#39CEB6",
+    "id": "gsw-3552",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cold Green",
+    "range": "Acrylic Inks",
+    "sku": "8435646516370ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3552-transparent-acrylic-ink-cold-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F4ACC4",
+    "id": "gsw-805",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Crimson Magenta",
+    "range": "Acrylic Inks",
+    "sku": "8436574500806ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/805-intensity-ink-crimson-magenta.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#91B59C",
+    "id": "gsw-814",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gorgon Dark Green",
+    "range": "Acrylic Inks",
+    "sku": "8436574500929ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/814-intensity-ink-gorgon-dark-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#01F96C",
+    "id": "gsw-3772",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green",
+    "range": "Acrylic Inks",
+    "sku": "8435646524573ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3772-fluor-acrylic-ink-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F2EFB9",
+    "id": "gsw-806",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hydromiel Yellow",
+    "range": "Acrylic Inks",
+    "sku": "8436574500820ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/806-intensity-ink-hydromiel-yellow.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#01D97D",
+    "id": "gsw-949",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Jade Green",
+    "range": "Acrylic Inks",
+    "sku": "8436574500967ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/949-candy-ink-jade-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#561A11",
+    "id": "gsw-3566",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Brown",
+    "range": "Acrylic Inks",
+    "sku": "8435646516516ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3566-acrylic-ink-opaque-light-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FA0771",
+    "id": "gsw-3774",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magenta",
+    "range": "Acrylic Inks",
+    "sku": "8435646524597ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3774-fluor-acrylic-ink-magenta.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#014C16",
+    "id": "gsw-780",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moss Green",
+    "range": "Acrylic Inks",
+    "sku": "8436574500745ES",
+    "type": "wash",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/780-wash-ink-moss-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C79D18",
+    "id": "gsw-3557",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ochre",
+    "range": "Acrylic Inks",
+    "sku": "8435646516424ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3557-transparent-acrylic-ink-ochre.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C857F",
+    "id": "gsw-810",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Opulentus Black",
+    "range": "Acrylic Inks",
+    "sku": "8436574500899ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/810-intensity-ink-opulentus-black.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FA5308",
+    "id": "gsw-3773",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange",
+    "range": "Acrylic Inks",
+    "sku": "8435646524580ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3773-fluor-acrylic-ink-orange.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9E9E9",
+    "id": "gsw-3560",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "OSL White",
+    "range": "Acrylic Inks",
+    "sku": "8435646516455ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3560-acrylic-ink-opaque-osl-white.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A7210D",
+    "id": "gsw-778",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pecatum Flesh",
+    "range": "Acrylic Inks",
+    "sku": "8436574500721ES",
+    "type": "wash",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/778-wash-ink-pecatum-flesh.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FDCEA4",
+    "id": "gsw-808",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Phoenix Orange",
+    "range": "Acrylic Inks",
+    "sku": "8436574500837ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/808-intensity-ink-phoenix-orange.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#2B0E6D",
+    "id": "gsw-3554",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple",
+    "range": "Acrylic Inks",
+    "sku": "8435646516394ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3554-transparent-acrylic-ink-purple.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FC2777",
+    "id": "gsw-946",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Quartz Magenta",
+    "range": "Acrylic Inks",
+    "sku": "8436574501162ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/946-candy-ink-quartz-magenta.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DC0B1A",
+    "id": "gsw-3564",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red",
+    "range": "Acrylic Inks",
+    "sku": "8435646516493ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3564-acrylic-ink-opaque-red.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FE3B20",
+    "id": "gsw-943",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ruby Red",
+    "range": "Acrylic Inks",
+    "sku": "8436574501155ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/943-candy-ink-ruby-red.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C0B3D8",
+    "id": "gsw-812",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sacra Purple",
+    "range": "Acrylic Inks",
+    "sku": "8436574500905ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/812-intensity-ink-sacra-purple.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F39087",
+    "id": "gsw-809",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sanguinem Red",
+    "range": "Acrylic Inks",
+    "sku": "8436574500844ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/809-intensity-ink-sanguinem-red.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#038AFE",
+    "id": "gsw-950",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sapphire Blue",
+    "range": "Acrylic Inks",
+    "sku": "8436574500981ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/950-candy-ink-sapphire-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#674613",
+    "id": "gsw-3769",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sepia",
+    "range": "Acrylic Inks",
+    "sku": "8435646524542ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3769-transparent-acrylic-ink-sepia.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CCC6A4",
+    "id": "gsw-816",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sepia Vetus",
+    "range": "Acrylic Inks",
+    "sku": "8436574500943ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/816-intensity-ink-sepia-vetus.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7A2616",
+    "id": "gsw-3770",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Siena",
+    "range": "Acrylic Inks",
+    "sku": "8435646524559ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3770-acrylic-ink-opaque-siena.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CE8F7C",
+    "id": "gsw-804",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Swamp Brown",
+    "range": "Acrylic Inks",
+    "sku": "8436574500790ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/804-intensity-ink-swamp-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9EA0C8",
+    "id": "gsw-813",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tenebris Blue",
+    "range": "Acrylic Inks",
+    "sku": "8436574500912ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/813-intensity-ink-tenebris-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#883311",
+    "id": "gsw-947",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tiger Eye Brown",
+    "range": "Acrylic Inks",
+    "sku": "8436574501148ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/947-candy-ink-tiger-eye-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#007F86",
+    "id": "gsw-3562",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise",
+    "range": "Acrylic Inks",
+    "sku": "8435646516479ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3562-acrylic-ink-opaque-turquoise.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#550E88",
+    "id": "gsw-779",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vicious Purple",
+    "range": "Acrylic Inks",
+    "sku": "8436574500738ES",
+    "type": "wash",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/779-wash-ink-vicious-purple.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7BBBAD",
+    "id": "gsw-807",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Viridis Green",
+    "range": "Acrylic Inks",
+    "sku": "8436574500813ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/807-intensity-ink-viridis-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AFA196",
+    "id": "gsw-815",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Walnut Brown",
+    "range": "Acrylic Inks",
+    "sku": "8436574500936ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/815-intensity-ink-walnut-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#3B9047",
+    "id": "gsw-3553",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warm Green",
+    "range": "Acrylic Inks",
+    "sku": "8435646516387ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3553-transparent-acrylic-ink-warm-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FDF931",
+    "id": "gsw-3771",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow",
+    "range": "Acrylic Inks",
+    "sku": "8435646524566ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3771-fluor-acrylic-ink-yellow.html"
+  }
+]

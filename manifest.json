@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "commitHash": "90fc6dce834250071f5946b87c525e12aef2a636",
-  "generatedAt": "2025-12-30T20:22:02.056280Z",
-  "totalPaints": 4236,
+  "commitHash": "ecafdfd581f7756140db0b222b815b321bc6ce53",
+  "generatedAt": "2025-12-30T22:06:57.246579Z",
+  "totalPaints": 4652,
   "files": [
     {
       "brand": "AK Interactive",
@@ -94,6 +94,97 @@
       "path": "games-workshop/citadel-contrast.json",
       "hash": "sha256:e129da651f9dc418897867bb67e264447fdfd5819277cbd0e0308dcbc57efa09",
       "paintCount": 61
+    },
+    {
+      "brand": "Greenstuffworld",
+      "range": "Acrylic Inks",
+      "path": "greenstuffworld/gsw_acrylic_ink.json",
+      "hash": "sha256:a2741a83a74401fa4c77619301457bceab956ff5304ac2daa75b4a7a1012dd52",
+      "paintCount": 46
+    },
+    {
+      "brand": "Greenstuffworld",
+      "range": "Acrylic Paints",
+      "path": "greenstuffworld/gsw_acrylic.json",
+      "hash": "sha256:58616c2722b837dc349fc92cf8f5ad00b4b94bd22b26e10131e19671c953f010",
+      "paintCount": 105
+    },
+    {
+      "brand": "Greenstuffworld",
+      "range": "Airbrush Paint",
+      "path": "greenstuffworld/gsw_airbrush.json",
+      "hash": "sha256:8c6d0f2267613b425209389ebf582000808d07fe00ac2293425038aac9d417ba",
+      "paintCount": 21
+    },
+    {
+      "brand": "Greenstuffworld",
+      "range": "Chameleon Paints",
+      "path": "greenstuffworld/gsw_chameleon.json",
+      "hash": "sha256:2e258562d7901fad14bf5811951276ff9302c1e040478f7626b0e4d29a0f747a",
+      "paintCount": 25
+    },
+    {
+      "brand": "Greenstuffworld",
+      "range": "Chrome Paints",
+      "path": "greenstuffworld/gsw_chrome.json",
+      "hash": "sha256:acb974c5c113a773877e9d0ea6b51c285d8a70eaccac24ae8928d73ed43aa518",
+      "paintCount": 9
+    },
+    {
+      "brand": "Greenstuffworld",
+      "range": "Crackle Paint",
+      "path": "greenstuffworld/gsw_crackle.json",
+      "hash": "sha256:bcafccf43c229c1d82aec690a853b3d9a16c284be5e3751c668bfe14e308fab4",
+      "paintCount": 4
+    },
+    {
+      "brand": "Greenstuffworld",
+      "range": "Dipping Inks",
+      "path": "greenstuffworld/gsw_dipping_ink.json",
+      "hash": "sha256:4b50e30f1657e13ec52218e92ac237b646cb37f9e6ef4cc4ba696bee59a9bbc7",
+      "paintCount": 37
+    },
+    {
+      "brand": "Greenstuffworld",
+      "range": "Dry Brush Paints",
+      "path": "greenstuffworld/gsw_dry_brush.json",
+      "hash": "sha256:0b21a239d2317012878bd4ecee30202d694217cb9807564944087d080e22e722",
+      "paintCount": 20
+    },
+    {
+      "brand": "Greenstuffworld",
+      "range": "Effect Paints",
+      "path": "greenstuffworld/gsw_effect.json",
+      "hash": "sha256:c5f3584c0ed377c4647bc08cb74289b5a4a58cbc9ce47f2bb73d42cda9889a26",
+      "paintCount": 25
+    },
+    {
+      "brand": "Greenstuffworld",
+      "range": "Fluorescent Paints",
+      "path": "greenstuffworld/gsw_fluor.json",
+      "hash": "sha256:47f3a777cf2c9c0edbb64da9c65989d052037ea85e9894a92e89b147ebeb6c73",
+      "paintCount": 13
+    },
+    {
+      "brand": "Greenstuffworld",
+      "range": "Metallic Paints",
+      "path": "greenstuffworld/gsw_metallic.json",
+      "hash": "sha256:e9258e27c7dee47e9565097ca68085c0e0740e94c301611db83d8d1897cabc09",
+      "paintCount": 31
+    },
+    {
+      "brand": "Greenstuffworld",
+      "range": "Military Paints",
+      "path": "greenstuffworld/gsw_military.json",
+      "hash": "sha256:9bba21f6f47f070cfe942481abbaed1eb2fc9e5bba7f2cb64dbcf0158f41bc95",
+      "paintCount": 56
+    },
+    {
+      "brand": "Greenstuffworld",
+      "range": "Opaque Colors",
+      "path": "greenstuffworld/gsw_opaque.json",
+      "hash": "sha256:12dd24b4fa569dea2ad15ffabb3980d9028c5b12f96407bde0f25e71721683e6",
+      "paintCount": 24
     },
     {
       "brand": "Kimera",

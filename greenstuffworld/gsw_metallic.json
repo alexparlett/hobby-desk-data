@@ -1,0 +1,529 @@
+[
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#63625E",
+    "id": "gsw-911",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Anthrax Metal",
+    "range": "Metallic Paints",
+    "sku": "8436574502213ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/911-metallic-paint-anthrax-metal.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#917333",
+    "id": "gsw-920",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Antique Gold",
+    "range": "Metallic Paints",
+    "sku": "8436574502305ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/920-metallic-paint-antique-gold.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#659BA6",
+    "id": "gsw-914",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aqua Turquoise",
+    "range": "Metallic Paints",
+    "sku": "8436574502350ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/914-metallic-paint-aqua-turquoise.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#01CCFD",
+    "id": "gsw-1482",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Interference",
+    "range": "Metallic Paints",
+    "sku": "8436574509410ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1482-metal-filters-blue-interference.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9B4A4C",
+    "id": "gsw-916",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Caesar Red",
+    "range": "Metallic Paints",
+    "sku": "8436574502336ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/916-metallic-paint-caesar-red.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#28272F",
+    "id": "gsw-4269",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cosmic Silver",
+    "range": "Metallic Paints",
+    "sku": "8435646536439ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/4269-metallic-paint-cosmic-silver.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2F201B",
+    "id": "gsw-909",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Elder Bronze",
+    "range": "Metallic Paints",
+    "sku": "8436574502251ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/909-metallic-paint-dark-elder-bronze.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D8AB55",
+    "id": "gsw-924",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "El Dorado",
+    "range": "Metallic Paints",
+    "sku": "8436574502299ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/924-metallic-paint-el-dorado.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A47963",
+    "id": "gsw-917",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gladius Bronze",
+    "range": "Metallic Paints",
+    "sku": "8436574502268ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/917-metallic-paint-gladius-bronze.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C1B126",
+    "id": "gsw-1486",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold Interference",
+    "range": "Metallic Paints",
+    "sku": "8436574509458ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1486-metal-filters-gold-interference.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#72D444",
+    "id": "gsw-1485",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Interference",
+    "range": "Metallic Paints",
+    "sku": "8436574509441ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1485-metal-filters-green-interference.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#999999",
+    "id": "gsw-913",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Metallic Gun metal grey paint",
+    "range": "Metallic Paints",
+    "sku": "8436574502190ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/913-metallic-paint-gunmetal-grey.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D0D0CE",
+    "id": "gsw-905",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mystic White",
+    "range": "Metallic Paints",
+    "sku": "8436574502220ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/905-metallic-paint-mystic-white.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#489DD9",
+    "id": "gsw-910",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Neptunus Blue",
+    "range": "Metallic Paints",
+    "sku": "8436574502312ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/910-metallic-paint-neptunus-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#996C8D",
+    "id": "gsw-925",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orchid Purple",
+    "range": "Metallic Paints",
+    "sku": "8436574502367ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/925-metallic-paint-orchid-purple.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#56447F",
+    "id": "gsw-926",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Persian Violet",
+    "range": "Metallic Paints",
+    "sku": "8436574502343ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/926-metallic-paint-persian-violet.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#553567",
+    "id": "gsw-1483",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple Interference",
+    "range": "Metallic Paints",
+    "sku": "8436574509427ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1483-metal-filters-purple-interference.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C6CACD",
+    "id": "gsw-912",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Quicksilver",
+    "range": "Metallic Paints",
+    "sku": "8436574502206ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/912-metallic-paint-quicksilver.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#672630",
+    "id": "gsw-1487",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Interference",
+    "range": "Metallic Paints",
+    "sku": "8436574509465ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1487-metal-filters-red-interference.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B06661",
+    "id": "gsw-1481",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Set Metal Filters - Interference Colours",
+    "range": "Metallic Paints",
+    "sku": "8436574506280ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/paint/1481-set-metal-filters-interference-colours.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#ACC2D9",
+    "id": "gsw-907",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sharkfin Blue",
+    "range": "Metallic Paints",
+    "sku": "8436574502237ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/907-metallic-paint-sharkfin-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AF9566",
+    "id": "gsw-923",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shiny Gold",
+    "range": "Metallic Paints",
+    "sku": "8436574502282ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/923-metallic-paint-shiny-gold.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2F897B",
+    "id": "gsw-915",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sirenscale Green",
+    "range": "Metallic Paints",
+    "sku": "8436574502329ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/915-metallic-paint-sirenscale-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BC7865",
+    "id": "gsw-906",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Steampunk Copper",
+    "range": "Metallic Paints",
+    "sku": "8436574502275ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/906-metallic-paint-steampunk-copper.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A9998A",
+    "id": "gsw-908",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tinmetal Grey",
+    "range": "Metallic Paints",
+    "sku": "8436574502244ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/908-metallic-paint-tinmetal-grey.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#116F78",
+    "id": "gsw-1484",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise Interference",
+    "range": "Metallic Paints",
+    "sku": "8436574509434ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1484-metal-filters-turquoise-interference.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#121325",
+    "id": "gsw-4498",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vivid Metallic Paint - Anvil Blue",
+    "range": "Metallic Paints",
+    "sku": "8436574509267ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/4498-vivid-metallic-paint-anvil-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#280C0A",
+    "id": "gsw-4497",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vivid Metallic Paint - Flameflare Red",
+    "range": "Metallic Paints",
+    "sku": "8436574509250ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/4497-vivid-metallic-paint-flameflare-red.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#132413",
+    "id": "gsw-4499",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vivid Metallic Paint - Ironleaf Green",
+    "range": "Metallic Paints",
+    "sku": "8436574509274ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/4499-vivid-metallic-paint-ironleaf-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#301602",
+    "id": "gsw-4500",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vivid Metallic Paint - Kingsfall Gold",
+    "range": "Metallic Paints",
+    "sku": "8436574509281ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/4500-vivid-metallic-paint-kingsfall-gold.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#281322",
+    "id": "gsw-4501",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vivid Metallic Paint - Purple Passion",
+    "range": "Metallic Paints",
+    "sku": "8436574509298ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/metallic-acrylic-paints/4501-vivid-metallic-paint-purple-passion.html"
+  }
+]

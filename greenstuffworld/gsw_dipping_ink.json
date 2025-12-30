@@ -1,0 +1,633 @@
+[
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#364A06",
+    "id": "gsw-3312",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Acid Green Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515946ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3312-dipping-ink-17-ml-acid-green-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "glowInDark": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#632A0D",
+    "id": "gsw-3314",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Amberglow Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515922ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3314-dipping-ink-17-ml-amberglow-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#064445",
+    "id": "gsw-3317",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Azure Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515892ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3317-dipping-ink-17-ml-azure-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#36A7D0",
+    "id": "gsw-3304",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Glacier Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646516028ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3304-dipping-ink-17-ml-blue-glacier-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3D1820",
+    "id": "gsw-3309",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burgundy Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515977ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3309-dipping-ink-17-ml-burgundy-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#287064",
+    "id": "gsw-3325",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cool Blue Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515816ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3325-dipping-ink-17-ml-cool-blue-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B8B3C7",
+    "id": "gsw-3308",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deep Black Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515984ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3308-dipping-ink-17-ml-deep-black-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1F3745",
+    "id": "gsw-3324",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dusty Blue Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515823ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3324-dipping-ink-17-ml-dusty-blue-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3F2714",
+    "id": "gsw-3322",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Elfwood Brown Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515847ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3322-dipping-ink-17-ml-elfwood-brown-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#59213D",
+    "id": "gsw-3328",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Garnet Purple Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515786ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3328-dipping-ink-17-ml-garnet-purple-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7F2C48",
+    "id": "gsw-3327",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glorious Magenta Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515793ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3327-dipping-ink-17-ml-glorious-magenta-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#501E1B",
+    "id": "gsw-3310",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Goth Skin Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515960ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3310-dipping-ink-17-ml-goth-skin-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#14410C",
+    "id": "gsw-3320",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Ghost Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515861ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3320-dipping-ink-17-ml-green-ghost-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#01544E",
+    "id": "gsw-3300",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Shark Skin Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646516066ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3300-dipping-ink-17-ml-green-shark-skin-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3E4438",
+    "id": "gsw-3326",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Stone Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515809ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3326-dipping-ink-17-ml-green-stone-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B8B3C7",
+    "id": "gsw-3299",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Mist Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646516073ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3299-dipping-ink-17-ml-grey-mist-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#034623",
+    "id": "gsw-3319",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hulky Green Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515878ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3319-dipping-ink-17-ml-hulky-green-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#172447",
+    "id": "gsw-3316",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Indigo Blue Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515908ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3316-dipping-ink-17-ml-indigo-blue-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#625B05",
+    "id": "gsw-3313",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Limelight Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515939ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3313-dipping-ink-17-ml-limelight-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#996217",
+    "id": "gsw-3331",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Misted Yellow Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515755ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3331-dipping-ink-17-ml-misted-yellow-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#776596",
+    "id": "gsw-3302",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Morrow Purple Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646516042ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3302-dipping-ink-17-ml-morrow-purple-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#483B83",
+    "id": "gsw-2434",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nightsahde Purple Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646508580ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/2434-dipping-ink-60-ml-nightsahde-purple-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#382148",
+    "id": "gsw-3315",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nightshade Purple Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515915ES",
+    "type": "wash",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3315-dipping-ink-17-ml-nightshade-purple-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DE948F",
+    "id": "gsw-3305",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nude Skin Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646516011ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3305-dipping-ink-17-ml-nude-skin-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0F2913",
+    "id": "gsw-3318",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ork Flesh Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515885ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3318-dipping-ink-17-ml-ork-flesh-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C6A34",
+    "id": "gsw-3332",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Papyrus Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515748ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3332-dipping-ink-17-ml-papyrus-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2F254A",
+    "id": "gsw-3301",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple Vanity Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646516059ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3301-dipping-ink-17-ml-purple-vanity-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C4006",
+    "id": "gsw-3330",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Radiant Orange Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515762ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3330-dipping-ink-17-ml-radiant-orange-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A34643",
+    "id": "gsw-3329",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Cloak Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515779ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3329-dipping-ink-17-ml-red-cloak-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DA2021",
+    "id": "gsw-3298",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Opulence Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646516080ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3298-dipping-ink-17-ml-red-opulence-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BF6E56",
+    "id": "gsw-3306",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Seraphim Flesh Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646516004ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3306-dipping-ink-17-ml-seraphim-flesh-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3F2F1A",
+    "id": "gsw-3321",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skeleton Brown Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515854ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3321-dipping-ink-17-ml-skeleton-brown-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#583893",
+    "id": "gsw-2564",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Skull Linen Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646510682ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/2564-dipping-ink-60-ml-skull-linen-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#024F40",
+    "id": "gsw-3311",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise Ghost Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515953ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3311-dipping-ink-17-ml-turquoise-ghost-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9F86C9",
+    "id": "gsw-3303",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet Hint Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646516035ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3303-dipping-ink-17-ml-violet-hint-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DDB705",
+    "id": "gsw-3307",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Submarine Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515991ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3307-dipping-ink-17-ml-yellow-submarine-dip.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#282C14",
+    "id": "gsw-3323",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Zombie Dip",
+    "range": "Dipping Inks",
+    "sku": "8435646515830ES",
+    "type": "contrast",
+    "url": "https://www.greenstuffworld.com/en/dipping-inks/3323-dipping-ink-17-ml-zombie-dip.html"
+  }
+]

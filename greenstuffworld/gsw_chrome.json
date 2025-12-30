@@ -1,0 +1,155 @@
+[
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#838578",
+    "id": "gsw-1430",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Airbrush",
+    "range": "Chrome Paints",
+    "sku": "8436574508147ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chrome-paints/1430-chrome-paint-airbrush.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#875B09",
+    "id": "gsw-2594",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Antique GOLD",
+    "range": "Chrome Paints",
+    "sku": "8435646510521ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chrome-paints/2594-chrome-paint-antique-gold-17ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#838578",
+    "id": "gsw-2947",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Chrome Paint - Airbrush",
+    "range": "Chrome Paints",
+    "sku": "8436574509366ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chrome-paints/2947-black-chrome-paint-airbrush.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#98540B",
+    "id": "gsw-2592",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bronze",
+    "range": "Chrome Paints",
+    "sku": "8435646510507ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chrome-paints/2592-chrome-paint-bronze-17ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#506170",
+    "id": "gsw-4287",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chrome Clear Coat",
+    "range": "Chrome Paints",
+    "sku": "8435646536415ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/varnishes/4287-chrome-clear-coat-60-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#757575",
+    "id": "gsw-1429",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chrome Paint",
+    "range": "Chrome Paints",
+    "sku": "8436574508130ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chrome-paints/1429-chrome-paint.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#643424",
+    "id": "gsw-2596",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Copper",
+    "range": "Chrome Paints",
+    "sku": "8435646510545ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chrome-paints/2596-chrome-paint-copper-17ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#786200",
+    "id": "gsw-2593",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold",
+    "range": "Chrome Paints",
+    "sku": "8435646510514ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chrome-paints/2593-chrome-paint-gold-17ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#795835",
+    "id": "gsw-2595",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tinplate",
+    "range": "Chrome Paints",
+    "sku": "8435646510538ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chrome-paints/2595-chrome-paint-tinplate-17ml.html"
+  }
+]

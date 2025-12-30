@@ -1,0 +1,431 @@
+[
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7CB836",
+    "id": "gsw-1341",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bile Effect",
+    "range": "Effect Paints",
+    "sku": "8436574507577ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/effect-paints/1341-bile-effect.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#283E68",
+    "id": "gsw-2948",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blood Effects - Prince Blood",
+    "range": "Effect Paints",
+    "sku": "8435646515076ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/effect-paints/2948-blood-effects-prince-blood.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F0CFC3",
+    "id": "gsw-989",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chipping Medium",
+    "range": "Effect Paints",
+    "sku": "8436574502480ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/chipping-and-oxidizer/989-chipping-medium-weathering-and-scratches.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#730002",
+    "id": "gsw-1012",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Coagulated Blood",
+    "range": "Effect Paints",
+    "sku": "8436574500684ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/effect-paints/1012-coagulated-blood.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#052A72",
+    "id": "gsw-1087",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Conductive Paint",
+    "range": "Effect Paints",
+    "sku": "8436574504590ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/electrically-conductive-paint/1087-conductive-paint-with-silver.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#483473",
+    "id": "gsw-2889",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Demon Blood Effect",
+    "range": "Effect Paints",
+    "sku": "8435646515083ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/effect-paints/2889-demon-blood-effect.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#65574D",
+    "id": "gsw-1097",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Holographic Paint",
+    "range": "Effect Paints",
+    "sku": "8436574500325ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1097-holographic-paint.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0E93D7",
+    "id": "gsw-1387",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Liquid Frost",
+    "range": "Effect Paints",
+    "sku": "8436574504767ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/liquid-frost/1387-liquid-frost.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2A2A2A",
+    "id": "gsw-3364",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Maxx Darth Black Paint",
+    "range": "Effect Paints",
+    "sku": "8435646514444ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/blackest-black-paint/3364-maxx-darth-black-paint-17-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#838383",
+    "id": "gsw-3366",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Maxx Darth Paint",
+    "range": "Effect Paints",
+    "sku": "8435646515205ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/blackest-black-paint/3366-maxx-darth-paint-60-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FA5E27",
+    "id": "gsw-1288",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Rust",
+    "range": "Effect Paints",
+    "sku": "8436574506457ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/liquid-pigments/1288-liquid-pigments-orange-rust.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#095F29",
+    "id": "gsw-1013",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ork Blood",
+    "range": "Effect Paints",
+    "sku": "8436574502497ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/effect-paints/1013-ork-blood-effect.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#867C7B",
+    "id": "gsw-2949",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Osl White",
+    "range": "Effect Paints",
+    "sku": "8435646508665ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/2949-intensity-ink-osl-white.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C26E33",
+    "id": "gsw-1488",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oxidizer",
+    "range": "Effect Paints",
+    "sku": "8436574509243ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/chipping-and-oxidizer/1488-oxidizer-for-metals-17ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0C9DBA",
+    "id": "gsw-1717",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Snow Textures - SNOW",
+    "range": "Effect Paints",
+    "sku": "8435646501550ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/snow-textures/1717-snow-textures-snow-30ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#433F3D",
+    "id": "gsw-694",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spider Serum",
+    "range": "Effect Paints",
+    "sku": "8436574500158ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/spider-serum/694-spider-serum.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B5E5F",
+    "id": "gsw-695",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Spider Serum Cleaner",
+    "range": "Effect Paints",
+    "sku": "8436574500165ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/spider-serum/695-spider-serum-cleaner.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#265B76",
+    "id": "gsw-1169",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Splash Gel - Water Effect",
+    "range": "Effect Paints",
+    "sku": "8436574505443ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/water-gel/1169-splash-gel-water-effect.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AE011A",
+    "id": "gsw-899",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "True Blood",
+    "range": "Effect Paints",
+    "sku": "8436574500776ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/effect-paints/899-true-blood-effect.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#02AEBA",
+    "id": "gsw-1293",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise Oxide",
+    "range": "Effect Paints",
+    "sku": "8436574506501ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/liquid-pigments/1293-liquid-pigments-turquoise-oxide.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#588C0C",
+    "id": "gsw-986",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "UV Resin 30ml - Toxic Effect",
+    "range": "Effect Paints",
+    "sku": "8436574504538ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/ultraviolet-resin/986-uv-resin-30ml-toxic-effect.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6E4B5C",
+    "id": "gsw-934",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "UV Resin 30ml - Water Effect",
+    "range": "Effect Paints",
+    "sku": "8436574503791ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/ultraviolet-resin/934-uv-resin-30ml-water-effect.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#21A983",
+    "id": "gsw-1292",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Verdigris",
+    "range": "Effect Paints",
+    "sku": "8436574506495ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/liquid-pigments/1292-liquid-pigments-verdigris.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E3921B",
+    "id": "gsw-1342",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Vomit Effect",
+    "range": "Effect Paints",
+    "sku": "8436574507584ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/effect-paints/1342-vomit-effect.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6891A0",
+    "id": "gsw-3124",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Water foam texture",
+    "range": "Effect Paints",
+    "sku": "8435646508863ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/water-gel/3124-water-foam-texture-30ml.html"
+  }
+]

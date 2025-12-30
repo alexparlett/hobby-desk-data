@@ -1,0 +1,344 @@
+[
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#024FA0",
+    "id": "gsw-2975",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Alpha Turquoise",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514567ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2975-dry-brush-alpha-turquoise-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#024FA0",
+    "id": "gsw-2976",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Aqua Oxide",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514574ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2976-dry-brush-aqua-oxide-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#01519F",
+    "id": "gsw-2972",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Wolf Touch",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514536ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2972-dry-brush-blue-wolf-touch-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0150A0",
+    "id": "gsw-2980",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bonemeal",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514611ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2980-dry-brush-bonemeal-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#01509F",
+    "id": "gsw-2967",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Butter Yellow",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514482ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2967-dry-brush-butter-yellow-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#02509F",
+    "id": "gsw-2968",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Coral Touch",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514499ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2968-dry-brush-coral-touch-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#01509E",
+    "id": "gsw-2969",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Courage Mauve",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514505ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2969-dry-brush-courage-mauve-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0151A0",
+    "id": "gsw-2985",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cursed Gold",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514666ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2985-metallic-dry-brush-cursed-gold-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0150A0",
+    "id": "gsw-2984",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Forged Iron",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514659ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2984-metallic-dry-brush-dark-forged-iron-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0150A0",
+    "id": "gsw-2983",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dry Aged Silver",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514642ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2983-metallic-dry-brush-dry-aged-silver-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#01509F",
+    "id": "gsw-2978",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dry Puke Green",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514598ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2978-dry-brush-dry-puke-green-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0250A0",
+    "id": "gsw-2974",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dry Violet",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514550ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2974-dry-brush-dry-violet-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0250A0",
+    "id": "gsw-2970",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grimdark Orange",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514512ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2970-dry-brush-grimdark-orange-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0150A0",
+    "id": "gsw-2986",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Imperial Copper",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514673ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2986-metallic-dry-brush-imperial-copper-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#024FA0",
+    "id": "gsw-2979",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Off-White",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514604ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2979-dry-brush-off-white-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#024FA0",
+    "id": "gsw-2977",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Raptor Green",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514581ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2977-dry-brush-raptor-green-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0250A0",
+    "id": "gsw-2973",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Bark",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514543ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2973-dry-brush-red-bark-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#034FA0",
+    "id": "gsw-2982",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rock Grey",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514635ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2982-dry-brush-rock-grey-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#01509F",
+    "id": "gsw-2981",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Storm Grey",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514628ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2981-dry-brush-storm-grey-30-ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#02509F",
+    "id": "gsw-2971",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Touch",
+    "range": "Dry Brush Paints",
+    "sku": "8435646514529ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/dry-brush-paints/2971-dry-brush-ultramarine-touch-30-ml.html"
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#1246C0",
+    "id": "gsw-769",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue",
+    "range": "Fluorescent Paints",
+    "sku": "8436574500660ES",
+    "type": "fluorescent",
+    "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/769-fluor-paint-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#01F96C",
+    "id": "gsw-3772",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green",
+    "range": "Fluorescent Paints",
+    "sku": "8435646524573ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3772-fluor-acrylic-ink-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#00FF47",
+    "id": "gsw-754",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lime",
+    "range": "Fluorescent Paints",
+    "sku": "8436574500592ES",
+    "type": "fluorescent",
+    "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/754-fluor-paint-lime.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FA0771",
+    "id": "gsw-3774",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magenta",
+    "range": "Fluorescent Paints",
+    "sku": "8435646524597ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3774-fluor-acrylic-ink-magenta.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FA5308",
+    "id": "gsw-3773",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange",
+    "range": "Fluorescent Paints",
+    "sku": "8435646524580ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3773-fluor-acrylic-ink-orange.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FF0A33",
+    "id": "gsw-766",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red",
+    "range": "Fluorescent Paints",
+    "sku": "8436574500639ES",
+    "type": "fluorescent",
+    "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/766-fluor-paint-red.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FF2E81",
+    "id": "gsw-767",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rose",
+    "range": "Fluorescent Paints",
+    "sku": "8436574500646ES",
+    "type": "fluorescent",
+    "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/767-fluor-paint-rose.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#0193BB",
+    "id": "gsw-797",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Set x8 Fluor Paints",
+    "range": "Fluorescent Paints",
+    "sku": "8436554368525ES",
+    "type": "fluorescent",
+    "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/797-set-x8-fluor-paints.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#008B71",
+    "id": "gsw-1886",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise",
+    "range": "Fluorescent Paints",
+    "sku": "8436574501353ES",
+    "type": "fluorescent",
+    "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/1886-fluor-paint-turquoise.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CD34B3",
+    "id": "gsw-768",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet",
+    "range": "Fluorescent Paints",
+    "sku": "8436574500653ES",
+    "type": "fluorescent",
+    "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/768-fluor-paint-violet.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#777777",
+    "id": "gsw-770",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "White",
+    "range": "Fluorescent Paints",
+    "sku": "8436574501193ES",
+    "type": "fluorescent",
+    "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/770-fluor-paint-white.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FDF931",
+    "id": "gsw-3771",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow",
+    "range": "Fluorescent Paints",
+    "sku": "8435646524566ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3771-fluor-acrylic-ink-yellow.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FF9F00",
+    "id": "gsw-764",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow-Orange",
+    "range": "Fluorescent Paints",
+    "sku": "8436574500615ES",
+    "type": "fluorescent",
+    "url": "https://www.greenstuffworld.com/en/fluorescent-acrylic-paints/764-fluor-paint-yellow-orange.html"
+  }
+]

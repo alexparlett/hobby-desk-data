@@ -1,0 +1,377 @@
+[
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#838578",
+    "id": "gsw-1430",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Airbrush",
+    "range": "Airbrush Paint",
+    "sku": "8436574508147ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chrome-paints/1430-chrome-paint-airbrush.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#4D4D4D",
+    "id": "gsw-3561",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black",
+    "range": "Airbrush Paint",
+    "sku": "8435646516462ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3561-acrylic-ink-opaque-black.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#838578",
+    "id": "gsw-2947",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Chrome Paint - Airbrush",
+    "range": "Airbrush Paint",
+    "sku": "8436574509366ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chrome-paints/2947-black-chrome-paint-airbrush.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#244288",
+    "id": "gsw-3565",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue",
+    "range": "Airbrush Paint",
+    "sku": "8435646516509ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3565-acrylic-ink-opaque-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AB4C37",
+    "id": "gsw-3567",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown",
+    "range": "Airbrush Paint",
+    "sku": "8435646516523ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3567-acrylic-ink-opaque-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#3C181B",
+    "id": "gsw-3555",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burgundy",
+    "range": "Airbrush Paint",
+    "sku": "8435646516400ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3555-transparent-acrylic-ink-burgundy.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#39CEB6",
+    "id": "gsw-3552",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cold Green",
+    "range": "Airbrush Paint",
+    "sku": "8435646516370ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3552-transparent-acrylic-ink-cold-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#01F96C",
+    "id": "gsw-3772",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green",
+    "range": "Airbrush Paint",
+    "sku": "8435646524573ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3772-fluor-acrylic-ink-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#65574D",
+    "id": "gsw-1097",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Holographic Paint",
+    "range": "Airbrush Paint",
+    "sku": "8436574500325ES",
+    "type": "air",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1097-holographic-paint.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#561A11",
+    "id": "gsw-3566",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Brown",
+    "range": "Airbrush Paint",
+    "sku": "8435646516516ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3566-acrylic-ink-opaque-light-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FA0771",
+    "id": "gsw-3774",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magenta",
+    "range": "Airbrush Paint",
+    "sku": "8435646524597ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3774-fluor-acrylic-ink-magenta.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C79D18",
+    "id": "gsw-3557",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ochre",
+    "range": "Airbrush Paint",
+    "sku": "8435646516424ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3557-transparent-acrylic-ink-ochre.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "uvReactive": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#FA5308",
+    "id": "gsw-3773",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange",
+    "range": "Airbrush Paint",
+    "sku": "8435646524580ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3773-fluor-acrylic-ink-orange.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9E9E9",
+    "id": "gsw-3560",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "OSL White",
+    "range": "Airbrush Paint",
+    "sku": "8435646516455ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3560-acrylic-ink-opaque-osl-white.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#2B0E6D",
+    "id": "gsw-3554",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple",
+    "range": "Airbrush Paint",
+    "sku": "8435646516394ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3554-transparent-acrylic-ink-purple.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DC0B1A",
+    "id": "gsw-3564",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red",
+    "range": "Airbrush Paint",
+    "sku": "8435646516493ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3564-acrylic-ink-opaque-red.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#674613",
+    "id": "gsw-3769",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sepia",
+    "range": "Airbrush Paint",
+    "sku": "8435646524542ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3769-transparent-acrylic-ink-sepia.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7A2616",
+    "id": "gsw-3770",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Siena",
+    "range": "Airbrush Paint",
+    "sku": "8435646524559ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3770-acrylic-ink-opaque-siena.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#007F86",
+    "id": "gsw-3562",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise",
+    "range": "Airbrush Paint",
+    "sku": "8435646516479ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3562-acrylic-ink-opaque-turquoise.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "transparent": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#3B9047",
+    "id": "gsw-3553",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warm Green",
+    "range": "Airbrush Paint",
+    "sku": "8435646516387ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3553-transparent-acrylic-ink-warm-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FBD10B",
+    "id": "gsw-3569",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow",
+    "range": "Airbrush Paint",
+    "sku": "8435646516547ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/acrylic-inks/3569-acrylic-ink-opaque-yellow.html"
+  }
+]

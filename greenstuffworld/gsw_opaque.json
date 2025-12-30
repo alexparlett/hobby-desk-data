@@ -1,0 +1,410 @@
+[
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FAE44E",
+    "id": "gsw-3205",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blazing Yellow",
+    "range": "Opaque Colors",
+    "sku": "8435646514796ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3205-opaque-colors-blazing-yellow.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3D5287",
+    "id": "gsw-3200",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Base",
+    "range": "Opaque Colors",
+    "sku": "8435646514918ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3200-opaque-colors-blue-base.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#55595C",
+    "id": "gsw-3211",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Concrete",
+    "range": "Opaque Colors",
+    "sku": "8435646514727ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3211-opaque-colors-dark-concrete.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#00492C",
+    "id": "gsw-3199",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Evergreen",
+    "range": "Opaque Colors",
+    "sku": "8435646514895ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3199-opaque-colors-dark-evergreen.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C16864",
+    "id": "gsw-3204",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Rose Tan",
+    "range": "Opaque Colors",
+    "sku": "8435646514789ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3204-opaque-colors-dark-rose-tan.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AC8B86",
+    "id": "gsw-3197",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dead Flesh",
+    "range": "Opaque Colors",
+    "sku": "8435646514857ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3197-opaque-colors-dead-flesh.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B5B3A7",
+    "id": "gsw-3215",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Donkey Grey",
+    "range": "Opaque Colors",
+    "sku": "8435646514710ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3215-opaque-colors-donkey-grey.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#380A0A",
+    "id": "gsw-3195",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Feral Brown",
+    "range": "Opaque Colors",
+    "sku": "8435646514833ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3195-opaque-colors-feral-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#B02B00",
+    "id": "gsw-3194",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Firethorn Brown",
+    "range": "Opaque Colors",
+    "sku": "8435646514826ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3194-opaque-colors-firethorn-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C1CAF5",
+    "id": "gsw-3212",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Glazier Blue",
+    "range": "Opaque Colors",
+    "sku": "8435646514734ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3212-opaque-colors-glazier-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CA8D1A",
+    "id": "gsw-3206",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Golden Brown",
+    "range": "Opaque Colors",
+    "sku": "8435646514802ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3206-opaque-colors-golden-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#706963",
+    "id": "gsw-3196",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Granite Grey",
+    "range": "Opaque Colors",
+    "sku": "8435646514840ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3196-opaque-colors-granite-grey.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A7AFB0",
+    "id": "gsw-3213",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gypsum White",
+    "range": "Opaque Colors",
+    "sku": "8435646514697ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3213-opaque-colors-gypsum-white.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DFCA95",
+    "id": "gsw-3214",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khaki Bone",
+    "range": "Opaque Colors",
+    "sku": "8435646514703ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3214-opaque-colors-khaki-bone.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E9A66C",
+    "id": "gsw-3203",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Light Tan",
+    "range": "Opaque Colors",
+    "sku": "8435646514772ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3203-opaque-colors-light-tan.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#9D81A9",
+    "id": "gsw-3216",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mead Violet",
+    "range": "Opaque Colors",
+    "sku": "8435646514741ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3216-opaque-colors-mead-violet.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#461B53",
+    "id": "gsw-3217",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nightmare Purple",
+    "range": "Opaque Colors",
+    "sku": "8435646514925ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3217-opaque-colors-nightmare-purple.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#FE6B36",
+    "id": "gsw-3207",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange Peel",
+    "range": "Opaque Colors",
+    "sku": "8435646514819ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3207-opaque-colors-orange-peel.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#0F6F13",
+    "id": "gsw-3209",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pickle Green",
+    "range": "Opaque Colors",
+    "sku": "8435646514871ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3209-opaque-colors-pickle-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D63226",
+    "id": "gsw-3202",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Primaris Red",
+    "range": "Opaque Colors",
+    "sku": "8435646514765ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3202-opaque-colors-primaris-red.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#53742D",
+    "id": "gsw-3198",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Putrid Green",
+    "range": "Opaque Colors",
+    "sku": "8435646514888ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3198-opaque-colors-putrid-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#A30F01",
+    "id": "gsw-3201",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scab Red",
+    "range": "Opaque Colors",
+    "sku": "8435646514758ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3201-opaque-colors-scab-red.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3D4A5B",
+    "id": "gsw-3210",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Terror Grey-Blue",
+    "range": "Opaque Colors",
+    "sku": "8435646514901ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3210-opaque-colors-terror-grey-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#584A01",
+    "id": "gsw-3208",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Wilted Green",
+    "range": "Opaque Colors",
+    "sku": "8435646514864ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/opaque-colors/3208-opaque-colors-wilted-green.html"
+  }
+]

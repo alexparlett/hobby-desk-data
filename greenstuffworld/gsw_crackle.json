@@ -1,0 +1,70 @@
+[
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#261211",
+    "id": "gsw-904",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Badlands",
+    "range": "Crackle Paint",
+    "sku": "8436574501773ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/crackle-paint/904-crackle-paint-badlands-60ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#BE614C",
+    "id": "gsw-942",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Martian Earth",
+    "range": "Crackle Paint",
+    "sku": "8436574501766ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/crackle-paint/942-crackle-paint-martian-earth-60ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E1BA7A",
+    "id": "gsw-903",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mojave Mudcrack",
+    "range": "Crackle Paint",
+    "sku": "8436574501780ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/crackle-paint/903-crackle-paint-mojave-mudcrack-60ml.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#261211",
+    "id": "gsw-2533",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Winterfell Plains",
+    "range": "Crackle Paint",
+    "sku": "8435646508351ES",
+    "type": "technical",
+    "url": "https://www.greenstuffworld.com/en/crackle-paint/2533-crackle-paint-winterfell-plains-60ml.html"
+  }
+]

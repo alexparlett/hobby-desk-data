@@ -1,0 +1,954 @@
+[
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#144144",
+    "id": "gsw-1883",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arachnid Green",
+    "range": "Military Paints",
+    "sku": "8435646505992ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1883-acrylic-color-arachnid-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E59E2A",
+    "id": "gsw-1857",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Arrakis Brown",
+    "range": "Military Paints",
+    "sku": "8435646505732ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1857-acrylic-color-arrakis-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#25221B",
+    "id": "gsw-1187",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Barrel Grey",
+    "range": "Military Paints",
+    "sku": "8436574502411ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1187-acrylic-color-barrel-grey.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#607B69",
+    "id": "gsw-1072",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Black Stallion",
+    "range": "Military Paints",
+    "sku": "8436574501384ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1072-acrylic-color-black-stallion.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#607B69",
+    "id": "gsw-1877",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blackroot Grey",
+    "range": "Military Paints",
+    "sku": "8435646505930ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1877-acrylic-color-blackroot-grey.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5D7666",
+    "id": "gsw-1882",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bluebird Grey",
+    "range": "Military Paints",
+    "sku": "8435646505985ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1882-acrylic-color-bluebird-grey.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2B2C41",
+    "id": "gsw-1066",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bluegrey Dusk",
+    "range": "Military Paints",
+    "sku": "8436574501957ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1066-acrylic-color-bluegrey-dusk.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#812609",
+    "id": "gsw-1863",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Brown Skin",
+    "range": "Military Paints",
+    "sku": "8435646505794ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1863-acrylic-color-brown-skin.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#605F1C",
+    "id": "gsw-1047",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Camouflage Green",
+    "range": "Military Paints",
+    "sku": "8436574501599ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1047-acrylic-color-camouflage-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#322E45",
+    "id": "gsw-1866",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chancellor Blue",
+    "range": "Military Paints",
+    "sku": "8435646505824ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1866-acrylic-color-chancellor-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#816A40",
+    "id": "gsw-1183",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Coyote Brown",
+    "range": "Military Paints",
+    "sku": "8436574502152ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1183-acrylic-color-coyote-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#725D42",
+    "id": "gsw-1181",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Beige",
+    "range": "Military Paints",
+    "sku": "8436574502138ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1181-acrylic-color-dark-beige.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5D7666",
+    "id": "gsw-1071",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Umber",
+    "range": "Military Paints",
+    "sku": "8436574502008ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1071-acrylic-color-dark-umber.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#607B69",
+    "id": "gsw-1190",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Deck Grey",
+    "range": "Military Paints",
+    "sku": "8436574502442ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1190-acrylic-color-deck-grey.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#927A3A",
+    "id": "gsw-1184",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Desert Camo",
+    "range": "Military Paints",
+    "sku": "8436574502169ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1184-acrylic-color-desert-camo.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#6C4713",
+    "id": "gsw-1182",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "English Field Brown",
+    "range": "Military Paints",
+    "sku": "8436574502145ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1182-acrylic-color-english-field-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#F6793C",
+    "id": "gsw-1858",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Faded Orange",
+    "range": "Military Paints",
+    "sku": "8435646505749ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1858-acrylic-color-faded-orange.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1B4723",
+    "id": "gsw-1178",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Field Green-Grey",
+    "range": "Military Paints",
+    "sku": "8436574502084ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1178-acrylic-color-field-green-grey.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#00380F",
+    "id": "gsw-1044",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Forest Green",
+    "range": "Military Paints",
+    "sku": "8436574501568ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1044-acrylic-color-forest-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C06001",
+    "id": "gsw-1060",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Foxhide Brown",
+    "range": "Military Paints",
+    "sku": "8436574501896ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1060-acrylic-color-foxhide-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3A4211",
+    "id": "gsw-1176",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gangrene",
+    "range": "Military Paints",
+    "sku": "8436574502107ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1176-acrylic-color-gangrene.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#67593C",
+    "id": "gsw-1188",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gengis Khaki",
+    "range": "Military Paints",
+    "sku": "8436574502428ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1188-acrylic-color-gengis-khaki.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#62857E",
+    "id": "gsw-1872",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Grey Teal",
+    "range": "Military Paints",
+    "sku": "8435646505886ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1872-acrylic-color-grey-teal.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#895929",
+    "id": "gsw-1052",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Komodo Khaki",
+    "range": "Military Paints",
+    "sku": "8436574501834ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1052-acrylic-color-komodo-khaki.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#AE6914",
+    "id": "gsw-1058",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Leather Brown",
+    "range": "Military Paints",
+    "sku": "8436574501889ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1058-acrylic-color-leather-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#22260F",
+    "id": "gsw-1175",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Military Green",
+    "range": "Military Paints",
+    "sku": "8436574502077ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1175-acrylic-color-military-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#374359",
+    "id": "gsw-1069",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mirage Blue",
+    "range": "Military Paints",
+    "sku": "8436574501995ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1069-acrylic-color-mirage-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#607A69",
+    "id": "gsw-1067",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Moonstone Grey",
+    "range": "Military Paints",
+    "sku": "8436574501964ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1067-acrylic-color-moonstone-grey.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#946610",
+    "id": "gsw-1028",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mustard Yellow",
+    "range": "Military Paints",
+    "sku": "8436574501421ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1028-acrylic-color-mustard-yellow.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#607A69",
+    "id": "gsw-1014",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nuclear White",
+    "range": "Military Paints",
+    "sku": "8436574501377ES",
+    "type": "transparent",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1014-acrylic-white-paint-nuclear-white.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#DF8700",
+    "id": "gsw-1057",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ochre Desert",
+    "range": "Military Paints",
+    "sku": "8436574501872ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1057-acrylic-color-ochre-desert.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#392C0A",
+    "id": "gsw-1192",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olive-Brown Ops",
+    "range": "Military Paints",
+    "sku": "8436574502466ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1192-acrylic-color-olive-brown-ops.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#1C290F",
+    "id": "gsw-1049",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Olivegrove Green",
+    "range": "Military Paints",
+    "sku": "8436574501803ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1049-acrylic-color-olivegrove-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#36311D",
+    "id": "gsw-1180",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Overlord Olive",
+    "range": "Military Paints",
+    "sku": "8436574502121ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1180-acrylic-color-overlord-olive.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E1C294",
+    "id": "gsw-1853",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Parchment",
+    "range": "Military Paints",
+    "sku": "8435646505695ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1853-acrylic-color-parchment.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#152D1D",
+    "id": "gsw-1191",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Prussian Green",
+    "range": "Military Paints",
+    "sku": "8436574502459ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1191-acrylic-color-prussian-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#7E4A1B",
+    "id": "gsw-1064",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Quicksand Brown",
+    "range": "Military Paints",
+    "sku": "8436574501933ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1064-acrylic-color-quicksand-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#607A69",
+    "id": "gsw-1878",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ranger Green",
+    "range": "Military Paints",
+    "sku": "8435646505947ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1878-acrylic-color-ranger-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3E0D00",
+    "id": "gsw-1062",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Redwood Brown",
+    "range": "Military Paints",
+    "sku": "8436574501919ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1062-acrylic-color-redwood-brown.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#416027",
+    "id": "gsw-1179",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rocket Green",
+    "range": "Military Paints",
+    "sku": "8436574502091ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1179-acrylic-color-rocket-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#76922B",
+    "id": "gsw-1874",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Rotten Green",
+    "range": "Military Paints",
+    "sku": "8435646505909ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1874-acrylic-color-rotten-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#D2B98F",
+    "id": "gsw-1189",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sandstorm",
+    "range": "Military Paints",
+    "sku": "8436574502435ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1189-acrylic-color-sandstorm.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#25100B",
+    "id": "gsw-1177",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scorched Wood",
+    "range": "Military Paints",
+    "sku": "8436574502114ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1177-acrylic-color-scorched-wood.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5D7666",
+    "id": "gsw-1068",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Slate Grey",
+    "range": "Military Paints",
+    "sku": "8436574501971ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1068-acrylic-color-slate-grey.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#55677F",
+    "id": "gsw-1870",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Smoked Blue",
+    "range": "Military Paints",
+    "sku": "8435646505862ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1870-acrylic-color-smoked-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5D7666",
+    "id": "gsw-1879",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Starship Grey",
+    "range": "Military Paints",
+    "sku": "8435646505954ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1879-acrylic-color-starship-grey.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#2A313B",
+    "id": "gsw-1070",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Steel Grey",
+    "range": "Military Paints",
+    "sku": "8436574502015ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1070-acrylic-color-steel-grey.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E4C7AA",
+    "id": "gsw-1051",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Sun-Bleached Bone",
+    "range": "Military Paints",
+    "sku": "8436574501827ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1051-acrylic-color-sun-bleached-bone.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#CBA05D",
+    "id": "gsw-1855",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Temple Ochre",
+    "range": "Military Paints",
+    "sku": "8435646505718ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1855-acrylic-color-temple-ochre.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#343468",
+    "id": "gsw-1868",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramar Blue",
+    "range": "Military Paints",
+    "sku": "8435646505848ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1868-acrylic-color-ultramar-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#E8DA6C",
+    "id": "gsw-1186",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Valkyrie Yellow",
+    "range": "Military Paints",
+    "sku": "8436574502183ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1186-acrylic-color-valkyrie-yellow.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#3E6224",
+    "id": "gsw-1046",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warcry Green",
+    "range": "Military Paints",
+    "sku": "8436574501582ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1046-acrylic-color-warcry-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#5D7666",
+    "id": "gsw-1885",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Whitecap Beige",
+    "range": "Military Paints",
+    "sku": "8435646506197ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1885-acrylic-color-whitecap-beige.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#8B5D1E",
+    "id": "gsw-1185",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow-Brown Ops",
+    "range": "Military Paints",
+    "sku": "8436574502176ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1185-acrylic-color-yellow-brown-ops.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#547B5E",
+    "id": "gsw-1876",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yoda Green",
+    "range": "Military Paints",
+    "sku": "8435646505923ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1876-acrylic-color-yoda-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#C9AE6B",
+    "id": "gsw-1050",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Zombie Flesh",
+    "range": "Military Paints",
+    "sku": "8436574501810ES",
+    "type": "opaque",
+    "url": "https://www.greenstuffworld.com/en/acrylic-paints/1050-acrylic-color-zombie-flesh.html"
+  }
+]

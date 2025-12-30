@@ -1,0 +1,481 @@
+[
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true,
+      "secondaryHex": "#171717"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#01CCFD",
+    "id": "gsw-1482",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Interference",
+    "range": "Chameleon Paints",
+    "sku": "8436574509410ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1482-metal-filters-blue-interference.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#016D4E",
+    "id": "gsw-844",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Borealis Green",
+    "range": "Chameleon Paints",
+    "sku": "8436574500882ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/844-chameleon-paint-borealis-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8B6C02",
+    "id": "gsw-685",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Burning Gold",
+    "range": "Chameleon Paints",
+    "sku": "8436554368648ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/685-chameleon-burning-gold.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#037CA8",
+    "id": "gsw-684",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Celestial Azure",
+    "range": "Chameleon Paints",
+    "sku": "8436554369584ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/684-chameleon-celestial-azure.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#023396",
+    "id": "gsw-677",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cobalt Blue",
+    "range": "Chameleon Paints",
+    "sku": "8436554369515ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/677-chameleon-cobalt-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#1F437F",
+    "id": "gsw-845",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Darth Blue",
+    "range": "Chameleon Paints",
+    "sku": "8436574500875ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/845-chameleon-darth-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#038969",
+    "id": "gsw-688",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Emerald Getaway",
+    "range": "Chameleon Paints",
+    "sku": "8436554368679ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/688-chameleon-emerald-getaway.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#65201F",
+    "id": "gsw-736",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Evil Forest",
+    "range": "Chameleon Paints",
+    "sku": "8436574500332ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/736-chameleon-evil-forest.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true,
+      "secondaryHex": "#171717"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C1B126",
+    "id": "gsw-1486",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gold Interference",
+    "range": "Chameleon Paints",
+    "sku": "8436574509458ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1486-metal-filters-gold-interference.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#72D444",
+    "id": "gsw-1485",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Interference",
+    "range": "Chameleon Paints",
+    "sku": "8436574509441ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1485-metal-filters-green-interference.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#65574D",
+    "id": "gsw-1097",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Holographic Paint",
+    "range": "Chameleon Paints",
+    "sku": "8436574500325ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1097-holographic-paint.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#4F5E2F",
+    "id": "gsw-686",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Martian Green",
+    "range": "Chameleon Paints",
+    "sku": "8436554368655ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/686-chameleon-martian-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A07A14",
+    "id": "gsw-678",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mystic Gold",
+    "range": "Chameleon Paints",
+    "sku": "8436554369522ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/678-chameleon-paint-mystic-gold.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#903C23",
+    "id": "gsw-683",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Nebula Copper",
+    "range": "Chameleon Paints",
+    "sku": "8436554369577ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/683-chameleon-nebula-copper.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#52939C",
+    "id": "gsw-735",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pinky Blue",
+    "range": "Chameleon Paints",
+    "sku": "8436574500318ES",
+    "type": "ink",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/735-chameleon-pinky-blue.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#0297A3",
+    "id": "gsw-682",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Psychotic Illusions",
+    "range": "Chameleon Paints",
+    "sku": "8436554369560ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/682-chameleon-psychotic-illusions.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true,
+      "secondaryHex": "#171717"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#553567",
+    "id": "gsw-1483",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple Interference",
+    "range": "Chameleon Paints",
+    "sku": "8436574509427ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1483-metal-filters-purple-interference.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#405402",
+    "id": "gsw-687",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Goblin",
+    "range": "Chameleon Paints",
+    "sku": "8436554368662ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/687-chameleon-red-goblin.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#672630",
+    "id": "gsw-1487",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Interference",
+    "range": "Chameleon Paints",
+    "sku": "8436574509465ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1487-metal-filters-red-interference.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#19636A",
+    "id": "gsw-737",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Royal Burgundy",
+    "range": "Chameleon Paints",
+    "sku": "8436574500301ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/737-chameleon-paint-royal-burgundy.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8C5B41",
+    "id": "gsw-846",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Solar Anomalie",
+    "range": "Chameleon Paints",
+    "sku": "8436574500868ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/846-chameleon-solar-anomalie.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#014356",
+    "id": "gsw-679",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Storm Surge Green",
+    "range": "Chameleon Paints",
+    "sku": "8436554369539ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/679-chameleon-storm-surge-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#74357E",
+    "id": "gsw-680",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Toxic Purple",
+    "range": "Chameleon Paints",
+    "sku": "8436554369546ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/680-chameleon-toxic-purple.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#498509",
+    "id": "gsw-681",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Tropical Green",
+    "range": "Chameleon Paints",
+    "sku": "8436554369553ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/681-chameleon-tropical-green.html"
+  },
+  {
+    "brand": "Green Stuff World",
+    "brandData": {
+      "colorShift": true,
+      "secondaryHex": "#171717"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#116F78",
+    "id": "gsw-1484",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Turquoise Interference",
+    "range": "Chameleon Paints",
+    "sku": "8436574509434ES",
+    "type": "metallic",
+    "url": "https://www.greenstuffworld.com/en/chameleon-acrylic-paints/1484-metal-filters-turquoise-interference.html"
+  }
+]
