@@ -1,0 +1,458 @@
+[
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Danilo Cartacci"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#987551",
+    "id": "kimera-cartacci-caucasian-skintone",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cartacci Caucasian Skintone",
+    "range": "Signatures",
+    "sku": "KM-SSDC-S02",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/cartacci-caucasian-skintone"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Danilo Cartacci"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A07D3C",
+    "id": "kimera-cartacci-golden-brown",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cartacci Golden Brown",
+    "range": "Signatures",
+    "sku": "KM-SSDC-S04",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/cartacci-golden-brown"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Danilo Cartacci"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#8F7E51",
+    "id": "kimera-cartacci-kiwi-brown",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cartacci Kiwi Brown",
+    "range": "Signatures",
+    "sku": "KM-SSDC-S03",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/cartacci-kiwi-brown"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Danilo Cartacci"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A55931",
+    "id": "kimera-cartacci-red",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cartacci Red",
+    "range": "Signatures",
+    "sku": "KM-SSDC-S01",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/cartacci-red"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Danilo Cartacci"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#2E9F95",
+    "id": "kimera-cartacci-samurai-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cartacci Samurai Green",
+    "range": "Signatures",
+    "sku": "KM-SSDC-S05",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/cartacci-samurai-green"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Danilo Cartacci"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#7B6335",
+    "id": "kimera-cartacci-silver-grey",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cartacci Silver Grey",
+    "range": "Signatures",
+    "sku": "KM-SSDC-S06",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/cartacci-silver-grey"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Robert Karlsson"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#213E51",
+    "id": "kimera-karlsson-blue-black",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Karlsson Blue Black",
+    "range": "Signatures",
+    "sku": "KM-SSRK-S06",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/robert-karlsson-signature-set-dark-fairy-tales"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Robert Karlsson"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C26590",
+    "id": "kimera-karlsson-fuchsia-skin",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Karlsson Fuchsia Skin",
+    "range": "Signatures",
+    "sku": "KM-SSRK-S04",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/robert-karlsson-signature-set-dark-fairy-tales"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Robert Karlsson"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#916D40",
+    "id": "kimera-karlsson-gold-79",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Karlsson Gold 79",
+    "range": "Signatures",
+    "sku": "KM-SSRK-S01",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/robert-karlsson-signature-set-dark-fairy-tales"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Robert Karlsson"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CD6F7C",
+    "id": "kimera-karlsson-pink-skin",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Karlsson Pink Skin",
+    "range": "Signatures",
+    "sku": "KM-SSRK-S03",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/robert-karlsson-signature-set-dark-fairy-tales"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Robert Karlsson"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B5625C",
+    "id": "kimera-karlsson-salmon-skin",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Karlsson Salmon Skin",
+    "range": "Signatures",
+    "sku": "KM-SSRK-S02",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/robert-karlsson-signature-set-dark-fairy-tales"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Robert Karlsson"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#21879F",
+    "id": "kimera-karlsson-sea-blue",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Karlsson Sea Blue",
+    "range": "Signatures",
+    "sku": "KM-SSRK-S05",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/robert-karlsson-signature-set-dark-fairy-tales"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Michal Pisarski"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9B8D2D",
+    "id": "kimera-pisarski-cloud-sky",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pisarski Cloud Sky",
+    "range": "Signatures",
+    "sku": "KM-SSMP-S03",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/pisarski-cloud-sky"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Michal Pisarski"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#694B16",
+    "id": "kimera-pisarski-fallen-grass",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pisarski Fallen Grass",
+    "range": "Signatures",
+    "sku": "KM-SSMP-S05",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/pisarski-fallen-grass"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Michal Pisarski"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#756829",
+    "id": "kimera-pisarski-ground-brown",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pisarski Ground Brown",
+    "range": "Signatures",
+    "sku": "KM-SSMP-S06",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/pisarski-ground-brown"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Michal Pisarski"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#86744C",
+    "id": "kimera-pisarski-iron-hue",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pisarski Iron Hue",
+    "range": "Signatures",
+    "sku": "KM-SSMP-S02",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/pisarski-iron-hue"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Michal Pisarski"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#1C8191",
+    "id": "kimera-pisarski-morning-sky",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pisarski Morning Sky",
+    "range": "Signatures",
+    "sku": "KM-SSMP-S01",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/pisarski-morning-sky"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Michal Pisarski"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#746323",
+    "id": "kimera-pisarski-sun-ray",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Pisarski Sun Ray",
+    "range": "Signatures",
+    "sku": "KM-SSMP-S04",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/pisarski-sun-ray"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Fabrizio Russo"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#787353",
+    "id": "kimera-russo-bone-khaki",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russo Bone Khaki",
+    "range": "Signatures",
+    "sku": "KM-SSFR-S06",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/fabrizio-russo-signature-set-the-dark-side-of-paint"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Fabrizio Russo"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#402802",
+    "id": "kimera-russo-dark-honey",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russo Dark Honey",
+    "range": "Signatures",
+    "sku": "KM-SSFR-S05",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/fabrizio-russo-signature-set-the-dark-side-of-paint"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Fabrizio Russo"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#222840",
+    "id": "kimera-russo-darkness",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russo Darkness",
+    "range": "Signatures",
+    "sku": "KM-SSFR-S01",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/fabrizio-russo-signature-set-the-dark-side-of-paint"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Fabrizio Russo"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#692882",
+    "id": "kimera-russo-deep-rusto",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russo Deep Rusto",
+    "range": "Signatures",
+    "sku": "KM-SSFR-S02",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/fabrizio-russo-signature-set-the-dark-side-of-paint"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Fabrizio Russo"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#414D29",
+    "id": "kimera-russo-poison-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russo Poison Green",
+    "range": "Signatures",
+    "sku": "KM-SSFR-S04",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/fabrizio-russo-signature-set-the-dark-side-of-paint"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "artist": "Fabrizio Russo"
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#465655",
+    "id": "kimera-russo-viridian-grim",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Russo Viridian Grim",
+    "range": "Signatures",
+    "sku": "KM-SSFR-S03",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/fabrizio-russo-signature-set-the-dark-side-of-paint"
+  }
+]

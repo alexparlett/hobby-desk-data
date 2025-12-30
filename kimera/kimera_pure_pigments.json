@@ -1,0 +1,559 @@
+[
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PR177",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6C6075",
+    "id": "kimera-alizarine-crimson",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Alizarine Crimson",
+    "range": "Pure Pigments",
+    "sku": "KMP-022",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/alizarine-crimson"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PBk7",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#676E7A",
+    "id": "kimera-carbon-black",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carbon Black",
+    "range": "Pure Pigments",
+    "sku": "KM-PPS1-01",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/carbon-black-series-1"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PB36",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#488FA1",
+    "id": "kimera-cobalt-bluegreen",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cobalt Bluegreen",
+    "range": "Pure Pigments",
+    "sku": "KMP-026",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/cobalt-bluegreen"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PY175",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#ECE097",
+    "id": "kimera-cold-yellow",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Cold Yellow",
+    "range": "Pure Pigments",
+    "sku": "KM-PPS1-06",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/cold-yellow-series-1"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PY43",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#9D8377",
+    "id": "kimera-dark-ochre",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dark Ochre",
+    "range": "Pure Pigments",
+    "sku": "KMP-019",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/dark-ochre"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PY170",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#CC7750",
+    "id": "kimera-diarylide-yellow",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Diarylide Yellow",
+    "range": "Pure Pigments",
+    "sku": "KMP-017",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/diarylide-yellow"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PY42",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#C1A17D",
+    "id": "kimera-honeymoon-yellow",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Honeymoon Yellow",
+    "range": "Pure Pigments",
+    "sku": "KMP-018",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/honeymoon-yellow"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PR122",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#85667F",
+    "id": "kimera-magenta",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magenta",
+    "range": "Pure Pigments",
+    "sku": "KM-PPS1-09",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/magenta-series-1"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PR101",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#997A78",
+    "id": "kimera-mars-orange",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Mars Orange",
+    "range": "Pure Pigments",
+    "sku": "KMP-020",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/mars-orange-series-1"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PO73",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#DD8782",
+    "id": "kimera-orange",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Orange",
+    "range": "Pure Pigments",
+    "sku": "KM-PPS1-04",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/orange-series-1"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PBr7",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#455364",
+    "id": "kimera-oxide-brown-dark",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oxide Brown Dark",
+    "range": "Pure Pigments",
+    "sku": "KMP-014",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/oxide-brown-dark"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PY42",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#858D95",
+    "id": "kimera-oxide-brown-light",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oxide Brown Light",
+    "range": "Pure Pigments",
+    "sku": "KMP-016",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/oxide-brown-light"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PBr7",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6A7B8D",
+    "id": "kimera-oxide-brown-medium",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oxide Brown Medium",
+    "range": "Pure Pigments",
+    "sku": "KMP-015",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/oxide-brown-medium"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PG17",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#659189",
+    "id": "kimera-oxide-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Oxide Green",
+    "range": "Pure Pigments",
+    "sku": "KMP-027",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/oxide-green"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PB15:3",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#737D9F",
+    "id": "kimera-phthalo-blue-green-shade",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Phthalo Blue (green shade)",
+    "range": "Pure Pigments",
+    "sku": "KM-PPS1-08",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/phthalo-blue-green-shade-series-1"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PB15:1",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#76819B",
+    "id": "kimera-phthalo-blue-red-shade",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Phthalo Blue (red shade)",
+    "range": "Pure Pigments",
+    "sku": "KM-PPS1-07",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/phthalo-blue-red-shade-series-1"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PG36",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#40616C",
+    "id": "kimera-phthalo-green",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Phthalo Green",
+    "range": "Pure Pigments",
+    "sku": "KM-PPS1-10",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/phthalo-green-series-1"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PV23",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#6A5B7A",
+    "id": "kimera-purple",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Purple",
+    "range": "Pure Pigments",
+    "sku": "KMP-023",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/purple-2"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PR101",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#874C52",
+    "id": "kimera-red-oxide",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Red Oxide",
+    "range": "Pure Pigments",
+    "sku": "KM-PPS1-12",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/red-oxide-series-1"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PBr7",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#494D60",
+    "id": "kimera-royal-brown",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Royal Brown",
+    "range": "Pure Pigments",
+    "sku": "KMP-021",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/royal-brown"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {},
+    "category": "",
+    "discontinued": false,
+    "hex": "#322D29",
+    "id": "kimera-satin-medium",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Satin Medium",
+    "range": "Pure Pigments",
+    "sku": "KM-PPS1-14",
+    "type": "medium",
+    "url": "https://www.elgrecominiatures.co.uk/products/satin-medium-series-1"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PR254",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B25D6A",
+    "id": "kimera-the-red",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "The Red",
+    "range": "Pure Pigments",
+    "sku": "KM-PPS1-03",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/the-red-series-1"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PW6",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#E3E7EA",
+    "id": "kimera-the-white",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "The White",
+    "range": "Pure Pigments",
+    "sku": "KM-PPS1-02",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/the-white-series-1"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PR3",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#A34A59",
+    "id": "kimera-toludine-red",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Toludine Red",
+    "range": "Pure Pigments",
+    "sku": "KMP-024",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/toludine-red"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PB29",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#557CCB",
+    "id": "kimera-ultramarine-blue",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramarine Blue",
+    "range": "Pure Pigments",
+    "sku": "KMP-025",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/ultramarine-blue"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PV23",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#5B5383",
+    "id": "kimera-violet",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Violet",
+    "range": "Pure Pigments",
+    "sku": "KM-PPS1-11",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/violet-series-3"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PY83",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#DE9C4B",
+    "id": "kimera-warm-yellow",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Warm Yellow",
+    "range": "Pure Pigments",
+    "sku": "KM-PPS1-05",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/warm-yellow-series-1"
+  },
+  {
+    "brand": "Kimera",
+    "brandData": {
+      "pigmentCode": "PY42",
+      "singlePigment": true
+    },
+    "category": "",
+    "discontinued": false,
+    "hex": "#B69165",
+    "id": "kimera-yellow-oxide",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Yellow Oxide",
+    "range": "Pure Pigments",
+    "sku": "KM-PPS1-13",
+    "type": "opaque",
+    "url": "https://www.elgrecominiatures.co.uk/products/yellow-oxide-series-1"
+  }
+]

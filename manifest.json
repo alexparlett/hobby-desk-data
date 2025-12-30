@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "commitHash": "1fa6ef1e39c4e909ae4922c79d5d4542cf5e6898",
-  "generatedAt": "2025-12-29T17:11:55.428678Z",
-  "totalPaints": 4184,
+  "commitHash": "90fc6dce834250071f5946b87c525e12aef2a636",
+  "generatedAt": "2025-12-30T20:22:02.056280Z",
+  "totalPaints": 4236,
   "files": [
     {
       "brand": "AK Interactive",
@@ -96,6 +96,20 @@
       "paintCount": 61
     },
     {
+      "brand": "Kimera",
+      "range": "Pure Pigments",
+      "path": "kimera/kimera_pure_pigments.json",
+      "hash": "sha256:8c02cb64b6b8889d0b957ba6dffb95bd57f20c55be79f627333949f62a168306",
+      "paintCount": 28
+    },
+    {
+      "brand": "Kimera",
+      "range": "Signatures",
+      "path": "kimera/kimera_signatures.json",
+      "hash": "sha256:76a88dd4b82b31f2e11c45ebd2712cf99245c6e605eedaa42411a76b5aaa9a63",
+      "paintCount": 24
+    },
+    {
       "brand": "Monument Hobbies",
       "range": "AMP Colors",
       "path": "monument-hobbies/pro-acryl.json",
@@ -132,6 +146,13 @@
     },
     {
       "brand": "Scale75",
+      "range": "FX Fluor",
+      "path": "scale75/scale75_fx_fluor.json",
+      "hash": "sha256:18ee7481e7e4ac262eb6cd31f732351aafa3ec10ab9412854fcbb6a3ed4bd528",
+      "paintCount": 8
+    },
+    {
+      "brand": "Scale75",
       "range": "Fantasy & Games",
       "path": "scale75/scale75_fantasy_games.json",
       "hash": "sha256:aeec6f06b1b91697cc8d21f09ac4b7979ab4fbd5b6b2b34f84cff1bc4da311bd",
@@ -143,13 +164,6 @@
       "path": "scale75/scale75_flow.json",
       "hash": "sha256:7d7409e257a5b290ff423ebd9e119d3f4fe4ebe7857ae4c694c3ef8842d9c4ad",
       "paintCount": 24
-    },
-    {
-      "brand": "Scale75",
-      "range": "FX Fluor",
-      "path": "scale75/scale75_fx_fluor.json",
-      "hash": "sha256:18ee7481e7e4ac262eb6cd31f732351aafa3ec10ab9412854fcbb6a3ed4bd528",
-      "paintCount": 8
     },
     {
       "brand": "Scale75",
