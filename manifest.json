@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "commitHash": "000d2711d3652d2d6cc72b71740c57d4ad2cbae6",
-  "generatedAt": "2026-02-06T19:03:51.885042Z",
-  "totalPaints": 5006,
+  "commitHash": "1bc4e0901442a9147d8a79547236a7e4170e4483",
+  "generatedAt": "2026-11-17T09:48:13.784190Z",
+  "totalPaints": 5156,
   "files": [
     {
       "brand": "AK Interactive",
@@ -94,6 +94,13 @@
       "path": "games-workshop/citadel-contrast.json",
       "hash": "sha256:e129da651f9dc418897867bb67e264447fdfd5819277cbd0e0308dcbc57efa09",
       "paintCount": 61
+    },
+    {
+      "brand": "Games Workshop",
+      "range": "Citadel Tone Pro",
+      "path": "games-workshop/citadel-tone-pro.json",
+      "hash": "sha256:34c41f19a1b90a7da827e7da3924d26cfbdd816940fe4d151e7758bac5d30a05",
+      "paintCount": 150
     },
     {
       "brand": "Greenstuffworld",

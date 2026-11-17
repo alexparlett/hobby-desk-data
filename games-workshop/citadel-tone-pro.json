@@ -1,0 +1,3002 @@
+[
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Black",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#000208",
+    "id": "citadel-tone-pro-blackstone-void-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blackstone Void 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Black",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#4E5458",
+    "id": "citadel-tone-pro-blackstone-void-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blackstone Void 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Black",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#6E7074",
+    "id": "citadel-tone-pro-blackstone-void-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blackstone Void 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Black",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#9B9D9F",
+    "id": "citadel-tone-pro-blackstone-void-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blackstone Void 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Black",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#FFFFFF",
+    "id": "citadel-tone-pro-blackstone-void-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blackstone Void 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Red",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#581E16",
+    "id": "citadel-tone-pro-bloodtoof-red-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bloodtoof Red 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Red",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#94001E",
+    "id": "citadel-tone-pro-bloodtoof-red-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bloodtoof Red 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Red",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#AD072B",
+    "id": "citadel-tone-pro-bloodtoof-red-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bloodtoof Red 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Red",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#D60020",
+    "id": "citadel-tone-pro-bloodtoof-red-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bloodtoof Red 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Red",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#EF353C",
+    "id": "citadel-tone-pro-bloodtoof-red-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Bloodtoof Red 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#002356",
+    "id": "citadel-tone-pro-blue-gorkshroom-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Gorkshroom 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#004487",
+    "id": "citadel-tone-pro-blue-gorkshroom-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Gorkshroom 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#0057A3",
+    "id": "citadel-tone-pro-blue-gorkshroom-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Gorkshroom 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#006CAD",
+    "id": "citadel-tone-pro-blue-gorkshroom-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Gorkshroom 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#007BB2",
+    "id": "citadel-tone-pro-blue-gorkshroom-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Blue Gorkshroom 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Red",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#3C262A",
+    "id": "citadel-tone-pro-carmine-blades-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carmine Blades 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Red",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#5B3539",
+    "id": "citadel-tone-pro-carmine-blades-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carmine Blades 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Red",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#750019",
+    "id": "citadel-tone-pro-carmine-blades-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carmine Blades 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Red",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#910022",
+    "id": "citadel-tone-pro-carmine-blades-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carmine Blades 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Red",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#C64D50",
+    "id": "citadel-tone-pro-carmine-blades-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carmine Blades 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Flesh",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#241815",
+    "id": "citadel-tone-pro-carthalos-skin-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carthalos Skin 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Flesh",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#2D140C",
+    "id": "citadel-tone-pro-carthalos-skin-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carthalos Skin 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Flesh",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#4E2212",
+    "id": "citadel-tone-pro-carthalos-skin-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carthalos Skin 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Flesh",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#5F3A37",
+    "id": "citadel-tone-pro-carthalos-skin-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carthalos Skin 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Flesh",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#795346",
+    "id": "citadel-tone-pro-carthalos-skin-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Carthalos Skin 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Flesh",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#CD8169",
+    "id": "citadel-tone-pro-celestine-skin-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Celestine Skin 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Flesh",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#D58B70",
+    "id": "citadel-tone-pro-celestine-skin-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Celestine Skin 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Flesh",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#D99578",
+    "id": "citadel-tone-pro-celestine-skin-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Celestine Skin 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Flesh",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#EAA889",
+    "id": "citadel-tone-pro-celestine-skin-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Celestine Skin 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Flesh",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#DDB398",
+    "id": "citadel-tone-pro-celestine-skin-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Celestine Skin 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Orange",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#93150B",
+    "id": "citadel-tone-pro-chotec-orange-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chotec Orange 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Orange",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#B82F2D",
+    "id": "citadel-tone-pro-chotec-orange-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chotec Orange 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Orange",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#E04A33",
+    "id": "citadel-tone-pro-chotec-orange-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chotec Orange 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Orange",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#F56230",
+    "id": "citadel-tone-pro-chotec-orange-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chotec Orange 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Orange",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#F78030",
+    "id": "citadel-tone-pro-chotec-orange-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Chotec Orange 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#08232E",
+    "id": "citadel-tone-pro-craventhrone-cloak-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Craventhrone Cloak 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#12373E",
+    "id": "citadel-tone-pro-craventhrone-cloak-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Craventhrone Cloak 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#164858",
+    "id": "citadel-tone-pro-craventhrone-cloak-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Craventhrone Cloak 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#41717D",
+    "id": "citadel-tone-pro-craventhrone-cloak-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Craventhrone Cloak 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#598A8E",
+    "id": "citadel-tone-pro-craventhrone-cloak-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Craventhrone Cloak 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Grey",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#2B2D28",
+    "id": "citadel-tone-pro-dataslate-grey-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dataslate Grey 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Grey",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#3E3D35",
+    "id": "citadel-tone-pro-dataslate-grey-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dataslate Grey 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Grey",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#555650",
+    "id": "citadel-tone-pro-dataslate-grey-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dataslate Grey 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Grey",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#737069",
+    "id": "citadel-tone-pro-dataslate-grey-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dataslate Grey 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Grey",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#878983",
+    "id": "citadel-tone-pro-dataslate-grey-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Dataslate Grey 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#1E1435",
+    "id": "citadel-tone-pro-enrapturess-dusk-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Enrapturess Dusk 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#413549",
+    "id": "citadel-tone-pro-enrapturess-dusk-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Enrapturess Dusk 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#534D5E",
+    "id": "citadel-tone-pro-enrapturess-dusk-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Enrapturess Dusk 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#6E6773",
+    "id": "citadel-tone-pro-enrapturess-dusk-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Enrapturess Dusk 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#817A86",
+    "id": "citadel-tone-pro-enrapturess-dusk-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Enrapturess Dusk 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Pink",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#920030",
+    "id": "citadel-tone-pro-eye-of-terror-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eye Of Terror 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Pink",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#BD0047",
+    "id": "citadel-tone-pro-eye-of-terror-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eye Of Terror 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Pink",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#C20060",
+    "id": "citadel-tone-pro-eye-of-terror-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eye Of Terror 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Pink",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#D4417B",
+    "id": "citadel-tone-pro-eye-of-terror-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eye Of Terror 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Pink",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#DB6499",
+    "id": "citadel-tone-pro-eye-of-terror-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Eye Of Terror 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Brown",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#342928",
+    "id": "citadel-tone-pro-gnarlwood-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gnarlwood 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Brown",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#514235",
+    "id": "citadel-tone-pro-gnarlwood-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gnarlwood 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Brown",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#725C44",
+    "id": "citadel-tone-pro-gnarlwood-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gnarlwood 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Brown",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#776857",
+    "id": "citadel-tone-pro-gnarlwood-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gnarlwood 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Brown",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#887B67",
+    "id": "citadel-tone-pro-gnarlwood-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Gnarlwood 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#143230",
+    "id": "citadel-tone-pro-green-morkshroom-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Morkshroom 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#004F48",
+    "id": "citadel-tone-pro-green-morkshroom-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Morkshroom 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#006458",
+    "id": "citadel-tone-pro-green-morkshroom-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Morkshroom 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#007B6D",
+    "id": "citadel-tone-pro-green-morkshroom-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Morkshroom 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#37AC83",
+    "id": "citadel-tone-pro-green-morkshroom-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Green Morkshroom 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#F69113",
+    "id": "citadel-tone-pro-hawkshroud-yellow-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hawkshroud Yellow 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#FBA200",
+    "id": "citadel-tone-pro-hawkshroud-yellow-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hawkshroud Yellow 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#FEBB00",
+    "id": "citadel-tone-pro-hawkshroud-yellow-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hawkshroud Yellow 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#FFD300",
+    "id": "citadel-tone-pro-hawkshroud-yellow-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hawkshroud Yellow 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#FDE07E",
+    "id": "citadel-tone-pro-hawkshroud-yellow-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hawkshroud Yellow 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#00321C",
+    "id": "citadel-tone-pro-hierotek-green-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hierotek Green 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#00542D",
+    "id": "citadel-tone-pro-hierotek-green-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hierotek Green 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#006A2E",
+    "id": "citadel-tone-pro-hierotek-green-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hierotek Green 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#00894E",
+    "id": "citadel-tone-pro-hierotek-green-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hierotek Green 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#00B681",
+    "id": "citadel-tone-pro-hierotek-green-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hierotek Green 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#1E1A40",
+    "id": "citadel-tone-pro-hive-fleet-purple-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hive Fleet Purple 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#3C1E54",
+    "id": "citadel-tone-pro-hive-fleet-purple-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hive Fleet Purple 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#655192",
+    "id": "citadel-tone-pro-hive-fleet-purple-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hive Fleet Purple 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#8769B1",
+    "id": "citadel-tone-pro-hive-fleet-purple-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hive Fleet Purple 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#8F82AE",
+    "id": "citadel-tone-pro-hive-fleet-purple-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Hive Fleet Purple 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#001B1B",
+    "id": "citadel-tone-pro-kasrkin-green-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kasrkin Green 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#1F4530",
+    "id": "citadel-tone-pro-kasrkin-green-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kasrkin Green 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#40713C",
+    "id": "citadel-tone-pro-kasrkin-green-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kasrkin Green 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#678E55",
+    "id": "citadel-tone-pro-kasrkin-green-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kasrkin Green 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#86A978",
+    "id": "citadel-tone-pro-kasrkin-green-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kasrkin Green 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#6C4B12",
+    "id": "citadel-tone-pro-khemri-sands-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khemri Sands 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#8D5E06",
+    "id": "citadel-tone-pro-khemri-sands-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khemri Sands 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#B1791E",
+    "id": "citadel-tone-pro-khemri-sands-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khemri Sands 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#CF8400",
+    "id": "citadel-tone-pro-khemri-sands-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khemri Sands 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#DC9A00",
+    "id": "citadel-tone-pro-khemri-sands-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Khemri Sands 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#4A7D36",
+    "id": "citadel-tone-pro-kruleboyz-green-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kruleboyz Green 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#627F3C",
+    "id": "citadel-tone-pro-kruleboyz-green-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kruleboyz Green 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#7A823F",
+    "id": "citadel-tone-pro-kruleboyz-green-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kruleboyz Green 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#939859",
+    "id": "citadel-tone-pro-kruleboyz-green-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kruleboyz Green 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#AEB16C",
+    "id": "citadel-tone-pro-kruleboyz-green-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Kruleboyz Green 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#004816",
+    "id": "citadel-tone-pro-lustria-green-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lustria Green 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#006929",
+    "id": "citadel-tone-pro-lustria-green-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lustria Green 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#007931",
+    "id": "citadel-tone-pro-lustria-green-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lustria Green 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#34AD40",
+    "id": "citadel-tone-pro-lustria-green-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lustria Green 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#4EB33F",
+    "id": "citadel-tone-pro-lustria-green-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Lustria Green 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#3A202D",
+    "id": "citadel-tone-pro-magnus-the-red-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magnus The Red 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#4A123E",
+    "id": "citadel-tone-pro-magnus-the-red-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magnus The Red 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#76003F",
+    "id": "citadel-tone-pro-magnus-the-red-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magnus The Red 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#9A1B59",
+    "id": "citadel-tone-pro-magnus-the-red-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magnus The Red 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#AA4277",
+    "id": "citadel-tone-pro-magnus-the-red-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Magnus The Red 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#F9AD00",
+    "id": "citadel-tone-pro-megaboss-yellow-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Megaboss Yellow 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#F8CE00",
+    "id": "citadel-tone-pro-megaboss-yellow-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Megaboss Yellow 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#FFE440",
+    "id": "citadel-tone-pro-megaboss-yellow-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Megaboss Yellow 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#F8E85F",
+    "id": "citadel-tone-pro-megaboss-yellow-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Megaboss Yellow 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Yellow",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#FFF175",
+    "id": "citadel-tone-pro-megaboss-yellow-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Megaboss Yellow 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Bone",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#877561",
+    "id": "citadel-tone-pro-necrolith-bone-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Necrolith Bone 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Bone",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#B0916A",
+    "id": "citadel-tone-pro-necrolith-bone-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Necrolith Bone 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Bone",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#B99F7D",
+    "id": "citadel-tone-pro-necrolith-bone-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Necrolith Bone 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Bone",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#C1AB86",
+    "id": "citadel-tone-pro-necrolith-bone-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Necrolith Bone 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Bone",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#BCB79E",
+    "id": "citadel-tone-pro-necrolith-bone-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Necrolith Bone 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#49892D",
+    "id": "citadel-tone-pro-plague-toad-venom-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Plague Toad Venom 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#549B32",
+    "id": "citadel-tone-pro-plague-toad-venom-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Plague Toad Venom 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#80C234",
+    "id": "citadel-tone-pro-plague-toad-venom-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Plague Toad Venom 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#9CC829",
+    "id": "citadel-tone-pro-plague-toad-venom-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Plague Toad Venom 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Green",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#C8D600",
+    "id": "citadel-tone-pro-plague-toad-venom-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Plague Toad Venom 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#004789",
+    "id": "citadel-tone-pro-scinari-blue-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scinari Blue 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#005895",
+    "id": "citadel-tone-pro-scinari-blue-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scinari Blue 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#006C9A",
+    "id": "citadel-tone-pro-scinari-blue-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scinari Blue 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#0088BB",
+    "id": "citadel-tone-pro-scinari-blue-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scinari Blue 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#009AB9",
+    "id": "citadel-tone-pro-scinari-blue-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Scinari Blue 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#002F34",
+    "id": "citadel-tone-pro-seraphon-blue-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Seraphon Blue 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#004650",
+    "id": "citadel-tone-pro-seraphon-blue-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Seraphon Blue 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#006874",
+    "id": "citadel-tone-pro-seraphon-blue-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Seraphon Blue 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#008D92",
+    "id": "citadel-tone-pro-seraphon-blue-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Seraphon Blue 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#00B7B9",
+    "id": "citadel-tone-pro-seraphon-blue-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Seraphon Blue 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#130040",
+    "id": "citadel-tone-pro-shalaxi-violet-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shalaxi Violet 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#262E6D",
+    "id": "citadel-tone-pro-shalaxi-violet-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shalaxi Violet 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#324E99",
+    "id": "citadel-tone-pro-shalaxi-violet-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shalaxi Violet 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#6472B9",
+    "id": "citadel-tone-pro-shalaxi-violet-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shalaxi Violet 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Purple",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#7E8BC8",
+    "id": "citadel-tone-pro-shalaxi-violet-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Shalaxi Violet 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#233F55",
+    "id": "citadel-tone-pro-stormwolf-blue-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stormwolf Blue 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#405568",
+    "id": "citadel-tone-pro-stormwolf-blue-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stormwolf Blue 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#54697D",
+    "id": "citadel-tone-pro-stormwolf-blue-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stormwolf Blue 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#6E95A4",
+    "id": "citadel-tone-pro-stormwolf-blue-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stormwolf Blue 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#87AFB9",
+    "id": "citadel-tone-pro-stormwolf-blue-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Stormwolf Blue 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Orange",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#BB5528",
+    "id": "citadel-tone-pro-taunar-ochre-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ta’unar Ochre 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Orange",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#D27144",
+    "id": "citadel-tone-pro-taunar-ochre-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ta’unar Ochre 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Orange",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#E78344",
+    "id": "citadel-tone-pro-taunar-ochre-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ta’unar Ochre 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Orange",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#EA9B6B",
+    "id": "citadel-tone-pro-taunar-ochre-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ta’unar Ochre 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Orange",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#E9B06E",
+    "id": "citadel-tone-pro-taunar-ochre-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ta’unar Ochre 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#001A42",
+    "id": "citadel-tone-pro-ultramar-blue-1",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramar Blue 1",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#0F3062",
+    "id": "citadel-tone-pro-ultramar-blue-2",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramar Blue 2",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#0D4F88",
+    "id": "citadel-tone-pro-ultramar-blue-3",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramar Blue 3",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#436CA1",
+    "id": "citadel-tone-pro-ultramar-blue-4",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramar Blue 4",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  },
+  {
+    "brand": "Games Workshop",
+    "brandData": {},
+    "category": "Tone Pro",
+    "colourRange": "Blue",
+    "currency": "GBP",
+    "discontinued": false,
+    "hex": "#6D9ECF",
+    "id": "citadel-tone-pro-ultramar-blue-5",
+    "impcat": {
+      "layerId": null,
+      "shadeId": null
+    },
+    "name": "Ultramar Blue 5",
+    "price": 4.1,
+    "range": "Citadel Tone Pro",
+    "sku": "",
+    "type": "opaque",
+    "url": ""
+  }
+]
